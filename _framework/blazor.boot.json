@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "ConsentWebApp",
   "resources": {
-    "hash": "sha256-AEssRBzcxGA3ZnChjtAWT7fNygJOxQHUicVyM9Z9thw=",
+    "hash": "sha256-yW22NbwemuKk41/eMQ28fxXnYWu99RtAJfZD8sqjn3U=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Components.3f2s3srsxx.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Forms.htcukg2u2z.wasm": "Microsoft.AspNetCore.Components.Forms.wasm",
@@ -61,7 +61,7 @@
       "System.Xml.XDocument.bh6q24w1sa.wasm": "System.Xml.XDocument.wasm",
       "System.m0fu6d0eya.wasm": "System.wasm",
       "System.Private.CoreLib.u0xjdvornb.wasm": "System.Private.CoreLib.wasm",
-      "ConsentApp.Components.0mb28rec44.wasm": "ConsentApp.Components.wasm",
+      "ConsentApp.Components.u1pb36tl38.wasm": "ConsentApp.Components.wasm",
       "ConsentWebApp.9u5399g3hy.wasm": "ConsentWebApp.wasm",
       "dotnet.js": "dotnet.js",
       "dotnet.native.9ih887ebfz.js": "dotnet.native.js",
@@ -146,7 +146,7 @@
       "System.Xml.Linq.qsgzs1hc1j.wasm": "sha256-yo+J3RWIIHIiwAhqsR9JizNkH/+hd3auB44RBmvvLoI=",
       "System.Xml.XDocument.bh6q24w1sa.wasm": "sha256-sUpLFuNZQPCWGlQhhlmQjvC+8foGtglJhLTZ0lvunDY=",
       "System.m0fu6d0eya.wasm": "sha256-hkGLo/MuT/FJ0Xf4XUL0D2VA4dZV532GHNB1JicxLko=",
-      "ConsentApp.Components.0mb28rec44.wasm": "sha256-uCRwG817Hk2hEgoH47OPJfljUAqAiPJwqwqDQdpZjW8=",
+      "ConsentApp.Components.u1pb36tl38.wasm": "sha256-kh4Iqu83ARFsp+8EjopmCrCFCV9MHNMQsGgb1RdgqAs=",
       "ConsentWebApp.9u5399g3hy.wasm": "sha256-r5LiugLuMVXciLLfAmPz25GRSSe0EjfddkCeFDSM90A="
     }
   },
