@@ -5,15 +5,15 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Consent Web App</title>
-    <base href="/" id="dynamic-base">
     <script>
-        // Dynamically set base path for GitHub Pages deployment
+        // Set base href immediately to prevent 404s for static assets
         (function () {
-            var base = document.getElementById('dynamic-base');
-            var path = window.location.pathname.includes('/ConsentWebApp')
-                ? '/ConsentWebApp/'
-                : '/';
-            base.setAttribute('href', path);
+            var path = window.location.pathname;
+            var baseHref = "/";
+            if (path.indexOf("/ConsentWebApp") !== -1) {
+                baseHref = "/ConsentWebApp/";
+            }
+            document.write('<base href="' + baseHref + '" />');
         })();
     </script>
 

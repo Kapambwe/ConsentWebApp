@@ -1,15 +1,15 @@
 {
   "mainAssemblyName": "ConsentWebApp",
   "resources": {
-    "hash": "sha256-o++bVo2HPnkN4iI+lMfqGf7UDPOItsgYb1B29C/b4ig=",
+    "hash": "sha256-Nvr4pu9pyN9iFk9xGhoCqmi5OFuD5+0pFNXLPH8WSO4=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.gxctbuaise.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.i0mx0ee7ku.wasm": "Microsoft.AspNetCore.Components.wasm",
-      "Microsoft.AspNetCore.Components.Authorization.9xrpprkzwl.wasm": "Microsoft.AspNetCore.Components.Authorization.wasm",
+      "Microsoft.AspNetCore.Components.Authorization.oe8ql89d4q.wasm": "Microsoft.AspNetCore.Components.Authorization.wasm",
       "Microsoft.AspNetCore.Components.Forms.ebvvy3tgak.wasm": "Microsoft.AspNetCore.Components.Forms.wasm",
       "Microsoft.AspNetCore.Components.Web.wycwj71cfj.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
       "Microsoft.AspNetCore.Components.WebAssembly.8rvpg40l6l.wasm": "Microsoft.AspNetCore.Components.WebAssembly.wasm",
-      "Microsoft.AspNetCore.Metadata.lpm0orwair.wasm": "Microsoft.AspNetCore.Metadata.wasm",
+      "Microsoft.AspNetCore.Metadata.7ratitftie.wasm": "Microsoft.AspNetCore.Metadata.wasm",
       "Microsoft.Extensions.Configuration.iclqaprdn6.wasm": "Microsoft.Extensions.Configuration.wasm",
       "Microsoft.Extensions.Configuration.Abstractions.u3l5g6tuv0.wasm": "Microsoft.Extensions.Configuration.Abstractions.wasm",
       "Microsoft.Extensions.Configuration.Json.7d9a22amlg.wasm": "Microsoft.Extensions.Configuration.Json.wasm",
@@ -66,7 +66,7 @@
       "System.dqfxtvioy0.wasm": "System.wasm",
       "System.Private.CoreLib.kxi7mc1spc.wasm": "System.Private.CoreLib.wasm",
       "ConsentApp.Components.dx089hhu1r.wasm": "ConsentApp.Components.wasm",
-      "ConsentWebApp.krb9gcpurr.wasm": "ConsentWebApp.wasm",
+      "ConsentWebApp.7t78rkf7lr.wasm": "ConsentWebApp.wasm",
       "dotnet.native.qbca6pwzhg.js": "dotnet.native.js",
       "dotnet.native.fyj3n9fvp3.wasm": "dotnet.native.wasm",
       "dotnet.js": "dotnet.js",
@@ -96,11 +96,11 @@
     "assembly": {
       "Microsoft.AspNetCore.Authorization.gxctbuaise.wasm": "sha256-TNYWI7zz81SDPOPS44AD9zCzA8O0JSZ/XRQukABu6qY=",
       "Microsoft.AspNetCore.Components.i0mx0ee7ku.wasm": "sha256-TnoQ0QfJkWiII09biYFXF1Vakp4bixm0F7+Cj8EBRcs=",
-      "Microsoft.AspNetCore.Components.Authorization.9xrpprkzwl.wasm": "sha256-Y6HZMHg6lliYEVS1rmLTwIjJlot6acnr/udD8akGmX8=",
+      "Microsoft.AspNetCore.Components.Authorization.oe8ql89d4q.wasm": "sha256-ENLesS2lWaAOveOJaVFqKdNM3gyQKdcveEfootco6Eg=",
       "Microsoft.AspNetCore.Components.Forms.ebvvy3tgak.wasm": "sha256-Ss6gJ5E2bZgOKag//q6IVKmoIfm3Klbvp2hNhQ+PK+E=",
       "Microsoft.AspNetCore.Components.Web.wycwj71cfj.wasm": "sha256-qIg9EGpkvO1DuPN99iJ/HA25+D1qYk/b8ewUfY1No5g=",
       "Microsoft.AspNetCore.Components.WebAssembly.8rvpg40l6l.wasm": "sha256-/LKjWUEYS5OY9kVxNREyBCHuzK8e0gPPy3v2iHBAzr0=",
-      "Microsoft.AspNetCore.Metadata.lpm0orwair.wasm": "sha256-B6mKsWRkom28oOGzWRaE1DE3bLHs59wGg4eHoS6f0X4=",
+      "Microsoft.AspNetCore.Metadata.7ratitftie.wasm": "sha256-s/FvG7U5ugFleh6rEuS9vtrsiqw2mLs6NocEPDE7Xvg=",
       "Microsoft.Extensions.Configuration.iclqaprdn6.wasm": "sha256-kizMyczNs6pFkLVfw3WQsZxAo/8HgmtiDuHyKMQLmpA=",
       "Microsoft.Extensions.Configuration.Abstractions.u3l5g6tuv0.wasm": "sha256-GjI9vkQKnVxmTLe8o7kZYAwFxKE0/UQnSKrzxuXGAsQ=",
       "Microsoft.Extensions.Configuration.Json.7d9a22amlg.wasm": "sha256-FQjLsQaz4KTpgQKQkcTn5A5IuUgcYT6MpYuBsN/vjX0=",
@@ -155,7 +155,7 @@
       "System.Xml.XDocument.rh8m9vtem3.wasm": "sha256-f6neACBQu4MhCYFb7NW4pbUrxxApwkLbk1oTRYSj1fA=",
       "System.dqfxtvioy0.wasm": "sha256-5QZAjy4n7513fYxCXSXTsAkUmRsLiZ8m621Ot4k7FB0=",
       "ConsentApp.Components.dx089hhu1r.wasm": "sha256-sdMJ3noXOL4mmQAWmZuh9wiD/jps2MqZlFdeYqSjZuc=",
-      "ConsentWebApp.krb9gcpurr.wasm": "sha256-0HO7xF8euxsQ8BMZtDOdoPRUahp+RNc6IFkfmSZZQxE="
+      "ConsentWebApp.7t78rkf7lr.wasm": "sha256-das6wq0uxfvsWVQhPwRYAcHhKMUsnMZep+mB9I2IVdY="
     }
   },
   "cacheBootResources": true,
