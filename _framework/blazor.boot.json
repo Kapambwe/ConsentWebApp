@@ -1,9 +1,9 @@
 {
   "mainAssemblyName": "ConsentWebApp",
   "resources": {
-    "hash": "sha256-Nvr4pu9pyN9iFk9xGhoCqmi5OFuD5+0pFNXLPH8WSO4=",
+    "hash": "sha256-xOxfotkPndBtfihSvwn/bE9sOcvLWdQ5glrHYSwOd/U=",
     "fingerprinting": {
-      "Microsoft.AspNetCore.Authorization.gxctbuaise.wasm": "Microsoft.AspNetCore.Authorization.wasm",
+      "Microsoft.AspNetCore.Authorization.n9ta6nxiks.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.i0mx0ee7ku.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Authorization.oe8ql89d4q.wasm": "Microsoft.AspNetCore.Components.Authorization.wasm",
       "Microsoft.AspNetCore.Components.Forms.ebvvy3tgak.wasm": "Microsoft.AspNetCore.Components.Forms.wasm",
@@ -66,7 +66,7 @@
       "System.dqfxtvioy0.wasm": "System.wasm",
       "System.Private.CoreLib.kxi7mc1spc.wasm": "System.Private.CoreLib.wasm",
       "ConsentApp.Components.dx089hhu1r.wasm": "ConsentApp.Components.wasm",
-      "ConsentWebApp.7t78rkf7lr.wasm": "ConsentWebApp.wasm",
+      "ConsentWebApp.ift8ocic7f.wasm": "ConsentWebApp.wasm",
       "dotnet.native.qbca6pwzhg.js": "dotnet.native.js",
       "dotnet.native.fyj3n9fvp3.wasm": "dotnet.native.wasm",
       "dotnet.js": "dotnet.js",
@@ -94,7 +94,7 @@
       "System.Private.CoreLib.kxi7mc1spc.wasm": "sha256-mPFfGhZDK0ZyzoUMoFDOTAw8zhnNTt7o51fC9GmG76U="
     },
     "assembly": {
-      "Microsoft.AspNetCore.Authorization.gxctbuaise.wasm": "sha256-TNYWI7zz81SDPOPS44AD9zCzA8O0JSZ/XRQukABu6qY=",
+      "Microsoft.AspNetCore.Authorization.n9ta6nxiks.wasm": "sha256-q8Q7lAcVBcZDysNlk6tTp5z+kHcfPXlA2dcp9JyNRu4=",
       "Microsoft.AspNetCore.Components.i0mx0ee7ku.wasm": "sha256-TnoQ0QfJkWiII09biYFXF1Vakp4bixm0F7+Cj8EBRcs=",
       "Microsoft.AspNetCore.Components.Authorization.oe8ql89d4q.wasm": "sha256-ENLesS2lWaAOveOJaVFqKdNM3gyQKdcveEfootco6Eg=",
       "Microsoft.AspNetCore.Components.Forms.ebvvy3tgak.wasm": "sha256-Ss6gJ5E2bZgOKag//q6IVKmoIfm3Klbvp2hNhQ+PK+E=",
@@ -155,7 +155,7 @@
       "System.Xml.XDocument.rh8m9vtem3.wasm": "sha256-f6neACBQu4MhCYFb7NW4pbUrxxApwkLbk1oTRYSj1fA=",
       "System.dqfxtvioy0.wasm": "sha256-5QZAjy4n7513fYxCXSXTsAkUmRsLiZ8m621Ot4k7FB0=",
       "ConsentApp.Components.dx089hhu1r.wasm": "sha256-sdMJ3noXOL4mmQAWmZuh9wiD/jps2MqZlFdeYqSjZuc=",
-      "ConsentWebApp.7t78rkf7lr.wasm": "sha256-das6wq0uxfvsWVQhPwRYAcHhKMUsnMZep+mB9I2IVdY="
+      "ConsentWebApp.ift8ocic7f.wasm": "sha256-/i5qAgGAotcWSjgeD2DszP2OJss3/Nu+kfa6kd11OBo="
     }
   },
   "cacheBootResources": true,
