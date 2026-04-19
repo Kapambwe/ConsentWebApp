@@ -1,0 +1,157 @@
+{
+  "zambia": {
+    "bank": [
+      "zambia-commercial-bank",
+      "absa-bank-zambia",
+      "stanbic-bank"
+    ],
+    "insurance": [
+      "protect-insurance",
+      "madison-insurance"
+    ],
+    "pension-fund": [
+      "national-pension-authority"
+    ],
+    "ngo": [
+      "agri-aid-international"
+    ],
+    "government": [
+      "ministry-of-finance",
+      "bank-of-zambia"
+    ],
+    "farmer": [
+      "banda-smallholdings"
+    ],
+    "mutual-fund": [
+      "zambia-wealth-management",
+      "capital-growth-fund"
+    ],
+    "investment-bank": [
+      "indeco-investment-bank",
+      "lusaka-capital-partners"
+    ],
+    "micro-finance": [
+      "agri-loan-microfinance",
+      "community-savings-zambia"
+    ]
+  },
+  "kenya": {
+    "bank": [
+      "kcb-bank",
+      "equity-bank"
+    ],
+    "pension-fund": [
+      "kenya-national-pension-fund",
+      "blue-chip-pension"
+    ],
+    "insurance": [
+      "jubilee-insurance-kenya",
+      "uap-old-mutual-kenya"
+    ],
+    "farmer": [
+      "kamau-highlands-farm"
+    ],
+    "private-investor": [
+      "safari-capital-partners",
+      "nairobi-angel-network"
+    ]
+  },
+  "south-africa": {
+    "bank": [
+      "standard-bank",
+      "fnb-south-africa",
+      "nedbank",
+      "absa-group"
+    ],
+    "investment-bank": [
+      "investec-sa",
+      "rand-merchant-bank"
+    ],
+    "private-investor": [
+      "cape-town-equity-partners",
+      "joburg-venture-capital"
+    ],
+    "insurance": [
+      "old-mutual",
+      "discovery-limited"
+    ],
+    "government": [
+      "south-african-reserve-bank",
+      "national-treasury-sa"
+    ]
+  },
+  "zimbabwe": {
+    "bank": [
+      "cbz-bank",
+      "steward-bank",
+      "stanbic-zimbabwe"
+    ],
+    "government": [
+      "reserve-bank-of-zimbabwe"
+    ]
+  },
+  "malawi": {
+    "bank": [
+      "national-bank-of-malawi",
+      "standard-bank-malawi"
+    ],
+    "government": [
+      "reserve-bank-of-malawi"
+    ]
+  },
+  "botswana": {
+    "bank": [
+      "bank-gaborone",
+      "fnbb-botswana"
+    ],
+    "government": [
+      "bank-of-botswana"
+    ]
+  },
+  "namibia": {
+    "bank": [
+      "bank-windhoek",
+      "fnb-namibia"
+    ],
+    "government": [
+      "bank-of-namibia"
+    ]
+  },
+  "tanzania": {
+    "bank": [
+      "crdb-bank",
+      "nmb-bank-tanzania"
+    ],
+    "government": [
+      "bank-of-tanzania"
+    ]
+  },
+  "uganda": {
+    "bank": [
+      "stanbic-uganda",
+      "centenary-bank"
+    ],
+    "government": [
+      "bank-of-uganda"
+    ]
+  },
+  "nigeria": {
+    "bank": [
+      "access-bank",
+      "zenith-bank",
+      "gtbank",
+      "first-bank-nigeria"
+    ],
+    "insurance": [
+      "leadway-assurance"
+    ],
+    "government": [
+      "central-bank-of-nigeria"
+    ]
+  },
+  "usa": {
+    "multinational": [
+      "global-agro-corp"
+    ]
+  }
+}

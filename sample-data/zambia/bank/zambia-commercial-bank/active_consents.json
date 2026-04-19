@@ -1,0 +1,26 @@
+[
+  {
+    "consentId": "c-001",
+    "customerId": "farmer-101",
+    "customerName": "John Phiri",
+    "consentType": "FarmingData",
+    "purpose": "Credit Assessment for Agri-Loan",
+    "grantedDate": "2026-04-01T10:00:00",
+    "expiryDate": "2027-04-01T10:00:00",
+    "status": "Active",
+    "scope": "Read-Only",
+    "dataCategories": "LandParcels, CropYields, Equipment"
+  },
+  {
+    "consentId": "c-002",
+    "customerId": "sme-202",
+    "customerName": "Lusaka Poultry Ltd",
+    "consentType": "Financials",
+    "purpose": "Annual Review",
+    "grantedDate": "2026-03-15T09:30:00",
+    "expiryDate": "2026-09-15T09:30:00",
+    "status": "Active",
+    "scope": "Full-Access",
+    "dataCategories": "BalanceSheet, IncomeStatement, CashFlow"
+  }
+]

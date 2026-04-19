@@ -1,0 +1,368 @@
+{
+  "portfolio": {
+    "institutionId": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+    "institutionName": "Development Bank of Zambia",
+    "totalUnderwrittenValue": 7250000.00,
+    "atRiskCount": 4,
+    "activeSubjects": 42,
+    "averagePortfolioHealth": 84.2
+  },
+  "requests": [
+    {
+      "requestId": "11111111-0000-0000-0000-000000000001",
+      "subjectId": "aaaaaaaa-0000-0000-0000-000000000001",
+      "subjectName": "Mwansa's Poultry Farm",
+      "purposeTemplate": "Loan Underwriting – Financial & Operational Data",
+      "status": 1,
+      "requestedOn": "2024-11-01T08:30:00Z",
+      "expiresOn": "2025-05-01T08:30:00Z"
+    },
+    {
+      "requestId": "11111111-0000-0000-0000-000000000002",
+      "subjectId": "aaaaaaaa-0000-0000-0000-000000000002",
+      "subjectName": "Kitwe Mineral Logistics",
+      "purposeTemplate": "Risk Assessment – Operational Compliance",
+      "status": 1,
+      "requestedOn": "2024-10-15T09:00:00Z",
+      "expiresOn": "2025-04-15T09:00:00Z"
+    },
+    {
+      "requestId": "11111111-0000-0000-0000-000000000003",
+      "subjectId": "aaaaaaaa-0000-0000-0000-000000000003",
+      "subjectName": "Kabwe Onion Growers Cooperative",
+      "purposeTemplate": "Credit Scoring – Revenue & Asset Verification",
+      "status": 0,
+      "requestedOn": "2024-12-01T11:00:00Z",
+      "expiresOn": null
+    },
+    {
+      "requestId": "11111111-0000-0000-0000-000000000004",
+      "subjectId": "aaaaaaaa-0000-0000-0000-000000000004",
+      "subjectName": "Chipata Honey Co-operative",
+      "purposeTemplate": "Supply Chain Finance – Contract & Inventory Data",
+      "status": 1,
+      "requestedOn": "2024-09-20T07:45:00Z",
+      "expiresOn": "2025-03-20T07:45:00Z"
+    },
+    {
+      "requestId": "11111111-0000-0000-0000-000000000005",
+      "subjectId": "aaaaaaaa-0000-0000-0000-000000000005",
+      "subjectName": "Lusaka Fresh Produce Distributors",
+      "purposeTemplate": "Loan Underwriting – Financial & Operational Data",
+      "status": 2,
+      "requestedOn": "2024-08-10T10:00:00Z",
+      "expiresOn": "2024-11-10T10:00:00Z"
+    },
+    {
+      "requestId": "11111111-0000-0000-0000-000000000006",
+      "subjectId": "aaaaaaaa-0000-0000-0000-000000000006",
+      "subjectName": "Ndola Textile Manufacturers Ltd",
+      "purposeTemplate": "Investment Due Diligence – Full Business Profile",
+      "status": 0,
+      "requestedOn": "2024-12-10T14:00:00Z",
+      "expiresOn": null
+    },
+    {
+      "requestId": "11111111-0000-0000-0000-000000000007",
+      "subjectId": "aaaaaaaa-0000-0000-0000-000000000007",
+      "subjectName": "Mansa Rubber Processors",
+      "purposeTemplate": "Export Readiness Audit",
+      "status": 1,
+      "requestedOn": "2024-12-05T08:00:00Z",
+      "expiresOn": "2025-06-05T08:00:00Z"
+    },
+    {
+      "requestId": "11111111-0000-0000-0000-000000000008",
+      "subjectId": "aaaaaaaa-0000-0000-0000-000000000008",
+      "subjectName": "Mazabuka Sugar Outgrowers",
+      "purposeTemplate": "Green Finance Eligibility Verification",
+      "status": 1,
+      "requestedOn": "2024-11-20T10:30:00Z",
+      "expiresOn": "2025-05-20T10:30:00Z"
+    },
+    {
+      "requestId": "11111111-0000-0000-0000-000000000009",
+      "subjectId": "aaaaaaaa-0000-0000-0000-000000000009",
+      "subjectName": "Livingstone Handicrafts Co-op",
+      "purposeTemplate": "Micro-Loan Performance Monitoring",
+      "status": 1,
+      "requestedOn": "2024-10-05T09:15:00Z",
+      "expiresOn": "2025-04-05T09:15:00Z"
+    },
+    {
+      "requestId": "11111111-0000-0000-0000-000000000010",
+      "subjectId": "aaaaaaaa-0000-0000-0000-000000000010",
+      "subjectName": "Chingola Tech Solutions",
+      "purposeTemplate": "R&D Grant Compliance Review",
+      "status": 0,
+      "requestedOn": "2024-12-15T11:45:00Z",
+      "expiresOn": null
+    }
+  ],
+  "opportunities": [
+    {
+      "subjectId": "aaaaaaaa-0000-0000-0000-000000000001",
+      "businessName": "Mwansa's Poultry Farm",
+      "sector": "Agriculture",
+      "disciplineScore": 91.5,
+      "taskCompletionRate": 88.0,
+      "verifiedRevenue": 285000.00,
+      "totalAssetValue": 420000.00,
+      "taxComplianceStatus": "Compliant",
+      "activeContractCount": 4,
+      "lastMonthGrowth": 3.2
+    },
+    {
+      "subjectId": "aaaaaaaa-0000-0000-0000-000000000002",
+      "businessName": "Kitwe Mineral Logistics",
+      "sector": "Mining",
+      "disciplineScore": 84.0,
+      "taskCompletionRate": 79.5,
+      "verifiedRevenue": 1200000.00,
+      "totalAssetValue": 3800000.00,
+      "taxComplianceStatus": "Compliant",
+      "activeContractCount": 7,
+      "lastMonthGrowth": 1.8
+    },
+    {
+      "subjectId": "aaaaaaaa-0000-0000-0000-000000000003",
+      "businessName": "Kabwe Onion Growers Cooperative",
+      "sector": "Agriculture",
+      "disciplineScore": 76.0,
+      "taskCompletionRate": 72.0,
+      "verifiedRevenue": 95000.00,
+      "totalAssetValue": 185000.00,
+      "taxComplianceStatus": "Pending Review",
+      "activeContractCount": 2,
+      "lastMonthGrowth": 5.1
+    },
+    {
+      "subjectId": "aaaaaaaa-0000-0000-0000-000000000004",
+      "businessName": "Chipata Honey Co-operative",
+      "sector": "Agriculture",
+      "disciplineScore": 88.5,
+      "taskCompletionRate": 92.0,
+      "verifiedRevenue": 145000.00,
+      "totalAssetValue": 210000.00,
+      "taxComplianceStatus": "Compliant",
+      "activeContractCount": 5,
+      "lastMonthGrowth": 7.4
+    },
+    {
+      "subjectId": "aaaaaaaa-0000-0000-0000-000000000005",
+      "businessName": "Lusaka Fresh Produce Distributors",
+      "sector": "Trade",
+      "disciplineScore": 63.0,
+      "taskCompletionRate": 61.0,
+      "verifiedRevenue": 320000.00,
+      "totalAssetValue": 480000.00,
+      "taxComplianceStatus": "Non-Compliant",
+      "activeContractCount": 3,
+      "lastMonthGrowth": -1.2
+    },
+    {
+      "subjectId": "aaaaaaaa-0000-0000-0000-000000000006",
+      "businessName": "Ndola Textile Manufacturers Ltd",
+      "sector": "Manufacturing",
+      "disciplineScore": 79.5,
+      "taskCompletionRate": 83.0,
+      "verifiedRevenue": 650000.00,
+      "totalAssetValue": 1100000.00,
+      "taxComplianceStatus": "Compliant",
+      "activeContractCount": 6,
+      "lastMonthGrowth": 2.9
+    },
+    {
+      "subjectId": "aaaaaaaa-0000-0000-0000-000000000007",
+      "businessName": "Solwezi Copper Artisans Co-op",
+      "sector": "Mining",
+      "disciplineScore": 72.0,
+      "taskCompletionRate": 68.5,
+      "verifiedRevenue": 175000.00,
+      "totalAssetValue": 290000.00,
+      "taxComplianceStatus": "Compliant",
+      "activeContractCount": 2,
+      "lastMonthGrowth": 4.0
+    },
+    {
+      "subjectId": "aaaaaaaa-0000-0000-0000-000000000008",
+      "businessName": "Livingstone Tourism Services Ltd",
+      "sector": "Tourism",
+      "disciplineScore": 85.0,
+      "taskCompletionRate": 87.5,
+      "verifiedRevenue": 420000.00,
+      "totalAssetValue": 870000.00,
+      "taxComplianceStatus": "Compliant",
+      "activeContractCount": 8,
+      "lastMonthGrowth": 6.3
+    },
+    {
+      "subjectId": "aaaaaaaa-0000-0000-0000-000000000009",
+      "businessName": "Mansa Rubber Processors",
+      "sector": "Manufacturing",
+      "disciplineScore": 94.0,
+      "taskCompletionRate": 96.5,
+      "verifiedRevenue": 890000.00,
+      "totalAssetValue": 1540000.00,
+      "taxComplianceStatus": "Compliant",
+      "activeContractCount": 12,
+      "lastMonthGrowth": 5.8
+    },
+    {
+      "subjectId": "aaaaaaaa-0000-0000-0000-000000000010",
+      "businessName": "Mazabuka Sugar Outgrowers",
+      "sector": "Agriculture",
+      "disciplineScore": 81.2,
+      "taskCompletionRate": 84.0,
+      "verifiedRevenue": 560000.00,
+      "totalAssetValue": 920000.00,
+      "taxComplianceStatus": "Compliant",
+      "activeContractCount": 9,
+      "lastMonthGrowth": 4.1
+    },
+    {
+      "subjectId": "aaaaaaaa-0000-0000-0000-000000000011",
+      "businessName": "Chingola Tech Solutions",
+      "sector": "Technology",
+      "disciplineScore": 89.5,
+      "taskCompletionRate": 91.0,
+      "verifiedRevenue": 450000.00,
+      "totalAssetValue": 320000.00,
+      "taxComplianceStatus": "Compliant",
+      "activeContractCount": 5,
+      "lastMonthGrowth": 12.5
+    },
+    {
+      "subjectId": "aaaaaaaa-0000-0000-0000-000000000012",
+      "businessName": "Nakonde Border Logistics",
+      "sector": "Logistics",
+      "disciplineScore": 77.8,
+      "taskCompletionRate": 80.5,
+      "verifiedRevenue": 1100000.00,
+      "totalAssetValue": 2400000.00,
+      "taxComplianceStatus": "Compliant",
+      "activeContractCount": 15,
+      "lastMonthGrowth": 3.7
+    }
+  ],
+  "verificationHistory": [
+    {
+      "id": "cccccccc-0000-0000-0000-000000000001",
+      "timestamp": "2024-12-01T09:15:00Z",
+      "sourceSystem": "ZRA",
+      "dataPoint": "VAT Return Q3 2024 Filed",
+      "verificationStatus": "Verified",
+      "hashSignature": "sha256:a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4"
+    },
+    {
+      "id": "cccccccc-0000-0000-0000-000000000002",
+      "timestamp": "2024-11-28T11:30:00Z",
+      "sourceSystem": "PACRA",
+      "dataPoint": "Annual Return 2023 Filed",
+      "verificationStatus": "Verified",
+      "hashSignature": "sha256:b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5"
+    },
+    {
+      "id": "cccccccc-0000-0000-0000-000000000003",
+      "timestamp": "2024-11-20T08:00:00Z",
+      "sourceSystem": "NAPSA",
+      "dataPoint": "Employee Contributions Oct 2024",
+      "verificationStatus": "Verified",
+      "hashSignature": "sha256:c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6"
+    },
+    {
+      "id": "cccccccc-0000-0000-0000-000000000004",
+      "timestamp": "2024-11-15T14:45:00Z",
+      "sourceSystem": "BOZ",
+      "dataPoint": "Bank Statement Reconciliation Nov 2024",
+      "verificationStatus": "Verified",
+      "hashSignature": "sha256:d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1"
+    },
+    {
+      "id": "cccccccc-0000-0000-0000-000000000005",
+      "timestamp": "2024-10-30T10:00:00Z",
+      "sourceSystem": "ZDA",
+      "dataPoint": "Investment Certificate Renewal",
+      "verificationStatus": "Pending",
+      "hashSignature": ""
+    },
+    {
+      "id": "cccccccc-0000-0000-0000-000000000006",
+      "timestamp": "2024-10-10T09:30:00Z",
+      "sourceSystem": "ZRA",
+      "dataPoint": "PAYE Compliance Q2 2024",
+      "verificationStatus": "Verified",
+      "hashSignature": "sha256:e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2"
+    },
+    {
+      "id": "cccccccc-0000-0000-0000-000000000007",
+      "timestamp": "2024-12-18T15:20:00Z",
+      "sourceSystem": "WARMA",
+      "dataPoint": "Water Rights Usage Audit Dec 2024",
+      "verificationStatus": "Verified",
+      "hashSignature": "sha256:f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4"
+    },
+    {
+      "id": "cccccccc-0000-0000-0000-000000000008",
+      "timestamp": "2024-12-14T11:10:00Z",
+      "sourceSystem": "CEEC",
+      "dataPoint": "Empowerment Fund Usage Report",
+      "verificationStatus": "Verified",
+      "hashSignature": "sha256:a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5"
+    },
+    {
+      "id": "cccccccc-0000-0000-0000-000000000009",
+      "timestamp": "2024-12-10T09:45:00Z",
+      "sourceSystem": "ZEMA",
+      "dataPoint": "Environmental Impact Assessment Review",
+      "verificationStatus": "Verified",
+      "hashSignature": "sha256:b1c2d3e4f5a1b2c3d4e5f6a1b2c3d4e5f6"
+    },
+    {
+      "id": "cccccccc-0000-0000-0000-000000000010",
+      "timestamp": "2024-12-05T14:30:00Z",
+      "sourceSystem": "NHIMA",
+      "dataPoint": "Health Insurance Contributions Nov 2024",
+      "verificationStatus": "Verified",
+      "hashSignature": "sha256:c1d2e3f4a5b6c1d2e3f4a5b6c1d2e3f4a5"
+    }
+  ],
+  "warehouseReceipts": [
+    {
+      "receiptId": "dddddddd-0000-0000-0000-000000000001",
+      "warehouseName": "Zambia National Farmers Union Silo – Kabwe",
+      "commodityType": "Maize",
+      "quantity": 500.0,
+      "unit": "MT",
+      "marketValue": 195000.00,
+      "depositDate": "2024-06-15T00:00:00Z",
+      "expiryDate": "2025-06-15T00:00:00Z",
+      "isEncumbered": true,
+      "verificationHash": "sha256:f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3"
+    },
+    {
+      "receiptId": "dddddddd-0000-0000-0000-000000000002",
+      "warehouseName": "Eastern Province Grain Store – Chipata",
+      "commodityType": "Soya Beans",
+      "quantity": 280.0,
+      "unit": "MT",
+      "marketValue": 134400.00,
+      "depositDate": "2024-07-01T00:00:00Z",
+      "expiryDate": "2025-07-01T00:00:00Z",
+      "isEncumbered": false,
+      "verificationHash": "sha256:a2b3c4d5e6f7a2b3c4d5e6f7a2b3c4d5"
+    },
+    {
+      "receiptId": "dddddddd-0000-0000-0000-000000000003",
+      "warehouseName": "Copperbelt Bonded Warehouse – Ndola",
+      "commodityType": "Copper Concentrate",
+      "quantity": 12.5,
+      "unit": "MT",
+      "marketValue": 87500.00,
+      "depositDate": "2024-09-10T00:00:00Z",
+      "expiryDate": "2025-03-10T00:00:00Z",
+      "isEncumbered": true,
+      "verificationHash": "sha256:b3c4d5e6f7a2b3c4d5e6f7a2b3c4d5e6"
+    }
+  ]
+}

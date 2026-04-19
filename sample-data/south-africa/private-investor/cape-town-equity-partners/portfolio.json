@@ -1,0 +1,5 @@
+[
+  { "company": "MediConnect SA", "sector": "HealthTech", "equity": 15.5, "valuation": 25000000.0 },
+  { "company": "PayZim", "sector": "FinTech", "equity": 10.0, "valuation": 45000000.0 },
+  { "company": "EcoWind", "sector": "Renewables", "equity": 25.0, "valuation": 12000000.0 }
+]

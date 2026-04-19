@@ -1,0 +1,20 @@
+{
+  "Portfolio": {
+    "TotalUnderwrittenValue": 1000000.50,
+    "AtRiskCount": 50,
+    "ActiveSubjects": 250,
+    "AveragePortfolioHealth": 8.5
+  },
+  "Requests": [],
+  "Opportunities": [
+    {
+      "SubjectId": "00000000-0000-0000-0000-000000000001",
+      "SubjectName": "AgriCo Zambia",
+      "DisciplineScore": 9.0,
+      "DisciplineName": "Farming",
+      "PurposeTemplate": "General Agricultural Loan"
+    }
+  ],
+  "VerificationHistory": [],
+  "WarehouseReceipts": []
+}

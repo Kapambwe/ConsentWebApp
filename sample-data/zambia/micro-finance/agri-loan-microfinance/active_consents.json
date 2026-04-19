@@ -1,0 +1,14 @@
+[
+  {
+    "consentId": "c-mfi-001",
+    "customerId": "farmer-777",
+    "customerName": "Isaac Phiri",
+    "consentType": "FarmingData",
+    "purpose": "Input Loan Assessment",
+    "grantedDate": "2025-11-15T10:00:00",
+    "expiryDate": "2026-11-15T10:00:00",
+    "status": "Active",
+    "scope": "Read-Only",
+    "dataCategories": "LandSize, PreviousYields"
+  }
+]

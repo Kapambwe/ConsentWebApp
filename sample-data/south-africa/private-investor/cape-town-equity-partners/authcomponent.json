@@ -1,0 +1,16 @@
+[
+  {
+    "componentId": "PI-AUTH-001",
+    "institutionId": "Cape-Town-EP",
+    "componentName": "Private Equity Portfolio Tracker",
+    "componentType": "WebPortal",
+    "isActive": true,
+    "permissions": [
+      "PrivateInvestor.Access",
+      "PrivateInvestor.Marketplace.View",
+      "PrivateInvestor.DueDiligence.View",
+      "PrivateInvestor.ExitTracking.View"
+    ],
+    "description": "Investor portal for tracking startup equity and sector-wide marketplace opportunities"
+  }
+]

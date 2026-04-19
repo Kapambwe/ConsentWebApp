@@ -1,0 +1,20 @@
+[
+  {
+    "id": 4001,
+    "title": "Copper Mine Expansion Advisory",
+    "sector": "Mining",
+    "location": "Ndola, Zambia",
+    "verificationLevel": "Verified",
+    "description": "Advising on a $50M capital raise for deep-shaft copper mining operations.",
+    "shortDescription": "Advisory for $50M copper mine expansion.",
+    "requiredInvestment": 50000000,
+    "roiEstimate": 18,
+    "investmentTerm": 5,
+    "isVerified": true,
+    "ownerId": "ibank-001",
+    "ownerName": "Indeco Investment Bank",
+    "status": "Active",
+    "createdDate": "2025-10-01T00:00:00",
+    "updatedDate": "2026-03-15T00:00:00"
+  }
+]

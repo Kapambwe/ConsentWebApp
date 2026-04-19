@@ -1,0 +1,38 @@
+[
+  {
+    "id": 2001,
+    "title": "SME Agri-Lending Scheme",
+    "sector": "Agriculture",
+    "location": "Central Province, Zambia",
+    "verificationLevel": "Verified",
+    "description": "A dedicated fund for small-scale farmers to acquire irrigation equipment and high-quality seeds. The scheme uses warehouse receipts as collateral to reduce risk.",
+    "shortDescription": "Agri-lending fund using warehouse receipts as collateral for SMEs.",
+    "requiredInvestment": 500000,
+    "roiEstimate": 12,
+    "investmentTerm": 2,
+    "isVerified": true,
+    "ownerId": "bank-001",
+    "ownerName": "Zambia Commercial Bank",
+    "status": "Active",
+    "createdDate": "2026-01-15T00:00:00",
+    "updatedDate": "2026-04-10T00:00:00"
+  },
+  {
+    "id": 2002,
+    "title": "Clean Energy Infrastructure Fund",
+    "sector": "Energy",
+    "location": "Lusaka, Zambia",
+    "verificationLevel": "Verified",
+    "description": "Financing for solar-powered cold storage facilities in rural markets to reduce post-harvest losses for vegetable farmers.",
+    "shortDescription": "Solar cold storage financing for rural agricultural markets.",
+    "requiredInvestment": 1500000,
+    "roiEstimate": 15,
+    "investmentTerm": 5,
+    "isVerified": true,
+    "ownerId": "bank-001",
+    "ownerName": "Zambia Commercial Bank",
+    "status": "In Development",
+    "createdDate": "2026-03-01T00:00:00",
+    "updatedDate": "2026-04-15T00:00:00"
+  }
+]

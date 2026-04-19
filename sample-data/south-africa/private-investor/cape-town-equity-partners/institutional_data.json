@@ -1,0 +1,14 @@
+{
+  "portfolio": {
+    "institutionId": "7hd85f64-5717-4562-b3fc-2c963f66afb0",
+    "institutionName": "Cape Town Equity Partners",
+    "totalUnderwrittenValue": 150000000.0,
+    "atRiskCount": 2,
+    "activeSubjects": 18,
+    "averagePortfolioHealth": 92.4
+  },
+  "requests": [],
+  "opportunities": [],
+  "verificationHistory": [],
+  "warehouseReceipts": []
+}

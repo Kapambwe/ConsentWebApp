@@ -1,0 +1,14 @@
+{
+  "totalAssetsUnderManagement": 500000000.0,
+  "netAssetValue": 12.45,
+  "totalInvestors": 15000,
+  "topHoldings": [
+    { "asset": "Zambian Govt Bonds", "percentage": 35.0 },
+    { "asset": "ZCCM-IH", "percentage": 15.0 },
+    { "asset": "Copperbelt Energy Corp", "percentage": 12.0 }
+  ],
+  "recentActivities": [
+    { "id": 1, "description": "Dividend payout processed", "date": "2026-04-10T09:00:00" },
+    { "id": 2, "description": "New fund launch: Sustainable Agri-Bond", "date": "2026-04-15T14:00:00" }
+  ]
+}

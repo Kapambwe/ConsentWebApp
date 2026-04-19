@@ -1,0 +1,16 @@
+[
+  {
+    "componentId": "MF-AUTH-001",
+    "institutionId": "Zambia-WM",
+    "componentName": "Wealth Management Portal",
+    "componentType": "WebPortal",
+    "isActive": true,
+    "permissions": [
+      "MutualFund.Access",
+      "MutualFund.Dashboard.View",
+      "MutualFund.PortfolioManagement.View",
+      "MutualFund.InvestorRelations.View"
+    ],
+    "description": "Portal for fund performance tracking and investor asset management"
+  }
+]

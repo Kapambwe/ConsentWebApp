@@ -1,0 +1,27 @@
+{
+  "portfolio": {
+    "institutionId": "5fb85f64-5717-4562-b3fc-2c963f66afa8",
+    "institutionName": "Indeco Investment Bank",
+    "totalUnderwrittenValue": 1200000000.0,
+    "atRiskCount": 3,
+    "activeSubjects": 24,
+    "averagePortfolioHealth": 96.5
+  },
+  "requests": [],
+  "opportunities": [
+    {
+      "subjectId": "2d1e2f3g-4h5i-6d7e-8f9a0b1c2d3e4f5g",
+      "businessName": "Zambia Copper Mines",
+      "sector": "Mining",
+      "disciplineScore": 91.0,
+      "taskCompletionRate": 94.0,
+      "verifiedRevenue": 45000000.0,
+      "totalAssetValue": 150000000.0,
+      "taxComplianceStatus": "Compliant",
+      "activeContractCount": 8,
+      "lastMonthGrowth": 2.1
+    }
+  ],
+  "verificationHistory": [],
+  "warehouseReceipts": []
+}

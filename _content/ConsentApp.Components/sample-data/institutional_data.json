@@ -1,0 +1,94 @@
+{
+  "Portfolio": {
+    "InstitutionId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "InstitutionName": "Main Street Bank Zambia",
+    "TotalUnderwrittenValue": 12500000.00,
+    "AtRiskCount": 5,
+    "ActiveSubjects": 142,
+    "AveragePortfolioHealth": 88.4
+  },
+  "Requests": [
+    {
+      "RequestId": "a1b2c3d4-e5f6-4a5b-8c9d-0e1f2a3b4c5d",
+      "SubjectId": "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6e",
+      "SubjectName": "Mwansa's Poultry Farm",
+      "PurposeTemplate": "Agricultural Loan Underwriting",
+      "Status": 1,
+      "RequestedOn": "2026-04-05T10:00:00Z",
+      "ExpiresOn": "2027-04-05T10:00:00Z"
+    },
+    {
+      "RequestId": "j2k3l4m5-n6o7-4p8q-r9s0-t1u2v3w4x5y6",
+      "SubjectId": "g7h8i9j0-k1l2-4m3n-o4p5-q6r7s8t9u0v1",
+      "SubjectName": "Kabwe Onion Growers",
+      "PurposeTemplate": "Warehouse Receipt Financing",
+      "Status": 1,
+      "RequestedOn": "2026-04-14T08:00:00Z",
+      "ExpiresOn": "2026-10-14T08:00:00Z"
+    }
+  ],
+  "Opportunities": [
+    {
+      "SubjectId": "g7h8i9j0-k1l2-4m3n-o4p5-q6r7s8t9u0v1",
+      "BusinessName": "Kabwe Onion Growers",
+      "Sector": "Agriculture",
+      "DisciplineScore": 91.2,
+      "TaskCompletionRate": 95.0,
+      "VerifiedRevenue": 120000.0,
+      "TotalAssetValue": 45000.0,
+      "TaxComplianceStatus": "Compliant",
+      "ActiveContractCount": 2,
+      "LastMonthGrowth": 8.1
+    },
+    {
+      "SubjectId": "k1l2m3n4-o5p6-4q7r-s8t9-u0v1w2x3y4z5",
+      "BusinessName": "Ndola Cooking Oil Press",
+      "Sector": "Agro-Processing",
+      "DisciplineScore": 81.5,
+      "TaskCompletionRate": 84.0,
+      "VerifiedRevenue": 210000.0,
+      "TotalAssetValue": 120000.0,
+      "TaxComplianceStatus": "Compliant",
+      "ActiveContractCount": 3,
+      "LastMonthGrowth": 6.8
+    }
+  ],
+  "WarehouseReceipts": [
+    {
+      "ReceiptId": "r1e2c3e4-i5p6-4t7a-l8o9-g1o2l3d4r5e6",
+      "SubjectId": "g7h8i9j0-k1l2-4m3n-o4p5-q6r7s8t9u0v1",
+      "WarehouseName": "Zambia Agricultural Storage - Kabwe",
+      "CommodityType": "Onions",
+      "Quantity": 50.0,
+      "Unit": "MT",
+      "MarketValue": 45000.0,
+      "DepositDate": "2026-03-15T09:00:00Z",
+      "ExpiryDate": "2026-09-15T09:00:00Z",
+      "IsEncumbered": false,
+      "VerificationHash": "sha256:772w..."
+    },
+    {
+      "ReceiptId": "r9o8c7k6-f5i4-4v3e-l2u1-s0a1l2t3r4y5",
+      "SubjectId": "k1l2m3n4-o5p6-4q7r-s8t9-u0v1w2x3y4z5",
+      "WarehouseName": "Indeni Storage North",
+      "CommodityType": "Sunflower Oil",
+      "Quantity": 12000.0,
+      "Unit": "Litres",
+      "MarketValue": 120000.0,
+      "DepositDate": "2026-04-01T14:00:00Z",
+      "ExpiryDate": "2026-12-01T14:00:00Z",
+      "IsEncumbered": true,
+      "VerificationHash": "sha256:442o..."
+    }
+  ],
+  "VerificationHistory": [
+    {
+      "Id": "j0k1l2m3-n4o5-4p6q-r7s8-t9u0v1w2x3y4",
+      "Timestamp": "2026-04-14T08:00:00Z",
+      "SourceSystem": "ZRA",
+      "DataPoint": "Monthly VAT Filed",
+      "VerificationStatus": "Verified",
+      "HashSignature": "sha256:882x..."
+    }
+  ]
+}

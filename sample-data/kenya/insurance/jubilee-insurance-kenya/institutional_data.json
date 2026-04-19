@@ -1,0 +1,14 @@
+{
+  "portfolio": {
+    "institutionId": "9jf85f64-5717-4562-b3fc-2c963f66afb2",
+    "institutionName": "Jubilee Insurance Kenya",
+    "totalUnderwrittenValue": 500000000.0,
+    "atRiskCount": 500,
+    "activeSubjects": 120000,
+    "averagePortfolioHealth": 97.2
+  },
+  "requests": [],
+  "opportunities": [],
+  "verificationHistory": [],
+  "warehouseReceipts": []
+}

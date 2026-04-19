@@ -1,0 +1,16 @@
+[
+  {
+    "componentId": "IB-AUTH-001",
+    "institutionId": "Indeco-IB",
+    "componentName": "Investment Banking Deal-Room",
+    "componentType": "WebPortal",
+    "isActive": true,
+    "permissions": [
+      "InvestmentBank.Access",
+      "InvestmentBank.DealPipeline.View",
+      "InvestmentBank.Advisory.View",
+      "InvestmentBank.MarketInsights.View"
+    ],
+    "description": "Secure portal for corporate advisory and capital raise mandates"
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "portfolio": {
+    "institutionId": "6gc85f64-5717-4562-b3fc-2c963f66afa9",
+    "institutionName": "Kenya National Pension Fund",
+    "totalUnderwrittenValue": 2500000000.0,
+    "atRiskCount": 45,
+    "activeSubjects": 850000,
+    "averagePortfolioHealth": 98.8
+  },
+  "requests": [],
+  "opportunities": [
+    {
+      "subjectId": "3e1e2f3g-4h5i-6d7e-8f9a0b1c2d3e4f5h",
+      "businessName": "Nairobi Expressway Corp",
+      "sector": "Infrastructure",
+      "disciplineScore": 96.0,
+      "taskCompletionRate": 99.0,
+      "verifiedRevenue": 85000000.0,
+      "totalAssetValue": 500000000.0,
+      "taxComplianceStatus": "Compliant",
+      "activeContractCount": 1,
+      "lastMonthGrowth": 1.5
+    }
+  ],
+  "verificationHistory": [],
+  "warehouseReceipts": []
+}

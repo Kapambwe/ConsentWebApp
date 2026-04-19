@@ -1,0 +1,28 @@
+[
+  {
+    "id": "h-001",
+    "customerName": "John Phiri",
+    "customerIdentifier": "farmer-101",
+    "status": "Granted",
+    "requestedBy": "Loan Officer A",
+    "purpose": "Agri-Loan Credit Check",
+    "requestedDate": "2026-04-01T08:00:00",
+    "startDate": "2026-04-01T10:00:00",
+    "endDate": "2027-04-01T10:00:00",
+    "consentType": "FarmingData",
+    "consentScope": "Read-Only"
+  },
+  {
+    "id": "h-002",
+    "customerName": "Sarah Mumba",
+    "customerIdentifier": "farmer-102",
+    "status": "Denied",
+    "requestedBy": "Loan Officer B",
+    "purpose": "Mortgage Application",
+    "requestedDate": "2026-03-25T14:20:00",
+    "startDate": "2026-03-25T14:20:00",
+    "endDate": "2026-03-25T14:20:00",
+    "consentType": "Identity",
+    "consentScope": "Verify-Only"
+  }
+]

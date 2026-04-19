@@ -1,0 +1,43 @@
+[
+  {
+    "farmType": "CropFarm",
+    "dataTypes": [
+      { "name": "Daily Tasks", "icon": "assignment", "description": "Tasks performed daily on the farm", "sector": "Operations", "selected": true },
+      { "name": "Crop Inventory", "icon": "eco", "description": "Number and types of crops currently planted", "sector": "Assets", "selected": true },
+      { "name": "Harvest Data", "icon": "shopping_basket", "description": "Historical and current harvest yields", "sector": "Production", "selected": true },
+      { "name": "Contract Data", "icon": "description", "description": "Supply and purchase agreements", "sector": "Legal", "selected": true },
+      { "name": "Milestone Data", "icon": "flag", "description": "Key growth and business milestones", "sector": "Management", "selected": true }
+    ]
+  },
+  {
+    "farmType": "LivestockFarm",
+    "dataTypes": [
+      { "name": "Animal Inventory", "icon": "pets", "description": "Number and health of livestock", "sector": "Assets", "selected": true },
+      { "name": "Feeding Records", "icon": "restaurant", "description": "Daily feeding schedules and costs", "sector": "Operations", "selected": true },
+      { "name": "Vaccination Records", "icon": "healing", "description": "Health and vaccination history", "sector": "Health", "selected": true },
+      { "name": "Milestone Data", "icon": "flag", "description": "Breeding and growth milestones", "sector": "Management", "selected": true }
+    ]
+  },
+  {
+    "farmType": "FurnitureMaking",
+    "dataTypes": [
+      { "name": "Production Tasks", "icon": "build", "description": "Daily woodworking and assembly tasks", "sector": "Operations", "selected": true },
+      { "name": "Lumber Inventory", "icon": "category", "description": "Stock levels of different wood types", "sector": "Assets", "selected": true },
+      { "name": "Finished Goods", "icon": "chair", "description": "Inventory of completed furniture items", "sector": "Assets", "selected": true },
+      { "name": "Custom Orders", "icon": "assignment_turned_in", "description": "Status of bespoke furniture contracts", "sector": "Sales", "selected": true },
+      { "name": "Contract Data", "icon": "description", "description": "Supplier and buyer contracts", "sector": "Legal", "selected": true },
+      { "name": "Milestone Data", "icon": "flag", "description": "Project completion milestones", "sector": "Management", "selected": true }
+    ]
+  },
+  {
+    "farmType": "ClothMaking",
+    "dataTypes": [
+      { "name": "Daily Output", "icon": "straighten", "description": "Daily sewing and tailoring tasks", "sector": "Operations", "selected": true },
+      { "name": "Fabric Inventory", "icon": "texture", "description": "Stock of various fabrics and materials", "sector": "Assets", "selected": true },
+      { "name": "Garment Stock", "icon": "checkroom", "description": "Number of shoes and clothes in stock", "sector": "Assets", "selected": true },
+      { "name": "Design Milestones", "icon": "brush", "description": "Key dates in the design and fashion cycle", "sector": "Creative", "selected": true },
+      { "name": "Contract Data", "icon": "description", "description": "B2B supply contracts", "sector": "Legal", "selected": true },
+      { "name": "Milestone Data", "icon": "flag", "description": "Order fulfillment milestones", "sector": "Management", "selected": true }
+    ]
+  }
+]

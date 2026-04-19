@@ -1,0 +1,14 @@
+[
+  {
+    "consentId": "c-ib-001",
+    "customerId": "corp-505",
+    "customerName": "Zambia Copper Mines",
+    "consentType": "Financials",
+    "purpose": "Capital Raise Advisory",
+    "grantedDate": "2026-02-01T10:00:00",
+    "expiryDate": "2027-02-01T10:00:00",
+    "status": "Active",
+    "scope": "Full-Access",
+    "dataCategories": "AuditedFinancials, TaxReturns, OperationalMetrics"
+  }
+]

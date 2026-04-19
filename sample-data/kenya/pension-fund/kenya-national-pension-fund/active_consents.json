@@ -1,0 +1,14 @@
+[
+  {
+    "consentId": "c-pf-001",
+    "customerId": "emp-909",
+    "customerName": "Jane Doe",
+    "consentType": "Identity",
+    "purpose": "Pension Disbursement Verification",
+    "grantedDate": "2026-01-10T10:00:00",
+    "expiryDate": "2036-01-10T10:00:00",
+    "status": "Active",
+    "scope": "Read-Only",
+    "dataCategories": "NationalID, Biometrics, BankDetails"
+  }
+]

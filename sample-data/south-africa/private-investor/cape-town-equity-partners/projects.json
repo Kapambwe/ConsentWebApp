@@ -1,0 +1,20 @@
+[
+  {
+    "id": 6001,
+    "title": "FinTech Startup Seed Round",
+    "sector": "FinTech",
+    "location": "Cape Town, South Africa",
+    "verificationLevel": "Verified",
+    "description": "Seed funding for a mobile payments startup targeting unbanked populations.",
+    "shortDescription": "Seed funding for mobile payments startup.",
+    "requiredInvestment": 2000000,
+    "roiEstimate": 45,
+    "investmentTerm": 7,
+    "isVerified": true,
+    "ownerId": "pi-001",
+    "ownerName": "Cape Town Equity Partners",
+    "status": "Active",
+    "createdDate": "2025-08-15T00:00:00",
+    "updatedDate": "2026-02-10T00:00:00"
+  }
+]

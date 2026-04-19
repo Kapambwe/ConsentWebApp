@@ -1,0 +1,4 @@
+[
+  { "id": "L-5001", "borrower": "Banda Smallholdings", "amount": 50000.0, "status": "Active", "type": "Agri-Loan" },
+  { "id": "L-5002", "borrower": "Central-Province-Aggregators", "amount": 250000.0, "status": "Active", "type": "Working Capital" }
+]

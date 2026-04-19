@@ -1,0 +1,17 @@
+[
+  {
+    "componentId": "BANK-AUTH-001",
+    "institutionId": "Zambia-Comm-Bank",
+    "componentName": "Commercial Banking Operations",
+    "componentType": "WebPortal",
+    "isActive": true,
+    "permissions": [
+      "Bank.Access",
+      "Bank.Dashboard.View",
+      "Bank.LoanManagement.View",
+      "Bank.CustomerInsights.View",
+      "Consent.Management.ViewConsents"
+    ],
+    "description": "Portal for commercial loan management and customer credit insights"
+  }
+]

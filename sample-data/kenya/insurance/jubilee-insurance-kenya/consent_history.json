@@ -1,0 +1,15 @@
+[
+  {
+    "id": "h-ins-001",
+    "customerName": "Kamau Highlands Farm",
+    "customerIdentifier": "farmer-888",
+    "status": "Granted",
+    "requestedBy": "Underwriting Agent",
+    "purpose": "Policy Issuance",
+    "requestedDate": "2026-02-10T08:00:00",
+    "startDate": "2026-02-15T10:00:00",
+    "endDate": "2027-02-15T10:00:00",
+    "consentType": "FarmingData",
+    "consentScope": "Read-Only"
+  }
+]

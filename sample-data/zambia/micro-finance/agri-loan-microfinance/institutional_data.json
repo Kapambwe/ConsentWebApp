@@ -1,0 +1,14 @@
+{
+  "portfolio": {
+    "institutionId": "8ie85f64-5717-4562-b3fc-2c963f66afb1",
+    "institutionName": "Agri-Loan Microfinance",
+    "totalUnderwrittenValue": 5000000.0,
+    "atRiskCount": 120,
+    "activeSubjects": 3500,
+    "averagePortfolioHealth": 88.5
+  },
+  "requests": [],
+  "opportunities": [],
+  "verificationHistory": [],
+  "warehouseReceipts": []
+}

@@ -1,0 +1,15 @@
+{
+  "totalPensionAssets": 2500000000.0,
+  "totalMembers": 850000,
+  "fundingRatio": 105.5,
+  "assetAllocation": [
+    { "category": "Equities", "percentage": 40.0 },
+    { "category": "Fixed Income", "percentage": 45.0 },
+    { "category": "Real Estate", "percentage": 10.0 },
+    { "category": "Cash", "percentage": 5.0 }
+  ],
+  "recentActivities": [
+    { "id": 1, "description": "Annual general meeting held", "date": "2026-03-20T10:00:00" },
+    { "id": 2, "description": "Sustainability report published", "date": "2026-04-01T09:00:00" }
+  ]
+}
