@@ -1,0 +1,27 @@
+{
+  "Portfolio": {
+    "TotalUnderwrittenValue": 125000000.00,
+    "AtRiskCount": 5,
+    "ActiveSubjects": 48,
+    "AveragePortfolioHealth": 9.1
+  },
+  "Requests": [],
+  "Opportunities": [
+    {
+      "SubjectId": "00000000-0000-0000-0000-000000000301",
+      "SubjectName": "Zambia Sugar Expansion Phase 2",
+      "DisciplineScore": 9.5,
+      "DisciplineName": "Agro-Processing",
+      "PurposeTemplate": "Industrial Expansion Loan"
+    },
+    {
+      "SubjectId": "00000000-0000-0000-0000-000000000302",
+      "SubjectName": "Copperbelt Solar Power Plant",
+      "DisciplineScore": 8.8,
+      "DisciplineName": "Renewable Energy",
+      "PurposeTemplate": "Green Finance"
+    }
+  ],
+  "VerificationHistory": [],
+  "WarehouseReceipts": []
+}

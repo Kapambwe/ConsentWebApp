@@ -19,12 +19,20 @@
     ]
   },
   {
+    "farmType": "PoultryFarm",
+    "dataTypes": [
+      { "name": "Flock Details", "icon": "egg", "description": "Bird counts by breed and age", "sector": "Assets", "selected": true },
+      { "name": "Egg Production", "icon": "egg_alt", "description": "Daily egg production data", "sector": "Production", "selected": true },
+      { "name": "Feed Consumption", "icon": "restaurant_menu", "description": "Feed usage and costs", "sector": "Operations", "selected": true },
+      { "name": "Milestone Data", "icon": "flag", "description": "Batch cycle milestones", "sector": "Management", "selected": true }
+    ]
+  },
+  {
     "farmType": "FurnitureMaking",
     "dataTypes": [
       { "name": "Production Tasks", "icon": "build", "description": "Daily woodworking and assembly tasks", "sector": "Operations", "selected": true },
       { "name": "Lumber Inventory", "icon": "category", "description": "Stock levels of different wood types", "sector": "Assets", "selected": true },
       { "name": "Finished Goods", "icon": "chair", "description": "Inventory of completed furniture items", "sector": "Assets", "selected": true },
-      { "name": "Custom Orders", "icon": "assignment_turned_in", "description": "Status of bespoke furniture contracts", "sector": "Sales", "selected": true },
       { "name": "Contract Data", "icon": "description", "description": "Supplier and buyer contracts", "sector": "Legal", "selected": true },
       { "name": "Milestone Data", "icon": "flag", "description": "Project completion milestones", "sector": "Management", "selected": true }
     ]
@@ -35,9 +43,37 @@
       { "name": "Daily Output", "icon": "straighten", "description": "Daily sewing and tailoring tasks", "sector": "Operations", "selected": true },
       { "name": "Fabric Inventory", "icon": "texture", "description": "Stock of various fabrics and materials", "sector": "Assets", "selected": true },
       { "name": "Garment Stock", "icon": "checkroom", "description": "Number of shoes and clothes in stock", "sector": "Assets", "selected": true },
-      { "name": "Design Milestones", "icon": "brush", "description": "Key dates in the design and fashion cycle", "sector": "Creative", "selected": true },
       { "name": "Contract Data", "icon": "description", "description": "B2B supply contracts", "sector": "Legal", "selected": true },
       { "name": "Milestone Data", "icon": "flag", "description": "Order fulfillment milestones", "sector": "Management", "selected": true }
+    ]
+  },
+  {
+    "farmType": "Construction",
+    "dataTypes": [
+      { "name": "Project Milestones", "icon": "flag", "description": "Major project phase completions", "sector": "Management", "selected": true },
+      { "name": "Site Reports", "icon": "assignment", "description": "Daily progress and incident reports", "sector": "Operations", "selected": true },
+      { "name": "Safety Audits", "icon": "health_and_safety", "description": "OSHA and local safety compliance logs", "sector": "Compliance", "selected": true },
+      { "name": "Material Registry", "icon": "inventory", "description": "Inventory of on-site construction materials", "sector": "Assets", "selected": true },
+      { "name": "Contract Data", "icon": "description", "description": "Subcontractor and client agreements", "sector": "Legal", "selected": true }
+    ]
+  },
+  {
+    "farmType": "Mining",
+    "dataTypes": [
+      { "name": "Output Logs", "icon": "shutter_speed", "description": "Daily mineral/ore extraction volume", "sector": "Production", "selected": true },
+      { "name": "Equipment Status", "icon": "engineering", "description": "Maintenance and operational status of machinery", "sector": "Operations", "selected": true },
+      { "name": "Environmental Data", "icon": "eco", "description": "Air and water quality monitoring metrics", "sector": "Compliance", "selected": true },
+      { "name": "Milestone Data", "icon": "flag", "description": "Exploration and excavation milestones", "sector": "Management", "selected": true }
+    ]
+  },
+  {
+    "farmType": "Retail",
+    "dataTypes": [
+      { "name": "Inventory Levels", "icon": "shopping_cart", "description": "Stock counts across product categories", "sector": "Assets", "selected": true },
+      { "name": "Sales Reports", "icon": "receipt_long", "description": "Daily/Weekly transaction summaries", "sector": "Finance", "selected": true },
+      { "name": "Customer Feedback", "icon": "reviews", "description": "NPS and direct customer satisfaction data", "sector": "Marketing", "selected": true },
+      { "name": "Supplier Contracts", "icon": "description", "description": "Agreements with manufacturers/distributors", "sector": "Legal", "selected": true },
+      { "name": "Growth Milestones", "icon": "trending_up", "description": "New store openings or market share goals", "sector": "Management", "selected": true }
     ]
   }
 ]

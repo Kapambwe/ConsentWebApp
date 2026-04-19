@@ -33,6 +33,11 @@
     "micro-finance": [
       "agri-loan-microfinance",
       "community-savings-zambia"
+    ],
+    "government-agency": [
+      "constituency-development-fund",
+      "youth-empowerment-fund",
+      "development-finance-institution"
     ]
   },
   "kenya": {

@@ -1,0 +1,27 @@
+{
+  "Portfolio": {
+    "TotalUnderwrittenValue": 15200000.00,
+    "AtRiskCount": 25,
+    "ActiveSubjects": 412,
+    "AveragePortfolioHealth": 6.9
+  },
+  "Requests": [],
+  "Opportunities": [
+    {
+      "SubjectId": "00000000-0000-0000-0000-000000000201",
+      "SubjectName": "Lusaka Tech Startup Hub",
+      "DisciplineScore": 9.2,
+      "DisciplineName": "Technology",
+      "PurposeTemplate": "Innovation Grant"
+    },
+    {
+      "SubjectId": "00000000-0000-0000-0000-000000000202",
+      "SubjectName": "Chingola Youth Carpentry Co-op",
+      "DisciplineScore": 8.1,
+      "DisciplineName": "Manufacturing",
+      "PurposeTemplate": "SME Funding"
+    }
+  ],
+  "VerificationHistory": [],
+  "WarehouseReceipts": []
+}
