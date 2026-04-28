@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "role": "Administrator",
+      "id": "USR-001",
+      "status": "Active",
+      "displayName": "Institution Admin",
+      "email": "admin@sample"
+    },
+    {
+      "username": "officer",
+      "role": "Officer",
+      "id": "USR-002",
+      "status": "Active",
+      "displayName": "Institution Officer",
+      "email": "officer@sample"
+    }
+  ]
+}

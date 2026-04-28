@@ -1,20 +1,57 @@
 {
-  "Portfolio": {
-    "TotalUnderwrittenValue": 1000000.50,
-    "AtRiskCount": 50,
-    "ActiveSubjects": 250,
-    "AveragePortfolioHealth": 8.5
-  },
-  "Requests": [],
-  "Opportunities": [
+  "Requests": [
     {
-      "SubjectId": "00000000-0000-0000-0000-000000000001",
-      "SubjectName": "AgriCo Zambia",
-      "DisciplineScore": 9.0,
-      "DisciplineName": "Farming",
-      "PurposeTemplate": "General Agricultural Loan"
+      "PurposeTemplate": "Agricultural Loan Assessment",
+      "SubjectName": "Kafue Agricultural Cooperative",
+      "Id": "REQ-ZM-001",
+      "Status": "Pending"
+    },
+    {
+      "PurposeTemplate": "Working Capital Review",
+      "SubjectName": "Lusaka Tailoring Cooperative",
+      "Id": "REQ-ZM-002",
+      "Status": "Granted"
+    },
+    {
+      "PurposeTemplate": "Asset Finance Review",
+      "SubjectName": "Siavonga Fish Farmers",
+      "Id": "REQ-ZM-003",
+      "Status": "Pending"
+    },
+    {
+      "PurposeTemplate": "Equipment Finance Review",
+      "SubjectName": "Copperbelt Small Miners Group",
+      "Id": "REQ-ZM-004",
+      "Status": "Denied"
+    },
+    {
+      "PurposeTemplate": "Order Book Review",
+      "SubjectName": "Kabwe Furniture Makers",
+      "Id": "REQ-ZM-005",
+      "Status": "Withdrawn"
     }
   ],
-  "VerificationHistory": [],
-  "WarehouseReceipts": []
+  "VerificationHistory": [
+    {
+      "Id": "PROOF-ZM-001",
+      "VerifiedAt": "2026-04-25T17:49:55.4489304+02:00",
+      "DocumentType": "Tax Clearance",
+      "Verified": true,
+      "SubjectName": "Absa Bank Zambia SME Desk",
+      "VerifiedBy": "ZRA"
+    }
+  ],
+  "Opportunities": [
+    {
+      "DisciplineScore": 84,
+      "TaxComplianceStatus": "Compliant",
+      "LastMonthGrowth": 12,
+      "Id": "OPP-ZM-001",
+      "ActiveContractCount": 3,
+      "BusinessName": "Absa Bank Zambia SME Desk",
+      "TaskCompletionRate": 91,
+      "VerifiedRevenue": 185000,
+      "TotalAssetValue": 420000
+    }
+  ]
 }

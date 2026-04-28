@@ -1,16 +1,7 @@
-[
-  {
-    "componentId": "INS-AUTH-001",
-    "institutionId": "Jubilee-Ins",
-    "componentName": "Insurance Underwriting Portal",
-    "componentType": "WebPortal",
-    "isActive": true,
-    "permissions": [
-      "Insurance.Access",
-      "Insurance.Underwriting.View",
-      "Insurance.Claims.View",
-      "Insurance.RiskManagement.View"
-    ],
-    "description": "Portal for managing weather-indexed crop insurance and agricultural risk assessments"
-  }
-]
+{
+  "institutionType": "insurance",
+  "loginMode": "mock",
+  "lastLoginAt": "2026-04-28T17:49:58.4459795+02:00",
+  "institutionName": "Jubilee Insurance Kenya",
+  "country": "kenya"
+}

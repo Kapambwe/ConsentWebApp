@@ -1,0 +1,11 @@
+{
+  "projects": [
+    {
+      "verified": true,
+      "id": "CARB-KE-001",
+      "requiredInvestment": 90000,
+      "location": "Nairobi County",
+      "title": "Agroforestry Carbon Sequestration"
+    }
+  ]
+}

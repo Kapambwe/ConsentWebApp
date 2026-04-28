@@ -1,27 +1,33 @@
 {
-  "Portfolio": {
-    "TotalUnderwrittenValue": 25700000.00,
-    "AtRiskCount": 12,
-    "ActiveSubjects": 156,
-    "AveragePortfolioHealth": 7.8
-  },
-  "Requests": [],
-  "Opportunities": [
+  "Requests": [
     {
-      "SubjectId": "00000000-0000-0000-0000-000000000101",
-      "SubjectName": "Kabwe Community School Construction",
-      "DisciplineScore": 8.5,
-      "DisciplineName": "Construction",
-      "PurposeTemplate": "Infrastructure Grant"
-    },
-    {
-      "SubjectId": "00000000-0000-0000-0000-000000000102",
-      "SubjectName": "Ndola Water Reticulation Project",
-      "DisciplineScore": 7.9,
-      "DisciplineName": "Public Utilities",
-      "PurposeTemplate": "Community Development"
+      "PurposeTemplate": "Grant Review",
+      "SubjectName": "Constituency Development Fund Beneficiary",
+      "Id": "REQ-ZM-GA-constituency-development-fund-001",
+      "Status": "Granted"
     }
   ],
-  "VerificationHistory": [],
-  "WarehouseReceipts": []
+  "VerificationHistory": [
+    {
+      "Id": "PROOF-ZM-001",
+      "VerifiedAt": "2026-04-25T17:49:57.4561837+02:00",
+      "DocumentType": "Tax Clearance",
+      "Verified": true,
+      "SubjectName": "Constituency Development Fund Agency Desk",
+      "VerifiedBy": "Government of Zambia"
+    }
+  ],
+  "Opportunities": [
+    {
+      "DisciplineScore": 84,
+      "TaxComplianceStatus": "Compliant",
+      "LastMonthGrowth": 12,
+      "Id": "OPP-ZM-001",
+      "ActiveContractCount": 3,
+      "BusinessName": "Constituency Development Fund Agency Desk",
+      "TaskCompletionRate": 91,
+      "VerifiedRevenue": 185000,
+      "TotalAssetValue": 420000
+    }
+  ]
 }

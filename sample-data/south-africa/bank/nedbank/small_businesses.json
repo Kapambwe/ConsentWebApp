@@ -1,0 +1,14 @@
+{
+  "Businesses": [
+    {
+      "LoanAmount": 90000,
+      "BusinessName": "Durban Retail Traders",
+      "RepaymentScore": 79,
+      "Id": "SB-ZA-NED-001",
+      "RiskScore": 30,
+      "Status": "Funded",
+      "UseOfFunds": 63,
+      "Sector": "Retail"
+    }
+  ]
+}

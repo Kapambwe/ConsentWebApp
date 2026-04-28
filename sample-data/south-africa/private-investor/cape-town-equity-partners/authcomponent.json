@@ -1,16 +1,7 @@
-[
-  {
-    "componentId": "PI-AUTH-001",
-    "institutionId": "Cape-Town-EP",
-    "componentName": "Private Equity Portfolio Tracker",
-    "componentType": "WebPortal",
-    "isActive": true,
-    "permissions": [
-      "PrivateInvestor.Access",
-      "PrivateInvestor.Marketplace.View",
-      "PrivateInvestor.DueDiligence.View",
-      "PrivateInvestor.ExitTracking.View"
-    ],
-    "description": "Investor portal for tracking startup equity and sector-wide marketplace opportunities"
-  }
-]
+{
+  "institutionType": "private-investor",
+  "loginMode": "mock",
+  "lastLoginAt": "2026-04-28T17:49:59.9659896+02:00",
+  "institutionName": "Cape Town Equity Partners",
+  "country": "south africa"
+}

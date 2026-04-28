@@ -1,20 +1,13 @@
-[
-  {
-    "id": 3001,
-    "title": "Copperbelt Growth Fund",
-    "sector": "Mining Support",
-    "location": "Kitwe, Zambia",
-    "verificationLevel": "Verified",
-    "description": "An equity fund targeting SMEs in the mining supply chain, providing growth capital for equipment and technology upgrades.",
-    "shortDescription": "Growth equity for mining supply chain SMEs.",
-    "requiredInvestment": 2000000,
-    "roiEstimate": 25,
-    "investmentTerm": 7,
-    "isVerified": true,
-    "ownerId": "fund-001",
-    "ownerName": "Zambia Wealth Management",
-    "status": "Active",
-    "createdDate": "2025-11-20T00:00:00",
-    "updatedDate": "2026-04-01T00:00:00"
-  }
-]
+{
+  "projects": [
+    {
+      "id": 1,
+      "location": "Lusaka Province",
+      "sector": "Asset Management",
+      "createdDate": "2026-04-16T17:49:56.6567786+02:00",
+      "title": "Zambia Wealth Management Strategic Project",
+      "isVerified": true,
+      "requiredInvestment": 50000
+    }
+  ]
+}

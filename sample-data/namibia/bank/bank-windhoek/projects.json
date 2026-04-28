@@ -1,0 +1,13 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "location": "Windhoek",
+      "sector": "Banking",
+      "createdDate": "2026-04-16T17:50:02.5114262+02:00",
+      "title": "Bank Windhoek Strategic Project",
+      "isVerified": true,
+      "requiredInvestment": 50000
+    }
+  ]
+}

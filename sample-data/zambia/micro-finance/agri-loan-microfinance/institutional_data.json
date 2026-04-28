@@ -1,14 +1,33 @@
 {
-  "portfolio": {
-    "institutionId": "8ie85f64-5717-4562-b3fc-2c963f66afb1",
-    "institutionName": "Agri-Loan Microfinance",
-    "totalUnderwrittenValue": 5000000.0,
-    "atRiskCount": 120,
-    "activeSubjects": 3500,
-    "averagePortfolioHealth": 88.5
-  },
-  "requests": [],
-  "opportunities": [],
-  "verificationHistory": [],
-  "warehouseReceipts": []
+  "Requests": [
+    {
+      "PurposeTemplate": "Seasonal Working Capital",
+      "SubjectName": "Chisamba Market Gardeners",
+      "Id": "REQ-ZM-ALM-001",
+      "Status": "Pending"
+    }
+  ],
+  "VerificationHistory": [
+    {
+      "Id": "PROOF-ZM-001",
+      "VerifiedAt": "2026-04-25T17:49:57.1361808+02:00",
+      "DocumentType": "Tax Clearance",
+      "Verified": true,
+      "SubjectName": "Agri Loan Microfinance Desk",
+      "VerifiedBy": "ZRA"
+    }
+  ],
+  "Opportunities": [
+    {
+      "DisciplineScore": 84,
+      "TaxComplianceStatus": "Compliant",
+      "LastMonthGrowth": 12,
+      "Id": "OPP-ZM-001",
+      "ActiveContractCount": 3,
+      "BusinessName": "Agri Loan Microfinance Desk",
+      "TaskCompletionRate": 91,
+      "VerifiedRevenue": 185000,
+      "TotalAssetValue": 420000
+    }
+  ]
 }

@@ -1,20 +1,13 @@
-[
-  {
-    "id": 7001,
-    "title": "Smallholder Fertilizer Loans",
-    "sector": "Agriculture",
-    "location": "Eastern Province, Zambia",
-    "verificationLevel": "Verified",
-    "description": "Micro-loans provided to smallholder farmers for fertilizer procurement before planting season.",
-    "shortDescription": "Fertilizer micro-loans for smallholder farmers.",
-    "requiredInvestment": 100000,
-    "roiEstimate": 15,
-    "investmentTerm": 1,
-    "isVerified": true,
-    "ownerId": "mfi-001",
-    "ownerName": "Agri-Loan Microfinance",
-    "status": "Active",
-    "createdDate": "2025-11-01T00:00:00",
-    "updatedDate": "2026-04-01T00:00:00"
-  }
-]
+{
+  "projects": [
+    {
+      "id": 1,
+      "location": "Central Province",
+      "sector": "Micro Finance",
+      "createdDate": "2026-04-16T17:49:57.1381341+02:00",
+      "title": "Agri Loan Microfinance Strategic Project",
+      "isVerified": true,
+      "requiredInvestment": 50000
+    }
+  ]
+}

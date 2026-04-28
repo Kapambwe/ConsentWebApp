@@ -1,15 +1,10 @@
-[
-  {
-    "id": "h-mfi-001",
-    "customerName": "Isaac Phiri",
-    "customerIdentifier": "farmer-777",
-    "status": "Granted",
-    "requestedBy": "Field Officer",
-    "purpose": "Input Loan Origination",
-    "requestedDate": "2025-11-10T08:00:00",
-    "startDate": "2025-11-15T10:00:00",
-    "endDate": "2026-11-15T10:00:00",
-    "consentType": "FarmingData",
-    "consentScope": "Read-Only"
-  }
-]
+{
+  "items": [
+    {
+      "customerId": "CUST-ZM-001",
+      "timestamp": "2026-04-08T17:49:57.1386902+02:00",
+      "action": "Granted",
+      "consentId": "CON-ZM-001"
+    }
+  ]
+}

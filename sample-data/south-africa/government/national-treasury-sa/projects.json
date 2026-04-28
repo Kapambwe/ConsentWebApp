@@ -1,0 +1,13 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "location": "Gauteng",
+      "sector": "Public Finance",
+      "createdDate": "2026-04-16T17:50:00.7122095+02:00",
+      "title": "National Treasury Sa Strategic Project",
+      "isVerified": true,
+      "requiredInvestment": 50000
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "location": "Dar es Salaam",
+      "sector": "Banking",
+      "createdDate": "2026-04-16T17:50:03.2575579+02:00",
+      "title": "Bank Of Tanzania Strategic Project",
+      "isVerified": true,
+      "requiredInvestment": 50000
+    }
+  ]
+}

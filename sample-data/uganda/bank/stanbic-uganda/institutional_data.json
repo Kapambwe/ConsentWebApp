@@ -1,0 +1,33 @@
+{
+  "Requests": [
+    {
+      "PurposeTemplate": "Trade Finance Review",
+      "SubjectName": "Stanbic Uganda Coffee Traders",
+      "Id": "REQ-UG-bank-001",
+      "Status": "Pending"
+    }
+  ],
+  "VerificationHistory": [
+    {
+      "Id": "PROOF-UG-001",
+      "VerifiedAt": "2026-04-25T17:50:03.3848785+02:00",
+      "DocumentType": "Tax Clearance",
+      "Verified": true,
+      "SubjectName": "Stanbic Uganda Uganda Desk",
+      "VerifiedBy": "URA"
+    }
+  ],
+  "Opportunities": [
+    {
+      "DisciplineScore": 84,
+      "TaxComplianceStatus": "Compliant",
+      "LastMonthGrowth": 12,
+      "Id": "OPP-UG-001",
+      "ActiveContractCount": 3,
+      "BusinessName": "Stanbic Uganda Uganda Desk",
+      "TaskCompletionRate": 91,
+      "VerifiedRevenue": 185000,
+      "TotalAssetValue": 420000
+    }
+  ]
+}

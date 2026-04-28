@@ -1,0 +1,13 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "location": "Western Cape",
+      "sector": "Commercial Banking",
+      "createdDate": "2026-04-16T17:49:59.2669261+02:00",
+      "title": "FNB South Africa Strategic Project",
+      "isVerified": true,
+      "requiredInvestment": 50000
+    }
+  ]
+}

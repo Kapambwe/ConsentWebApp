@@ -1,10 +1,10 @@
 {
-  "totalDeposits": 5000000000.0,
-  "totalLoans": 3500000000.0,
-  "capitalAdequacyRatio": 18.5,
-  "nplRatio": 2.5,
-  "recentActivities": [
-    { "id": 1, "description": "Branch opened in Solwezi", "date": "2026-04-01T08:00:00" },
-    { "id": 2, "description": "New digital banking app launch", "date": "2026-03-15T10:00:00" }
-  ]
+  "totalConsents": 18,
+  "activeConsents": 11,
+  "pendingRequests": 2,
+  "approvedRequests": 4,
+  "institution": "Zambia Commercial Bank",
+  "country": "Zambia",
+  "rejectedRequests": 0,
+  "lastUpdated": "2026-04-28T17:49:55.0959851+02:00"
 }

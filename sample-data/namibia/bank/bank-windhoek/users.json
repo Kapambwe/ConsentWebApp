@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "USR-NA-001",
+      "email": "admin@namibia.sample",
+      "displayName": "Institution Admin",
+      "status": "Active",
+      "username": "admin",
+      "role": "Administrator"
+    },
+    {
+      "id": "USR-NA-002",
+      "email": "officer@namibia.sample",
+      "displayName": "Institution Officer",
+      "status": "Active",
+      "username": "officer",
+      "role": "Officer"
+    }
+  ]
+}

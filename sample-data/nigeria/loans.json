@@ -1,0 +1,12 @@
+{
+  "loans": [
+    {
+      "amount": 50000,
+      "loanId": "LN-001",
+      "borrower": "Sample Business",
+      "balance": 32000,
+      "interestRate": 12.5,
+      "nextPaymentDate": "2026-05-12T17:25:13.3419484+02:00"
+    }
+  ]
+}

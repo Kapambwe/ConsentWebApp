@@ -1,0 +1,13 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "location": "Lusaka Province",
+      "sector": "Public Sector",
+      "createdDate": "2026-04-16T17:49:56.3062073+02:00",
+      "title": "Ministry of Finance Strategic Project",
+      "isVerified": true,
+      "requiredInvestment": 50000
+    }
+  ]
+}

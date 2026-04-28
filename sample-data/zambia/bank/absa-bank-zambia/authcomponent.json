@@ -1,17 +1,7 @@
-[
-  {
-    "componentId": "BANK-AUTH-001",
-    "institutionId": "Zambia-Comm-Bank",
-    "componentName": "Commercial Banking Operations",
-    "componentType": "WebPortal",
-    "isActive": true,
-    "permissions": [
-      "Bank.Access",
-      "Bank.Dashboard.View",
-      "Bank.LoanManagement.View",
-      "Bank.CustomerInsights.View",
-      "Consent.Management.ViewConsents"
-    ],
-    "description": "Portal for commercial loan management and customer credit insights"
-  }
-]
+{
+  "institutionType": "bank",
+  "loginMode": "mock",
+  "lastLoginAt": "2026-04-28T17:49:55.4459667+02:00",
+  "institutionName": "Absa Bank Zambia",
+  "country": "zambia"
+}

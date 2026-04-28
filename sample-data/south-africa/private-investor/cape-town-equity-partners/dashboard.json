@@ -1,14 +1,10 @@
 {
-  "totalInvestedCapital": 150000000.0,
-  "portfolioCompanies": 18,
-  "activeFund": "Fund III",
-  "investmentFocus": [
-    "FinTech",
-    "HealthTech",
-    "Renewable Energy"
-  ],
-  "recentActivities": [
-    { "id": 1, "description": "Series A lead for MediConnect SA", "date": "2026-04-12T13:15:00" },
-    { "id": 2, "description": "Exit from SolarFlow via acquisition", "date": "2026-03-30T10:30:00" }
-  ]
+  "totalConsents": 18,
+  "activeConsents": 11,
+  "pendingRequests": 2,
+  "approvedRequests": 4,
+  "institution": "Cape Town Equity Partners",
+  "country": "South Africa",
+  "rejectedRequests": 0,
+  "lastUpdated": "2026-04-28T17:49:59.9659896+02:00"
 }

@@ -1,0 +1,11 @@
+{
+  "projects": [
+    {
+      "verified": true,
+      "id": "INF-ZM-001",
+      "requiredInvestment": 250000,
+      "location": "Lusaka Province",
+      "title": "Cold Storage Network"
+    }
+  ]
+}

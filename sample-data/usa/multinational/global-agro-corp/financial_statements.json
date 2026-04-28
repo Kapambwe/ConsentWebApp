@@ -1,0 +1,29 @@
+{
+  "balanceSheet": {
+    "totalAssets": 2850000,
+    "equity": 1650000,
+    "currentRatio": 2.3,
+    "totalLiabilities": 1200000
+  },
+  "incomeStatement": {
+    "revenue": 1850000,
+    "expenses": 1250000,
+    "profitMargin": 32.4,
+    "netProfit": 600000
+  },
+  "loans": [
+    {
+      "interestRate": 12.5,
+      "nextPaymentDate": "2026-05-13T17:50:04.6801168+02:00",
+      "loanAmount": 500000,
+      "lender": "Global Agro Corp",
+      "outstandingBalance": 250000
+    }
+  ],
+  "cashFlowStatement": {
+    "netCashFlow": 100000,
+    "operatingCashFlow": 450000,
+    "investingCashFlow": -200000,
+    "financingCashFlow": -150000
+  }
+}

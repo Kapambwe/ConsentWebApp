@@ -1,0 +1,14 @@
+{
+  "Businesses": [
+    {
+      "LoanAmount": 72000,
+      "BusinessName": "Kericho Tea Cooperative",
+      "RepaymentScore": 83,
+      "Id": "SB-KE-KCB-001",
+      "RiskScore": 24,
+      "Status": "Funded",
+      "UseOfFunds": 65,
+      "Sector": "Agribusiness"
+    }
+  ]
+}

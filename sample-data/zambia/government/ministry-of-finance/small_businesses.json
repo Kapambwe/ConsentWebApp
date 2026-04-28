@@ -1,0 +1,14 @@
+{
+  "Businesses": [
+    {
+      "LoanAmount": 600000,
+      "BusinessName": "Public Infrastructure SPV",
+      "RepaymentScore": 83,
+      "Id": "SB-ZM-GOV-001",
+      "RiskScore": 20,
+      "Status": "Funded",
+      "UseOfFunds": 70,
+      "Sector": "Infrastructure"
+    }
+  ]
+}

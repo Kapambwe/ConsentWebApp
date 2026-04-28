@@ -1,0 +1,14 @@
+{
+  "Businesses": [
+    {
+      "LoanAmount": 120000,
+      "BusinessName": "Cape Town Equity Partners Enterprise",
+      "RepaymentScore": 80,
+      "Id": "SB-ZA-private-investor-001",
+      "RiskScore": 27,
+      "Status": "Funded",
+      "UseOfFunds": 69,
+      "Sector": "Industrial Services"
+    }
+  ]
+}

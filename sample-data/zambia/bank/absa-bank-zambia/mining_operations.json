@@ -1,0 +1,11 @@
+{
+  "miningOperations": {
+    "ExtractionRate": 1500,
+    "ProcessingCapacity": 2000,
+    "EquipmentUtilization": 85,
+    "Equipment": [
+      { "Type": "Excavator", "Count": 5, "Value": 2500000 },
+      { "Type": "Truck", "Count": 10, "Value": 1500000 }
+    ]
+  }
+}

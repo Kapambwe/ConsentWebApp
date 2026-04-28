@@ -1,14 +1,10 @@
-[
-  {
-    "consentId": "c-ins-001",
-    "customerId": "farmer-888",
-    "customerName": "Kamau Highlands Farm",
-    "consentType": "FarmingData",
-    "purpose": "Crop Insurance Underwriting",
-    "grantedDate": "2026-02-15T10:00:00",
-    "expiryDate": "2027-02-15T10:00:00",
-    "status": "Active",
-    "scope": "Read-Only",
-    "dataCategories": "GPSCoordinates, CropTypes"
-  }
-]
+{
+  "items": [
+    {
+      "customerId": "CUST-KE-002",
+      "consentId": "CON-KE-002",
+      "status": "Active",
+      "expires": "2026-06-27T17:49:58.4485368+02:00"
+    }
+  ]
+}

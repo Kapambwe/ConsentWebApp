@@ -1,0 +1,14 @@
+{
+  "Businesses": [
+    {
+      "LoanAmount": 25000,
+      "BusinessName": "First Bank Nigeria Business",
+      "RepaymentScore": 76,
+      "Id": "SB-nigeria-bank-001",
+      "RiskScore": 35,
+      "Status": "Funded",
+      "UseOfFunds": 55,
+      "Sector": "General Commerce"
+    }
+  ]
+}

@@ -75,5 +75,45 @@
       { "name": "Supplier Contracts", "icon": "description", "description": "Agreements with manufacturers/distributors", "sector": "Legal", "selected": true },
       { "name": "Growth Milestones", "icon": "trending_up", "description": "New store openings or market share goals", "sector": "Management", "selected": true }
     ]
+  },
+  {
+    "farmType": "Infrastructure",
+    "dataTypes": [
+      { "name": "Site Preparation", "icon": "terrain", "description": "Land clearing and leveling milestones", "sector": "Milestones", "selected": true },
+      { "name": "Foundation Phase", "icon": "foundation", "description": "Structural foundation completion", "sector": "Milestones", "selected": true },
+      { "name": "Utility Connection", "icon": "power", "description": "Water, power and sewage connectivity", "sector": "Milestones", "selected": true },
+      { "name": "Safety Inspections", "icon": "verified_user", "description": "Regular safety audit reports", "sector": "Compliance", "selected": true },
+      { "name": "Zoning Permits", "icon": "description", "description": "Local authority approvals and permits", "sector": "Legal", "selected": true }
+    ]
+  },
+  {
+    "farmType": "Climate",
+    "dataTypes": [
+      { "name": "Baseline Assessment", "icon": "assessment", "description": "Initial climate impact study", "sector": "Milestones", "selected": true },
+      { "name": "Adaptation Implementation", "icon": "settings_suggest", "description": "Phase 1 of adaptation measures", "sector": "Milestones", "selected": true },
+      { "name": "Impact Verification", "icon": "fact_check", "description": "Independent verification of climate impact", "sector": "Milestones", "selected": true },
+      { "name": "Resilience Metrics", "icon": "trending_up", "description": "Data on community/asset resilience", "sector": "Data", "selected": true },
+      { "name": "Vulnerability Data", "icon": "warning", "description": "Periodic assessment of vulnerabilities", "sector": "Data", "selected": true }
+    ]
+  },
+  {
+    "farmType": "Carbon",
+    "dataTypes": [
+      { "name": "Methodology Approval", "icon": "rule", "description": "Carbon credit methodology sign-off", "sector": "Milestones", "selected": true },
+      { "name": "Verification Audit", "icon": "audit", "description": "Third-party carbon reduction verification", "sector": "Milestones", "selected": true },
+      { "name": "Credit Issuance", "icon": "token", "description": "Registry issuance of carbon credits", "sector": "Milestones", "selected": true },
+      { "name": "Sequestration Logs", "icon": "cloud_done", "description": "Ongoing carbon capture/reduction data", "sector": "Data", "selected": true },
+      { "name": "Trading Agreements", "icon": "handshake", "description": "Contracts for credit sales", "sector": "Legal", "selected": true }
+    ]
+  },
+  {
+    "farmType": "Energy",
+    "dataTypes": [
+      { "name": "Grid Interconnection", "icon": "cable", "description": "Physical grid connection completion", "sector": "Milestones", "selected": true },
+      { "name": "Commissioning", "icon": "play_circle", "description": "System start-up and testing phase", "sector": "Milestones", "selected": true },
+      { "name": "Operational Handover", "icon": "assignment_turned_in", "description": "Project handover to operations", "sector": "Milestones", "selected": true },
+      { "name": "Generation Data", "icon": "bolt", "description": "Real-time energy output (kWh/MWh)", "sector": "Data", "selected": true },
+      { "name": "Efficiency Rating", "icon": "speed", "description": "Performance ratio and efficiency metrics", "sector": "Data", "selected": true }
+    ]
   }
 ]

@@ -1,0 +1,39 @@
+{
+  "Requests": [
+    {
+      "PurposeTemplate": "Agribusiness Loan Review",
+      "SubjectName": "Kericho Tea Cooperative",
+      "Id": "REQ-KE-KCB-001",
+      "Status": "Pending"
+    },
+    {
+      "PurposeTemplate": "Trade Finance Review",
+      "SubjectName": "Mombasa Fish Exporters",
+      "Id": "REQ-KE-KCB-002",
+      "Status": "Granted"
+    }
+  ],
+  "VerificationHistory": [
+    {
+      "Id": "PROOF-KE-001",
+      "VerifiedAt": "2026-04-25T17:49:57.9239850+02:00",
+      "DocumentType": "Tax Clearance",
+      "Verified": true,
+      "SubjectName": "KCB SME Banking",
+      "VerifiedBy": "KRA"
+    }
+  ],
+  "Opportunities": [
+    {
+      "DisciplineScore": 84,
+      "TaxComplianceStatus": "Compliant",
+      "LastMonthGrowth": 12,
+      "Id": "OPP-KE-001",
+      "ActiveContractCount": 3,
+      "BusinessName": "KCB SME Banking",
+      "TaskCompletionRate": 91,
+      "VerifiedRevenue": 185000,
+      "TotalAssetValue": 420000
+    }
+  ]
+}

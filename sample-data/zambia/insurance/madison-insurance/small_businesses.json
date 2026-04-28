@@ -1,0 +1,14 @@
+{
+  "Businesses": [
+    {
+      "LoanAmount": 22000,
+      "BusinessName": "Madison Insurance Policyholder Group",
+      "RepaymentScore": 74,
+      "Id": "SB-ZM-INS-madison-insurance-001",
+      "RiskScore": 22,
+      "Status": "Funded",
+      "UseOfFunds": 46,
+      "Sector": "Insurance"
+    }
+  ]
+}

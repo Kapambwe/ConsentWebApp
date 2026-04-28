@@ -1,16 +1,7 @@
-[
-  {
-    "componentId": "IB-AUTH-001",
-    "institutionId": "Indeco-IB",
-    "componentName": "Investment Banking Deal-Room",
-    "componentType": "WebPortal",
-    "isActive": true,
-    "permissions": [
-      "InvestmentBank.Access",
-      "InvestmentBank.DealPipeline.View",
-      "InvestmentBank.Advisory.View",
-      "InvestmentBank.MarketInsights.View"
-    ],
-    "description": "Secure portal for corporate advisory and capital raise mandates"
-  }
-]
+{
+  "institutionType": "investment-bank",
+  "loginMode": "mock",
+  "lastLoginAt": "2026-04-28T17:49:56.8689560+02:00",
+  "institutionName": "INDECO Investment Bank",
+  "country": "zambia"
+}

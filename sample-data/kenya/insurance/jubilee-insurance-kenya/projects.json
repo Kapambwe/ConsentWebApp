@@ -1,20 +1,13 @@
-[
-  {
-    "id": 8001,
-    "title": "Weather Index Crop Insurance",
-    "sector": "Agriculture",
-    "location": "Rift Valley, Kenya",
-    "verificationLevel": "Verified",
-    "description": "Providing weather-indexed crop insurance to protect farmers against drought and excessive rainfall.",
-    "shortDescription": "Weather-indexed crop insurance for farmers.",
-    "requiredInvestment": 2000000,
-    "roiEstimate": 10,
-    "investmentTerm": 1,
-    "isVerified": true,
-    "ownerId": "ins-001",
-    "ownerName": "Jubilee Insurance Kenya",
-    "status": "Active",
-    "createdDate": "2026-01-01T00:00:00",
-    "updatedDate": "2026-03-01T00:00:00"
-  }
-]
+{
+  "projects": [
+    {
+      "id": 1,
+      "location": "Nairobi County",
+      "sector": "Insurance",
+      "createdDate": "2026-04-16T17:49:58.4481013+02:00",
+      "title": "Jubilee Insurance Kenya Strategic Project",
+      "isVerified": true,
+      "requiredInvestment": 50000
+    }
+  ]
+}

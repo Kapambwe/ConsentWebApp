@@ -1,0 +1,11 @@
+{
+  "projects": [
+    {
+      "requiredInvestment": 85000,
+      "title": "Climate Smart Maize Program",
+      "id": "CF-001",
+      "verified": true,
+      "location": "Eastern Province"
+    }
+  ]
+}

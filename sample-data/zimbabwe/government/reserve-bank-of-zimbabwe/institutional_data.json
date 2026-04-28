@@ -1,0 +1,33 @@
+{
+  "Requests": [
+    {
+      "PurposeTemplate": "Working Capital Review",
+      "SubjectName": "Reserve Bank Of Zimbabwe Agro Traders",
+      "Id": "REQ-ZW-government-001",
+      "Status": "Pending"
+    }
+  ],
+  "VerificationHistory": [
+    {
+      "Id": "PROOF-ZW-001",
+      "VerifiedAt": "2026-04-25T17:50:01.3773005+02:00",
+      "DocumentType": "Tax Clearance",
+      "Verified": true,
+      "SubjectName": "Reserve Bank Of Zimbabwe Zimbabwe Desk",
+      "VerifiedBy": "ZIMRA"
+    }
+  ],
+  "Opportunities": [
+    {
+      "DisciplineScore": 84,
+      "TaxComplianceStatus": "Compliant",
+      "LastMonthGrowth": 12,
+      "Id": "OPP-ZW-001",
+      "ActiveContractCount": 3,
+      "BusinessName": "Reserve Bank Of Zimbabwe Zimbabwe Desk",
+      "TaskCompletionRate": 91,
+      "VerifiedRevenue": 185000,
+      "TotalAssetValue": 420000
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "projects": [
+    {
+      "verified": true,
+      "id": "CARB-TZ-001",
+      "requiredInvestment": 90000,
+      "location": "Dar es Salaam",
+      "title": "Agroforestry Carbon Sequestration"
+    }
+  ]
+}

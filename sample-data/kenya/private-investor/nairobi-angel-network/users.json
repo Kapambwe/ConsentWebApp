@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "USR-KE-001",
+      "email": "admin@kenya.sample",
+      "displayName": "Institution Admin",
+      "status": "Active",
+      "username": "admin",
+      "role": "Administrator"
+    },
+    {
+      "id": "USR-KE-002",
+      "email": "officer@kenya.sample",
+      "displayName": "Institution Officer",
+      "status": "Active",
+      "username": "officer",
+      "role": "Officer"
+    }
+  ]
+}

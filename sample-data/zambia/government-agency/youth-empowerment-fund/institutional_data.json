@@ -1,27 +1,33 @@
 {
-  "Portfolio": {
-    "TotalUnderwrittenValue": 15200000.00,
-    "AtRiskCount": 25,
-    "ActiveSubjects": 412,
-    "AveragePortfolioHealth": 6.9
-  },
-  "Requests": [],
-  "Opportunities": [
+  "Requests": [
     {
-      "SubjectId": "00000000-0000-0000-0000-000000000201",
-      "SubjectName": "Lusaka Tech Startup Hub",
-      "DisciplineScore": 9.2,
-      "DisciplineName": "Technology",
-      "PurposeTemplate": "Innovation Grant"
-    },
-    {
-      "SubjectId": "00000000-0000-0000-0000-000000000202",
-      "SubjectName": "Chingola Youth Carpentry Co-op",
-      "DisciplineScore": 8.1,
-      "DisciplineName": "Manufacturing",
-      "PurposeTemplate": "SME Funding"
+      "PurposeTemplate": "Grant Review",
+      "SubjectName": "Youth Empowerment Fund Beneficiary",
+      "Id": "REQ-ZM-GA-youth-empowerment-fund-001",
+      "Status": "Granted"
     }
   ],
-  "VerificationHistory": [],
-  "WarehouseReceipts": []
+  "VerificationHistory": [
+    {
+      "Id": "PROOF-ZM-001",
+      "VerifiedAt": "2026-04-25T17:49:57.6201227+02:00",
+      "DocumentType": "Tax Clearance",
+      "Verified": true,
+      "SubjectName": "Youth Empowerment Fund Agency Desk",
+      "VerifiedBy": "Government of Zambia"
+    }
+  ],
+  "Opportunities": [
+    {
+      "DisciplineScore": 84,
+      "TaxComplianceStatus": "Compliant",
+      "LastMonthGrowth": 12,
+      "Id": "OPP-ZM-001",
+      "ActiveContractCount": 3,
+      "BusinessName": "Youth Empowerment Fund Agency Desk",
+      "TaskCompletionRate": 91,
+      "VerifiedRevenue": 185000,
+      "TotalAssetValue": 420000
+    }
+  ]
 }

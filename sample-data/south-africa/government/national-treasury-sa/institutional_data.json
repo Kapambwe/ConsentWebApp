@@ -1,0 +1,39 @@
+{
+  "Requests": [
+    {
+      "PurposeTemplate": "Growth Capital Review",
+      "SubjectName": "National Treasury Sa Enterprise",
+      "Id": "REQ-ZA-government-001",
+      "Status": "Pending"
+    },
+    {
+      "PurposeTemplate": "Trade Finance Review",
+      "SubjectName": "National Treasury Sa Cooperative",
+      "Id": "REQ-ZA-government-002",
+      "Status": "Granted"
+    }
+  ],
+  "VerificationHistory": [
+    {
+      "Id": "PROOF-ZA-001",
+      "VerifiedAt": "2026-04-25T17:50:00.7114384+02:00",
+      "DocumentType": "Tax Clearance",
+      "Verified": true,
+      "SubjectName": "National Treasury Sa Commercial Desk",
+      "VerifiedBy": "SARS"
+    }
+  ],
+  "Opportunities": [
+    {
+      "DisciplineScore": 84,
+      "TaxComplianceStatus": "Compliant",
+      "LastMonthGrowth": 12,
+      "Id": "OPP-ZA-001",
+      "ActiveContractCount": 3,
+      "BusinessName": "National Treasury Sa Commercial Desk",
+      "TaskCompletionRate": 91,
+      "VerifiedRevenue": 185000,
+      "TotalAssetValue": 420000
+    }
+  ]
+}

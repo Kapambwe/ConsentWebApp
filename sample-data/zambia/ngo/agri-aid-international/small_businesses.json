@@ -1,0 +1,14 @@
+{
+  "Businesses": [
+    {
+      "LoanAmount": 15000,
+      "BusinessName": "Women Farmers Group",
+      "RepaymentScore": 89,
+      "Id": "SB-ZM-NGO-001",
+      "RiskScore": 16,
+      "Status": "Funded",
+      "UseOfFunds": 49,
+      "Sector": "Community Development"
+    }
+  ]
+}

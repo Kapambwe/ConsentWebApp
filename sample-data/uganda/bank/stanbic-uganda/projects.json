@@ -1,0 +1,13 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "location": "Kampala",
+      "sector": "Banking",
+      "createdDate": "2026-04-16T17:50:03.3859772+02:00",
+      "title": "Stanbic Uganda Strategic Project",
+      "isVerified": true,
+      "requiredInvestment": 50000
+    }
+  ]
+}

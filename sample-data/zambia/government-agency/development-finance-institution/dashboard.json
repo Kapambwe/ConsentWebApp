@@ -1,10 +1,10 @@
 {
-  "totalInvestment": 125000000.0,
-  "leverageRatio": 3.5,
-  "jobsCreated": 12500,
-  "industrialGrowthContribution": 4.2,
-  "recentActivities": [
-    { "id": 1, "description": "MoU signed for New Copper Smelter Financing", "date": "2026-04-15T14:00:00" },
-    { "id": 2, "description": "Annual Impact Report 2025 Published", "date": "2026-03-20T10:00:00" }
-  ]
+  "totalConsents": 18,
+  "activeConsents": 11,
+  "pendingRequests": 1,
+  "approvedRequests": 4,
+  "institution": "Development Finance Institution",
+  "country": "Zambia",
+  "rejectedRequests": 0,
+  "lastUpdated": "2026-04-28T17:49:57.7661378+02:00"
 }

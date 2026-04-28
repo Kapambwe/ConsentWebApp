@@ -1,27 +1,33 @@
 {
-  "Portfolio": {
-    "TotalUnderwrittenValue": 125000000.00,
-    "AtRiskCount": 5,
-    "ActiveSubjects": 48,
-    "AveragePortfolioHealth": 9.1
-  },
-  "Requests": [],
-  "Opportunities": [
+  "Requests": [
     {
-      "SubjectId": "00000000-0000-0000-0000-000000000301",
-      "SubjectName": "Zambia Sugar Expansion Phase 2",
-      "DisciplineScore": 9.5,
-      "DisciplineName": "Agro-Processing",
-      "PurposeTemplate": "Industrial Expansion Loan"
-    },
-    {
-      "SubjectId": "00000000-0000-0000-0000-000000000302",
-      "SubjectName": "Copperbelt Solar Power Plant",
-      "DisciplineScore": 8.8,
-      "DisciplineName": "Renewable Energy",
-      "PurposeTemplate": "Green Finance"
+      "PurposeTemplate": "Grant Review",
+      "SubjectName": "Development Finance Institution Beneficiary",
+      "Id": "REQ-ZM-GA-development-finance-institution-001",
+      "Status": "Granted"
     }
   ],
-  "VerificationHistory": [],
-  "WarehouseReceipts": []
+  "VerificationHistory": [
+    {
+      "Id": "PROOF-ZM-001",
+      "VerifiedAt": "2026-04-25T17:49:57.7670384+02:00",
+      "DocumentType": "Tax Clearance",
+      "Verified": true,
+      "SubjectName": "Development Finance Institution Agency Desk",
+      "VerifiedBy": "Government of Zambia"
+    }
+  ],
+  "Opportunities": [
+    {
+      "DisciplineScore": 84,
+      "TaxComplianceStatus": "Compliant",
+      "LastMonthGrowth": 12,
+      "Id": "OPP-ZM-001",
+      "ActiveContractCount": 3,
+      "BusinessName": "Development Finance Institution Agency Desk",
+      "TaskCompletionRate": 91,
+      "VerifiedRevenue": 185000,
+      "TotalAssetValue": 420000
+    }
+  ]
 }

@@ -1,16 +1,7 @@
-[
-  {
-    "componentId": "PF-AUTH-001",
-    "institutionId": "Kenya-NPF",
-    "componentName": "Pension Benefits Portal",
-    "componentType": "WebPortal",
-    "isActive": true,
-    "permissions": [
-      "PensionFund.Access",
-      "PensionFund.MemberRegistry.View",
-      "PensionFund.Disbursement.View",
-      "PensionFund.Compliance.View"
-    ],
-    "description": "Portal for member benefit management and large-scale infrastructure disbursements"
-  }
-]
+{
+  "institutionType": "pension-fund",
+  "loginMode": "mock",
+  "lastLoginAt": "2026-04-28T17:49:58.1969882+02:00",
+  "institutionName": "Kenya National Pension Fund",
+  "country": "kenya"
+}

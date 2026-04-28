@@ -1,0 +1,39 @@
+{
+  "Requests": [
+    {
+      "PurposeTemplate": "Growth Capital Review",
+      "SubjectName": "South African Reserve Bank Enterprise",
+      "Id": "REQ-ZA-government-001",
+      "Status": "Pending"
+    },
+    {
+      "PurposeTemplate": "Trade Finance Review",
+      "SubjectName": "South African Reserve Bank Cooperative",
+      "Id": "REQ-ZA-government-002",
+      "Status": "Granted"
+    }
+  ],
+  "VerificationHistory": [
+    {
+      "Id": "PROOF-ZA-001",
+      "VerifiedAt": "2026-04-25T17:50:00.5890840+02:00",
+      "DocumentType": "Tax Clearance",
+      "Verified": true,
+      "SubjectName": "South African Reserve Bank Commercial Desk",
+      "VerifiedBy": "SARS"
+    }
+  ],
+  "Opportunities": [
+    {
+      "DisciplineScore": 84,
+      "TaxComplianceStatus": "Compliant",
+      "LastMonthGrowth": 12,
+      "Id": "OPP-ZA-001",
+      "ActiveContractCount": 3,
+      "BusinessName": "South African Reserve Bank Commercial Desk",
+      "TaskCompletionRate": 91,
+      "VerifiedRevenue": 185000,
+      "TotalAssetValue": 420000
+    }
+  ]
+}

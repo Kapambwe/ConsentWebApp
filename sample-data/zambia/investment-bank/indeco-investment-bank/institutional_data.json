@@ -1,27 +1,33 @@
 {
-  "portfolio": {
-    "institutionId": "5fb85f64-5717-4562-b3fc-2c963f66afa8",
-    "institutionName": "Indeco Investment Bank",
-    "totalUnderwrittenValue": 1200000000.0,
-    "atRiskCount": 3,
-    "activeSubjects": 24,
-    "averagePortfolioHealth": 96.5
-  },
-  "requests": [],
-  "opportunities": [
+  "Requests": [
     {
-      "subjectId": "2d1e2f3g-4h5i-6d7e-8f9a0b1c2d3e4f5g",
-      "businessName": "Zambia Copper Mines",
-      "sector": "Mining",
-      "disciplineScore": 91.0,
-      "taskCompletionRate": 94.0,
-      "verifiedRevenue": 45000000.0,
-      "totalAssetValue": 150000000.0,
-      "taxComplianceStatus": "Compliant",
-      "activeContractCount": 8,
-      "lastMonthGrowth": 2.1
+      "PurposeTemplate": "Project Finance Review",
+      "SubjectName": "Energy Infrastructure SPV",
+      "Id": "REQ-ZM-INDECO-001",
+      "Status": "Pending"
     }
   ],
-  "verificationHistory": [],
-  "warehouseReceipts": []
+  "VerificationHistory": [
+    {
+      "Id": "PROOF-ZM-001",
+      "VerifiedAt": "2026-04-25T17:49:56.8698572+02:00",
+      "DocumentType": "Tax Clearance",
+      "Verified": true,
+      "SubjectName": "INDECO Project Finance",
+      "VerifiedBy": "ZRA"
+    }
+  ],
+  "Opportunities": [
+    {
+      "DisciplineScore": 84,
+      "TaxComplianceStatus": "Compliant",
+      "LastMonthGrowth": 12,
+      "Id": "OPP-ZM-001",
+      "ActiveContractCount": 3,
+      "BusinessName": "INDECO Project Finance",
+      "TaskCompletionRate": 91,
+      "VerifiedRevenue": 185000,
+      "TotalAssetValue": 420000
+    }
+  ]
 }

@@ -1,0 +1,13 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "location": "Nairobi County",
+      "sector": "Insurance",
+      "createdDate": "2026-04-16T17:49:58.5752886+02:00",
+      "title": "Uap Old Mutual Kenya Strategic Project",
+      "isVerified": true,
+      "requiredInvestment": 50000
+    }
+  ]
+}

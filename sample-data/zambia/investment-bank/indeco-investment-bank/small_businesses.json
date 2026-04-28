@@ -1,0 +1,14 @@
+{
+  "Businesses": [
+    {
+      "LoanAmount": 500000,
+      "BusinessName": "Energy Infrastructure SPV",
+      "RepaymentScore": 84,
+      "Id": "SB-ZM-INDECO-001",
+      "RiskScore": 21,
+      "Status": "Funded",
+      "UseOfFunds": 73,
+      "Sector": "Infrastructure"
+    }
+  ]
+}

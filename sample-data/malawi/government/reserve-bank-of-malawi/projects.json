@@ -1,0 +1,13 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "location": "Lilongwe",
+      "sector": "Banking",
+      "createdDate": "2026-04-16T17:50:01.9760066+02:00",
+      "title": "Reserve Bank Of Malawi Strategic Project",
+      "isVerified": true,
+      "requiredInvestment": 50000
+    }
+  ]
+}

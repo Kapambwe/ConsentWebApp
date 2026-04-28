@@ -1,0 +1,13 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "location": "Windhoek",
+      "sector": "Banking",
+      "createdDate": "2026-04-16T17:50:02.6342137+02:00",
+      "title": "Fnb Namibia Strategic Project",
+      "isVerified": true,
+      "requiredInvestment": 50000
+    }
+  ]
+}

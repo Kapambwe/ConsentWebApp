@@ -1,0 +1,13 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "location": "nigeria",
+      "sector": "General",
+      "createdDate": "2026-04-16T17:50:04.3195285+02:00",
+      "title": "First Bank Nigeria Strategic Project",
+      "isVerified": true,
+      "requiredInvestment": 50000
+    }
+  ]
+}

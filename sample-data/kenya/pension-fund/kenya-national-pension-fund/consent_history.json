@@ -1,15 +1,10 @@
-[
-  {
-    "id": "h-pf-001",
-    "customerName": "Jane Doe",
-    "customerIdentifier": "emp-909",
-    "status": "Granted",
-    "requestedBy": "Benefits Administration",
-    "purpose": "Pension Disbursement Setup",
-    "requestedDate": "2026-01-05T08:00:00",
-    "startDate": "2026-01-10T10:00:00",
-    "endDate": "2036-01-10T10:00:00",
-    "consentType": "Identity",
-    "consentScope": "Read-Only"
-  }
-]
+{
+  "items": [
+    {
+      "customerId": "CUST-KE-001",
+      "timestamp": "2026-04-08T17:49:58.2004352+02:00",
+      "action": "Granted",
+      "consentId": "CON-KE-001"
+    }
+  ]
+}

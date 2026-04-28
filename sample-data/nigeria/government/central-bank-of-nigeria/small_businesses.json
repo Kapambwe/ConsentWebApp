@@ -1,0 +1,14 @@
+{
+  "Businesses": [
+    {
+      "LoanAmount": 10000000,
+      "BusinessName": "Financial Sector Review",
+      "RepaymentScore": 96,
+      "Id": "SB-NG-CBN-001",
+      "RiskScore": 8,
+      "Status": "Funded",
+      "UseOfFunds": 35,
+      "Sector": "Financial Services"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "Businesses": [
+    {
+      "LoanAmount": 3500000,
+      "BusinessName": "Centenary Bank Coffee Traders",
+      "RepaymentScore": 81,
+      "Id": "SB-UG-bank-001",
+      "RiskScore": 27,
+      "Status": "Funded",
+      "UseOfFunds": 64,
+      "Sector": "Coffee Trade"
+    }
+  ]
+}

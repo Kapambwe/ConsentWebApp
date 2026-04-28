@@ -1,0 +1,14 @@
+{
+  "Businesses": [
+    {
+      "LoanAmount": 10000,
+      "BusinessName": "National Bank Of Malawi Farmers Union",
+      "RepaymentScore": 75,
+      "Id": "SB-MW-bank-001",
+      "RiskScore": 31,
+      "Status": "Funded",
+      "UseOfFunds": 57,
+      "Sector": "Agriculture"
+    }
+  ]
+}

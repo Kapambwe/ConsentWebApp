@@ -1,46 +1,33 @@
 {
-  "portfolio": {
-    "institutionId": "4eb95f64-5717-4562-b3fc-2c963f66afa7",
-    "institutionName": "Zambia Wealth Management",
-    "totalUnderwrittenValue": 250000000.0,
-    "atRiskCount": 5,
-    "activeSubjects": 120,
-    "averagePortfolioHealth": 98.2
-  },
-  "requests": [
+  "Requests": [
     {
-      "requestId": "f1b2c3d4-e5f6-4a5b-bc6d-e7f8g9h0i1j2",
-      "subjectId": "9a8b9c0d-1e2f-3a4b-5c6d-7e8f9a0b1c2d",
-      "subjectName": "Green Valley Estate",
-      "purposeTemplate": "Investment Due Diligence",
-      "status": "Granted",
-      "requestedOn": "2026-04-12T10:00:00",
-      "expiresOn": "2026-07-12T10:00:00"
+      "PurposeTemplate": "Portfolio Review",
+      "SubjectName": "High Net Worth Portfolio",
+      "Id": "REQ-ZM-ZWM-001",
+      "Status": "Granted"
     }
   ],
-  "opportunities": [
+  "VerificationHistory": [
     {
-      "subjectId": "1c0d1e2f-3g4h-5c6d-7e8f9a0b1c2d3e4f",
-      "businessName": "Solar Grid Zambia",
-      "sector": "Energy",
-      "disciplineScore": 92.0,
-      "taskCompletionRate": 95.5,
-      "verifiedRevenue": 5000000.0,
-      "totalAssetValue": 12000000.0,
-      "taxComplianceStatus": "Compliant",
-      "activeContractCount": 12,
-      "lastMonthGrowth": 8.5
+      "Id": "PROOF-ZM-001",
+      "VerifiedAt": "2026-04-25T17:49:56.6554914+02:00",
+      "DocumentType": "Tax Clearance",
+      "Verified": true,
+      "SubjectName": "Zambia Wealth Management Desk",
+      "VerifiedBy": "ZRA"
     }
   ],
-  "verificationHistory": [
+  "Opportunities": [
     {
-      "id": "g3d4e5f6-g7h8-4d5e-ef6f-g7h8i9j0k1l2",
-      "timestamp": "2026-04-15T11:00:00",
-      "sourceSystem": "LuSE",
-      "dataPoint": "Equity Holding Verification",
-      "verificationStatus": "Verified",
-      "hashSignature": "sha256:luse123..."
+      "DisciplineScore": 84,
+      "TaxComplianceStatus": "Compliant",
+      "LastMonthGrowth": 12,
+      "Id": "OPP-ZM-001",
+      "ActiveContractCount": 3,
+      "BusinessName": "Zambia Wealth Management Desk",
+      "TaskCompletionRate": 91,
+      "VerifiedRevenue": 185000,
+      "TotalAssetValue": 420000
     }
-  ],
-  "warehouseReceipts": []
+  ]
 }

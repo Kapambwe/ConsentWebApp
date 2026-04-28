@@ -1,16 +1,7 @@
-[
-  {
-    "componentId": "MFI-AUTH-001",
-    "institutionId": "Agri-Loan-MFI",
-    "componentName": "Microfinance Field Portal",
-    "componentType": "WebPortal",
-    "isActive": true,
-    "permissions": [
-      "Microfinance.Access",
-      "Microfinance.Dashboard.View",
-      "Microfinance.FieldOperations.View",
-      "Microfinance.SeasonalLending.View"
-    ],
-    "description": "Portal for seasonal input loan origination and smallholder farmer tracking"
-  }
-]
+{
+  "institutionType": "micro-finance",
+  "loginMode": "mock",
+  "lastLoginAt": "2026-04-28T17:49:57.1348666+02:00",
+  "institutionName": "Agri Loan Microfinance",
+  "country": "zambia"
+}

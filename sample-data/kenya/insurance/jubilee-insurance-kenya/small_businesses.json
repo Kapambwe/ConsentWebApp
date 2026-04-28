@@ -1,0 +1,14 @@
+{
+  "Businesses": [
+    {
+      "LoanAmount": 64000,
+      "BusinessName": "Jubilee Insurance Kenya Tea Cooperative",
+      "RepaymentScore": 78,
+      "Id": "SB-KE-insurance-001",
+      "RiskScore": 33,
+      "Status": "Funded",
+      "UseOfFunds": 63,
+      "Sector": "Agribusiness"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "location": "Central Province",
+      "sector": "Agriculture",
+      "createdDate": "2026-04-16T17:49:56.5441260+02:00",
+      "title": "Banda Smallholdings Strategic Project",
+      "isVerified": true,
+      "requiredInvestment": 50000
+    }
+  ]
+}

@@ -1,15 +1,10 @@
-[
-  {
-    "id": "h-ib-001",
-    "customerName": "Zambia Copper Mines",
-    "customerIdentifier": "corp-505",
-    "status": "Granted",
-    "requestedBy": "MD - Investment Banking",
-    "purpose": "Capital Raise Due Diligence",
-    "requestedDate": "2026-01-25T08:00:00",
-    "startDate": "2026-02-01T10:00:00",
-    "endDate": "2027-02-01T10:00:00",
-    "consentType": "Financials",
-    "consentScope": "Full-Access"
-  }
-]
+{
+  "items": [
+    {
+      "customerId": "CUST-ZM-001",
+      "timestamp": "2026-04-08T17:49:56.8705822+02:00",
+      "action": "Granted",
+      "consentId": "CON-ZM-001"
+    }
+  ]
+}

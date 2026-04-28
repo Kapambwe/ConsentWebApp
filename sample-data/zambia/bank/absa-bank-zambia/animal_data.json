@@ -1,0 +1,40 @@
+{
+  "harvestHistory": [
+    {
+      "yieldTonsPerHectare": 7.8,
+      "totalYield": 97.5,
+      "harvestDate": "2026-01-28T17:49:55.4502604+02:00",
+      "plotId": "P-ZM-001",
+      "qualityGrade": "Grade 1"
+    }
+  ],
+  "cropPlots": [
+    {
+      "variety": "Hybrid",
+      "cropType": "Maize",
+      "areaHectares": 12.5,
+      "plotId": "P-ZM-001",
+      "expectedYield": 8.2,
+      "plantingDate": "2026-02-27T17:49:55.4500218+02:00"
+    }
+  ],
+  "breedingRecords": [
+    {
+      "expectedBirthDate": "2026-11-24T17:49:55.4497781+02:00",
+      "sireInfo": "Premium Bull",
+      "animalId": "C001",
+      "pregnancyStatus": "Confirmed",
+      "breedingDate": "2026-03-29T17:49:55.4495717+02:00"
+    }
+  ],
+  "animalGroups": [
+    {
+      "totalCount": 35,
+      "youngStock": 7,
+      "breed": "Friesian",
+      "species": "Dairy Cattle",
+      "averageWeight": 550,
+      "adults": 28
+    }
+  ]
+}

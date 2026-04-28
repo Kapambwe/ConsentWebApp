@@ -1,0 +1,14 @@
+{
+  "Businesses": [
+    {
+      "LoanAmount": 150000,
+      "BusinessName": "High Net Worth Portfolio",
+      "RepaymentScore": 88,
+      "Id": "SB-ZM-ZWM-001",
+      "RiskScore": 18,
+      "Status": "Funded",
+      "UseOfFunds": 50,
+      "Sector": "Asset Management"
+    }
+  ]
+}

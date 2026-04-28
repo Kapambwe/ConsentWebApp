@@ -1,20 +1,13 @@
-[
-  {
-    "id": 5001,
-    "title": "Nairobi Affordable Housing",
-    "sector": "Real Estate",
-    "location": "Nairobi, Kenya",
-    "verificationLevel": "Verified",
-    "description": "Pension-backed funding for a 5,000-unit affordable housing development.",
-    "shortDescription": "Pension-backed affordable housing development.",
-    "requiredInvestment": 15000000,
-    "roiEstimate": 8,
-    "investmentTerm": 15,
-    "isVerified": true,
-    "ownerId": "pen-001",
-    "ownerName": "Kenya National Pension Fund",
-    "status": "Active",
-    "createdDate": "2024-05-10T00:00:00",
-    "updatedDate": "2026-01-20T00:00:00"
-  }
-]
+{
+  "projects": [
+    {
+      "id": 1,
+      "location": "Nairobi County",
+      "sector": "Pension Management",
+      "createdDate": "2026-04-16T17:49:58.1999263+02:00",
+      "title": "Kenya National Pension Fund Strategic Project",
+      "isVerified": true,
+      "requiredInvestment": 50000
+    }
+  ]
+}

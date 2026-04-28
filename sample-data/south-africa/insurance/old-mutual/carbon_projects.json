@@ -1,0 +1,11 @@
+{
+  "projects": [
+    {
+      "verified": true,
+      "id": "CARB-ZA-001",
+      "requiredInvestment": 90000,
+      "location": "Western Cape",
+      "title": "Agroforestry Carbon Sequestration"
+    }
+  ]
+}

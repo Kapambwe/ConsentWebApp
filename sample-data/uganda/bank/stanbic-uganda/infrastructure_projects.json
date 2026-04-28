@@ -1,0 +1,11 @@
+{
+  "projects": [
+    {
+      "verified": true,
+      "id": "INF-UG-001",
+      "requiredInvestment": 250000,
+      "location": "Kampala",
+      "title": "Cold Storage Network"
+    }
+  ]
+}

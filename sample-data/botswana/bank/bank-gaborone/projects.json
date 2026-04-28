@@ -1,0 +1,13 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "location": "Gaborone",
+      "sector": "Banking",
+      "createdDate": "2026-04-16T17:50:02.1407608+02:00",
+      "title": "Bank Gaborone Strategic Project",
+      "isVerified": true,
+      "requiredInvestment": 50000
+    }
+  ]
+}

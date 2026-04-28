@@ -112,3 +112,128 @@ code {
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
     text-align: start;
 }
+
+.app-shell {
+    position: relative;
+    min-height: 100vh;
+    overflow: hidden;
+    background:
+        radial-gradient(circle at top left, rgba(79, 70, 229, 0.18), transparent 34%),
+        radial-gradient(circle at top right, rgba(6, 182, 212, 0.16), transparent 30%),
+        linear-gradient(135deg, #f8fbff 0%, #eef5ff 52%, #f7faff 100%);
+    animation: shellFadeIn 700ms ease-out both, shellDrift 22s ease-in-out infinite;
+}
+
+.app-shell::before,
+.app-shell::after {
+    content: "";
+    position: fixed;
+    inset: auto;
+    width: 34rem;
+    height: 34rem;
+    border-radius: 50%;
+    pointer-events: none;
+    filter: blur(18px);
+    opacity: 0.65;
+    z-index: 0;
+    animation: floatBlob 14s ease-in-out infinite;
+}
+
+.app-shell::before {
+    top: -9rem;
+    right: -10rem;
+    background: radial-gradient(circle, rgba(79, 70, 229, 0.26) 0%, rgba(79, 70, 229, 0) 68%);
+}
+
+.app-shell::after {
+    bottom: -10rem;
+    left: -12rem;
+    background: radial-gradient(circle, rgba(6, 182, 212, 0.22) 0%, rgba(6, 182, 212, 0) 70%);
+    animation-delay: -6s;
+}
+
+.app-shell__content {
+    position: relative;
+    z-index: 1;
+    min-height: 100vh;
+}
+
+.app-shell__content::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: 0;
+    opacity: 0.10;
+    background-image:
+        linear-gradient(rgba(79, 70, 229, 0.08) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(79, 70, 229, 0.08) 1px, transparent 1px);
+    background-size: 5rem 5rem;
+    mask-image: linear-gradient(180deg, rgba(0, 0, 0, 0.95), rgba(0, 0, 0, 0.08));
+    animation: gridMove 28s linear infinite;
+}
+
+.app-shell__body {
+    position: relative;
+    backdrop-filter: blur(10px);
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.82) 0%, rgba(255, 255, 255, 0.68) 100%);
+    border-top: 1px solid rgba(148, 163, 184, 0.12);
+}
+
+.app-shell__panel {
+    border-right: 1px solid rgba(148, 163, 184, 0.12);
+    background: rgba(255, 255, 255, 0.58);
+    backdrop-filter: blur(12px);
+}
+
+.app-shell__header {
+    background: linear-gradient(135deg, rgba(15, 23, 42, 0.92), rgba(30, 41, 59, 0.92));
+    backdrop-filter: blur(10px);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+    position: relative;
+    z-index: 1;
+}
+
+.app-shell__footer {
+    background: rgba(255, 255, 255, 0.66);
+    backdrop-filter: blur(8px);
+    border-top: 1px solid rgba(148, 163, 184, 0.12);
+}
+
+@keyframes shellFadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(8px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes floatBlob {
+    0%, 100% {
+        transform: translate3d(0, 0, 0) scale(1);
+    }
+    50% {
+        transform: translate3d(18px, 22px, 0) scale(1.06);
+    }
+}
+
+@keyframes shellDrift {
+    0%, 100% {
+        background-position: 0% 0%, 100% 0%, 0% 0%;
+    }
+    50% {
+        background-position: 12% 8%, 88% 12%, 50% 50%;
+    }
+}
+
+@keyframes gridMove {
+    from {
+        transform: translate3d(0, 0, 0);
+    }
+    to {
+        transform: translate3d(5rem, 5rem, 0);
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "roles": [
+    {
+      "name": "Administrator",
+      "permissions": [
+        "Consent.Admin.ViewTemplates",
+        "Consent.Admin.ViewVerifiableCredentials",
+        "Consent.Admin.ViewIssuers",
+        "Consent.Institutional.ViewDashboard",
+        "Consent.Institutional.ViewRequests",
+        "Consent.Institutional.ViewMarketplace",
+        "Consent.Institutional.ViewWarehouseReceipts",
+        "Consent.Institutional.ManageWarehouseReceipts"
+      ]
+    },
+    {
+      "name": "Officer",
+      "permissions": [
+        "Consent.Institutional.ViewDashboard",
+        "Consent.Institutional.ViewRequests",
+        "Consent.Institutional.ViewMarketplace",
+        "Consent.Institutional.ViewWarehouseReceipts"
+      ]
+    }
+  ]
+}

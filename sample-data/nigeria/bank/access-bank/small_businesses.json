@@ -1,0 +1,14 @@
+{
+  "Businesses": [
+    {
+      "LoanAmount": 4500000,
+      "BusinessName": "Lagos Agro Traders",
+      "RepaymentScore": 78,
+      "Id": "SB-NG-ACC-001",
+      "RiskScore": 29,
+      "Status": "Funded",
+      "UseOfFunds": 67,
+      "Sector": "Agribusiness"
+    }
+  ]
+}

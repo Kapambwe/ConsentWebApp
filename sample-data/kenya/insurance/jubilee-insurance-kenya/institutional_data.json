@@ -1,14 +1,39 @@
 {
-  "portfolio": {
-    "institutionId": "9jf85f64-5717-4562-b3fc-2c963f66afb2",
-    "institutionName": "Jubilee Insurance Kenya",
-    "totalUnderwrittenValue": 500000000.0,
-    "atRiskCount": 500,
-    "activeSubjects": 120000,
-    "averagePortfolioHealth": 97.2
-  },
-  "requests": [],
-  "opportunities": [],
-  "verificationHistory": [],
-  "warehouseReceipts": []
+  "Requests": [
+    {
+      "PurposeTemplate": "Working Capital Review",
+      "SubjectName": "Jubilee Insurance Kenya Tea Cooperative",
+      "Id": "REQ-KE-insurance-001",
+      "Status": "Pending"
+    },
+    {
+      "PurposeTemplate": "Business Expansion Review",
+      "SubjectName": "Jubilee Insurance Kenya Market Traders",
+      "Id": "REQ-KE-insurance-002",
+      "Status": "Granted"
+    }
+  ],
+  "VerificationHistory": [
+    {
+      "Id": "PROOF-KE-001",
+      "VerifiedAt": "2026-04-25T17:49:58.4469845+02:00",
+      "DocumentType": "Tax Clearance",
+      "Verified": true,
+      "SubjectName": "Jubilee Insurance Kenya SME Desk",
+      "VerifiedBy": "KRA"
+    }
+  ],
+  "Opportunities": [
+    {
+      "DisciplineScore": 84,
+      "TaxComplianceStatus": "Compliant",
+      "LastMonthGrowth": 12,
+      "Id": "OPP-KE-001",
+      "ActiveContractCount": 3,
+      "BusinessName": "Jubilee Insurance Kenya SME Desk",
+      "TaskCompletionRate": 91,
+      "VerifiedRevenue": 185000,
+      "TotalAssetValue": 420000
+    }
+  ]
 }

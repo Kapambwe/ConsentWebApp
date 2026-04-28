@@ -1,4 +1,12 @@
-[
-  { "id": "L-5001", "borrower": "Banda Smallholdings", "amount": 50000.0, "status": "Active", "type": "Agri-Loan" },
-  { "id": "L-5002", "borrower": "Central-Province-Aggregators", "amount": 250000.0, "status": "Active", "type": "Working Capital" }
-]
+{
+  "loans": [
+    {
+      "interestRate": 12.5,
+      "amount": 50000,
+      "balance": 32000,
+      "nextPaymentDate": "2026-05-12T17:49:55.4509950+02:00",
+      "borrower": "Absa Bank Zambia SME Desk",
+      "loanId": "LN-ZM-001"
+    }
+  ]
+}

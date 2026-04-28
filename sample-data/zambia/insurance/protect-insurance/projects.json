@@ -1,0 +1,13 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "location": "Lusaka Province",
+      "sector": "Insurance",
+      "createdDate": "2026-04-16T17:49:55.8315196+02:00",
+      "title": "Protect Insurance Strategic Project",
+      "isVerified": true,
+      "requiredInvestment": 50000
+    }
+  ]
+}

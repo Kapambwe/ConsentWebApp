@@ -1,87 +1,39 @@
 {
-  "portfolio": {
-    "institutionId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
-    "institutionName": "Zambia Commercial Bank",
-    "totalUnderwrittenValue": 50000000.0,
-    "atRiskCount": 12,
-    "activeSubjects": 450,
-    "averagePortfolioHealth": 94.5
-  },
-  "requests": [
+  "Requests": [
     {
-      "requestId": "a1b2c3d4-e5f6-4a5b-bc6d-e7f8g9h0i1j2",
-      "subjectId": "7a8b9c0d-1e2f-3a4b-5c6d-7e8f9a0b1c2d",
-      "subjectName": "Banda Smallholdings",
-      "purposeTemplate": "Credit Risk Assessment",
-      "status": "Granted",
-      "requestedOn": "2026-04-10T10:00:00",
-      "expiresOn": "2026-05-10T10:00:00"
+      "PurposeTemplate": "Livestock Loan Assessment",
+      "SubjectName": "Chisamba Dairy Cooperative",
+      "Id": "REQ-ZM-ZCB-001",
+      "Status": "Pending"
     },
     {
-      "requestId": "b2c3d4e5-f6g7-4b6c-cd7e-f8g9h0i1j2k3",
-      "subjectId": "8b9c0d1e-2f3g-4b5c-6d7e-8f9a0b1c2d3e",
-      "subjectName": "Lusaka Poultry Ltd",
-      "purposeTemplate": "KYC Verification",
-      "status": "Pending",
-      "requestedOn": "2026-04-15T14:30:00"
+      "PurposeTemplate": "Trade Finance Review",
+      "SubjectName": "Ndola Grain Traders",
+      "Id": "REQ-ZM-ZCB-002",
+      "Status": "Granted"
     }
   ],
-  "opportunities": [
+  "VerificationHistory": [
     {
-      "subjectId": "9c0d1e2f-3g4h-5c6d-7e8f-9a0b1c2d3e4f",
-      "businessName": "Copperbelt Logistics",
-      "sector": "Transport",
-      "disciplineScore": 88.5,
-      "taskCompletionRate": 92.0,
-      "verifiedRevenue": 1200000.0,
-      "totalAssetValue": 3500000.0,
-      "taxComplianceStatus": "Compliant",
-      "activeContractCount": 5,
-      "lastMonthGrowth": 4.2
-    },
-    {
-      "subjectId": "0d1e2f3g-4h5i-6d7e-8f9a-0b1c2d3e4f5g",
-      "businessName": "Mwanza Agri-Tech",
-      "sector": "Agri-Tech",
-      "disciplineScore": 95.0,
-      "taskCompletionRate": 98.5,
-      "verifiedRevenue": 450000.0,
-      "totalAssetValue": 150000.0,
-      "taxComplianceStatus": "Compliant",
-      "activeContractCount": 3,
-      "lastMonthGrowth": 12.5
+      "Id": "PROOF-ZM-001",
+      "VerifiedAt": "2026-04-25T17:49:55.1707321+02:00",
+      "DocumentType": "Tax Clearance",
+      "Verified": true,
+      "SubjectName": "Zambia Commercial Bank SME Desk",
+      "VerifiedBy": "ZRA"
     }
   ],
-  "verificationHistory": [
+  "Opportunities": [
     {
-      "id": "c3d4e5f6-g7h8-4d5e-ef6f-g7h8i9j0k1l2",
-      "timestamp": "2026-04-17T09:15:00",
-      "sourceSystem": "ZRA",
-      "dataPoint": "VAT Return Q1 2026",
-      "verificationStatus": "Verified",
-      "hashSignature": "sha256:abc123xyz..."
-    },
-    {
-      "id": "d4e5f6g7-h8i9-4e5f-fg7g-h8i9j0k1l2m3",
-      "timestamp": "2026-04-16T15:45:00",
-      "sourceSystem": "PACRA",
-      "dataPoint": "Annual Return 2025",
-      "verificationStatus": "Verified",
-      "hashSignature": "sha256:def456uvw..."
-    }
-  ],
-  "warehouseReceipts": [
-    {
-      "receiptId": "e5f6g7h8-i9j0-4f5g-gh8h-i9j0k1l2m3n4",
-      "warehouseName": "Kabwe Central Storage",
-      "commodityType": "Maize",
-      "quantity": 500.0,
-      "unit": "MT",
-      "marketValue": 125000.0,
-      "depositDate": "2026-03-20T08:00:00",
-      "expiryDate": "2026-09-20T08:00:00",
-      "isEncumbered": false,
-      "verificationHash": "wr:hash:789abc..."
+      "DisciplineScore": 84,
+      "TaxComplianceStatus": "Compliant",
+      "LastMonthGrowth": 12,
+      "Id": "OPP-ZM-001",
+      "ActiveContractCount": 3,
+      "BusinessName": "Zambia Commercial Bank SME Desk",
+      "TaskCompletionRate": 91,
+      "VerifiedRevenue": 185000,
+      "TotalAssetValue": 420000
     }
   ]
 }

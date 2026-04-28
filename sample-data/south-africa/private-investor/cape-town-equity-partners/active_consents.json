@@ -1,14 +1,10 @@
-[
-  {
-    "consentId": "c-pi-001",
-    "customerId": "startup-101",
-    "customerName": "PayZim",
-    "consentType": "Financials",
-    "purpose": "Ongoing Portfolio Monitoring",
-    "grantedDate": "2025-09-01T10:00:00",
-    "expiryDate": "2030-09-01T10:00:00",
-    "status": "Active",
-    "scope": "Full-Access",
-    "dataCategories": "MonthlyManagementAccounts, CapTable"
-  }
-]
+{
+  "items": [
+    {
+      "customerId": "CUST-ZA-002",
+      "consentId": "CON-ZA-002",
+      "status": "Active",
+      "expires": "2026-06-27T17:49:59.9698973+02:00"
+    }
+  ]
+}
