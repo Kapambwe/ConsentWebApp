@@ -1,0 +1,28 @@
+[
+  {
+    "requestId": "req-biz-001",
+    "businessId": "biz-123",
+    "businessName": "AgriTech Solutions",
+    "purpose": "Investment Performance Review",
+    "requestedAttributes": ["CommitmentId", "ImpactMetrics", "Revenue"],
+    "status": "Signed",
+    "signedAt": "2026-06-13T10:00:00Z",
+    "signatureChain": [
+      { "Role": "Owner", "Actor": "AgriTech_Owner", "Signature": "sig_owner_123", "PreviousSignature": null },
+      { "Role": "Verifier", "Actor": "Gov_Officer_01", "Signature": "sig_gov_456", "PreviousSignature": "sig_owner_123" }
+    ]
+  },
+  {
+    "requestId": "req-biz-002",
+    "businessId": "biz-456",
+    "businessName": "SmallScale Logistics",
+    "purpose": "Supply Chain Traceability",
+    "requestedAttributes": ["OriginPoint", "TransitStatus", "IntegrityHash"],
+    "status": "Signed",
+    "signedAt": "2026-06-13T11:30:00Z",
+    "signatureChain": [
+      { "Role": "Owner", "Actor": "Logistics_Owner", "Signature": "sig_logistics_owner", "PreviousSignature": null },
+      { "Role": "Auditor", "Actor": "Ext_Officer_02", "Signature": "sig_ext_789", "PreviousSignature": "sig_logistics_owner" }
+    ]
+  }
+]
