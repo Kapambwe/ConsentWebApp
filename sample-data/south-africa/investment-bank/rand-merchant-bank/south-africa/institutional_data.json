@@ -1,0 +1,33 @@
+{
+  "Requests": [
+    {
+      "PurposeTemplate": "Project Finance Review",
+      "SubjectName": "Mining Growth SPV",
+      "Id": "REQ-ZA-RMB-001",
+      "Status": "Pending"
+    }
+  ],
+  "VerificationHistory": [
+    {
+      "Id": "PROOF-ZA-001",
+      "VerifiedAt": "2026-04-25T17:49:59.8168584+02:00",
+      "DocumentType": "Tax Clearance",
+      "Verified": true,
+      "SubjectName": "Rand Merchant Advisory",
+      "VerifiedBy": "SARS"
+    }
+  ],
+  "Opportunities": [
+    {
+      "DisciplineScore": 84,
+      "TaxComplianceStatus": "Compliant",
+      "LastMonthGrowth": 12,
+      "Id": "OPP-ZA-001",
+      "ActiveContractCount": 3,
+      "BusinessName": "Rand Merchant Advisory",
+      "TaskCompletionRate": 91,
+      "VerifiedRevenue": 185000,
+      "TotalAssetValue": 420000
+    }
+  ]
+}

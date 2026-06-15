@@ -1,0 +1,14 @@
+{
+  "Businesses": [
+    {
+      "LoanAmount": 200000,
+      "BusinessName": "Johannesburg Growth Fund",
+      "RepaymentScore": 84,
+      "Id": "SB-ZA-IV-001",
+      "RiskScore": 22,
+      "Status": "Funded",
+      "UseOfFunds": 69,
+      "Sector": "Investment Services"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "projects": [
+    {
+      "verified": true,
+      "id": "CARB-UG-001",
+      "requiredInvestment": 90000,
+      "location": "Kampala",
+      "title": "Agroforestry Carbon Sequestration"
+    }
+  ]
+}

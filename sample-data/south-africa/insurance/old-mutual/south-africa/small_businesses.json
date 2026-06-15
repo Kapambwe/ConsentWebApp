@@ -1,0 +1,14 @@
+{
+  "Businesses": [
+    {
+      "LoanAmount": 50000,
+      "BusinessName": "Farm Asset Portfolio",
+      "RepaymentScore": 78,
+      "Id": "SB-ZA-OM-001",
+      "RiskScore": 23,
+      "Status": "Funded",
+      "UseOfFunds": 45,
+      "Sector": "Agriculture"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "location": "Lusaka Province",
+      "sector": "Development Finance",
+      "createdDate": "2026-04-16T17:49:57.6212495+02:00",
+      "title": "Youth Empowerment Fund Strategic Project",
+      "isVerified": true,
+      "requiredInvestment": 50000
+    }
+  ]
+}

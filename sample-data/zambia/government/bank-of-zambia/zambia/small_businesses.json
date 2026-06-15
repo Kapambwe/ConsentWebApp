@@ -1,0 +1,14 @@
+{
+  "Businesses": [
+    {
+      "LoanAmount": 100000,
+      "BusinessName": "Financial Institution Review",
+      "RepaymentScore": 95,
+      "Id": "SB-ZM-BOZ-001",
+      "RiskScore": 10,
+      "Status": "Funded",
+      "UseOfFunds": 40,
+      "Sector": "Financial Services"
+    }
+  ]
+}

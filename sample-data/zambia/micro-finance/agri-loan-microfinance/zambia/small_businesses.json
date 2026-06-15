@@ -1,0 +1,14 @@
+{
+  "Businesses": [
+    {
+      "LoanAmount": 12000,
+      "BusinessName": "Chisamba Market Gardeners",
+      "RepaymentScore": 75,
+      "Id": "SB-ZM-ALM-001",
+      "RiskScore": 32,
+      "Status": "Funded",
+      "UseOfFunds": 59,
+      "Sector": "Smallholder Farming"
+    }
+  ]
+}

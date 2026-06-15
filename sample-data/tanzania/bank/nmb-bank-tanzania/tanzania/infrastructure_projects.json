@@ -1,0 +1,11 @@
+{
+  "projects": [
+    {
+      "verified": true,
+      "id": "INF-TZ-001",
+      "requiredInvestment": 250000,
+      "location": "Dar es Salaam",
+      "title": "Cold Storage Network"
+    }
+  ]
+}

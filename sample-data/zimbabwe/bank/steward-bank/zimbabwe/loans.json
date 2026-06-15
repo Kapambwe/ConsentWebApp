@@ -1,0 +1,12 @@
+{
+  "loans": [
+    {
+      "interestRate": 12.5,
+      "amount": 50000,
+      "balance": 32000,
+      "nextPaymentDate": "2026-05-12T17:50:00.9685736+02:00",
+      "borrower": "Steward Bank Zimbabwe Desk",
+      "loanId": "LN-ZW-001"
+    }
+  ]
+}

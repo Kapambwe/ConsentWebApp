@@ -1,0 +1,33 @@
+{
+  "Requests": [
+    {
+      "PurposeTemplate": "Working Capital Review",
+      "SubjectName": "Bank Of Tanzania Tea Cooperative",
+      "Id": "REQ-TZ-government-001",
+      "Status": "Pending"
+    }
+  ],
+  "VerificationHistory": [
+    {
+      "Id": "PROOF-TZ-001",
+      "VerifiedAt": "2026-04-25T17:50:03.2564500+02:00",
+      "DocumentType": "Tax Clearance",
+      "Verified": true,
+      "SubjectName": "Bank Of Tanzania Tanzania Desk",
+      "VerifiedBy": "TRA"
+    }
+  ],
+  "Opportunities": [
+    {
+      "DisciplineScore": 84,
+      "TaxComplianceStatus": "Compliant",
+      "LastMonthGrowth": 12,
+      "Id": "OPP-TZ-001",
+      "ActiveContractCount": 3,
+      "BusinessName": "Bank Of Tanzania Tanzania Desk",
+      "TaskCompletionRate": 91,
+      "VerifiedRevenue": 185000,
+      "TotalAssetValue": 420000
+    }
+  ]
+}

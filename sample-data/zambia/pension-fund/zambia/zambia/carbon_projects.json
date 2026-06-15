@@ -1,0 +1,11 @@
+{
+  "projects": [
+    {
+      "requiredInvestment": 90000,
+      "title": "Agroforestry Carbon Sequestration",
+      "id": "CARB-001",
+      "verified": true,
+      "location": "Southern Province"
+    }
+  ]
+}

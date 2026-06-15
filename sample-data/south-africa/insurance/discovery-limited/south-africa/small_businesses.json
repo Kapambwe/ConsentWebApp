@@ -1,0 +1,14 @@
+{
+  "Businesses": [
+    {
+      "LoanAmount": 70000,
+      "BusinessName": "Fleet Insurance Portfolio",
+      "RepaymentScore": 77,
+      "Id": "SB-ZA-DIS-001",
+      "RiskScore": 24,
+      "Status": "Funded",
+      "UseOfFunds": 43,
+      "Sector": "Logistics"
+    }
+  ]
+}

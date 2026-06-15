@@ -1,0 +1,12 @@
+{
+  "loans": [
+    {
+      "interestRate": 12.5,
+      "amount": 50000,
+      "balance": 32000,
+      "nextPaymentDate": "2026-05-12T17:49:57.9264945+02:00",
+      "borrower": "KCB SME Banking",
+      "loanId": "LN-KE-001"
+    }
+  ]
+}

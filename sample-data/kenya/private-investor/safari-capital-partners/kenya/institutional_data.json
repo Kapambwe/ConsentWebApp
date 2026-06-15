@@ -1,0 +1,39 @@
+{
+  "Requests": [
+    {
+      "PurposeTemplate": "Working Capital Review",
+      "SubjectName": "Safari Capital Partners Tea Cooperative",
+      "Id": "REQ-KE-private-investor-001",
+      "Status": "Pending"
+    },
+    {
+      "PurposeTemplate": "Business Expansion Review",
+      "SubjectName": "Safari Capital Partners Market Traders",
+      "Id": "REQ-KE-private-investor-002",
+      "Status": "Granted"
+    }
+  ],
+  "VerificationHistory": [
+    {
+      "Id": "PROOF-KE-001",
+      "VerifiedAt": "2026-04-25T17:49:58.8339599+02:00",
+      "DocumentType": "Tax Clearance",
+      "Verified": true,
+      "SubjectName": "Safari Capital Partners SME Desk",
+      "VerifiedBy": "KRA"
+    }
+  ],
+  "Opportunities": [
+    {
+      "DisciplineScore": 84,
+      "TaxComplianceStatus": "Compliant",
+      "LastMonthGrowth": 12,
+      "Id": "OPP-KE-001",
+      "ActiveContractCount": 3,
+      "BusinessName": "Safari Capital Partners SME Desk",
+      "TaskCompletionRate": 91,
+      "VerifiedRevenue": 185000,
+      "TotalAssetValue": 420000
+    }
+  ]
+}

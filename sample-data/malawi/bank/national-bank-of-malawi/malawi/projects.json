@@ -1,0 +1,13 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "location": "Lilongwe",
+      "sector": "Banking",
+      "createdDate": "2026-04-16T17:50:01.5805626+02:00",
+      "title": "National Bank Of Malawi Strategic Project",
+      "isVerified": true,
+      "requiredInvestment": 50000
+    }
+  ]
+}

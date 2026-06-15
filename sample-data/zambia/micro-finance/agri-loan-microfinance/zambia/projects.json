@@ -1,0 +1,13 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "location": "Central Province",
+      "sector": "Micro Finance",
+      "createdDate": "2026-04-16T17:49:57.1381341+02:00",
+      "title": "Agri Loan Microfinance Strategic Project",
+      "isVerified": true,
+      "requiredInvestment": 50000
+    }
+  ]
+}

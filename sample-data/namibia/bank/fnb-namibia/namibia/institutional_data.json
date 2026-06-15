@@ -1,0 +1,33 @@
+{
+  "Requests": [
+    {
+      "PurposeTemplate": "Working Capital Review",
+      "SubjectName": "Fnb Namibia Fishing Cooperative",
+      "Id": "REQ-NA-bank-001",
+      "Status": "Pending"
+    }
+  ],
+  "VerificationHistory": [
+    {
+      "Id": "PROOF-NA-001",
+      "VerifiedAt": "2026-04-25T17:50:02.6334629+02:00",
+      "DocumentType": "Tax Clearance",
+      "Verified": true,
+      "SubjectName": "Fnb Namibia Namibia Desk",
+      "VerifiedBy": "NamRA"
+    }
+  ],
+  "Opportunities": [
+    {
+      "DisciplineScore": 84,
+      "TaxComplianceStatus": "Compliant",
+      "LastMonthGrowth": 12,
+      "Id": "OPP-NA-001",
+      "ActiveContractCount": 3,
+      "BusinessName": "Fnb Namibia Namibia Desk",
+      "TaskCompletionRate": 91,
+      "VerifiedRevenue": 185000,
+      "TotalAssetValue": 420000
+    }
+  ]
+}

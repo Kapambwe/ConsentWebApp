@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "USR-NI-001",
+      "email": "admin@nigeria.sample",
+      "displayName": "Institution Admin",
+      "status": "Active",
+      "username": "admin",
+      "role": "Administrator"
+    },
+    {
+      "id": "USR-NI-002",
+      "email": "officer@nigeria.sample",
+      "displayName": "Institution Officer",
+      "status": "Active",
+      "username": "officer",
+      "role": "Officer"
+    }
+  ]
+}

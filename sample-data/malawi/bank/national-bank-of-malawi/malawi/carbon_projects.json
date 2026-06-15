@@ -1,0 +1,11 @@
+{
+  "projects": [
+    {
+      "verified": true,
+      "id": "CARB-MW-001",
+      "requiredInvestment": 90000,
+      "location": "Lilongwe",
+      "title": "Agroforestry Carbon Sequestration"
+    }
+  ]
+}

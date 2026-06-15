@@ -1,0 +1,14 @@
+{
+  "Businesses": [
+    {
+      "LoanAmount": 48000,
+      "BusinessName": "Kitwe Shoe Makers",
+      "RepaymentScore": 80,
+      "Id": "SB-ZM-SB-001",
+      "RiskScore": 29,
+      "Status": "Funded",
+      "UseOfFunds": 66,
+      "Sector": "Footwear Manufacturing"
+    }
+  ]
+}

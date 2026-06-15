@@ -1,0 +1,34 @@
+{
+  "Businesses": [
+    {
+      "LoanAmount": 35000,
+      "BusinessName": "Lusaka Tailoring Cooperative",
+      "RepaymentScore": 82,
+      "Id": "SB-ZM-001",
+      "RiskScore": 28,
+      "Status": "Funded",
+      "UseOfFunds": 54,
+      "Sector": "Clothing Manufacturing"
+    },
+    {
+      "LoanAmount": 42000,
+      "BusinessName": "Kabwe Furniture Makers",
+      "RepaymentScore": 79,
+      "Id": "SB-ZM-002",
+      "RiskScore": 31,
+      "Status": "Funded",
+      "UseOfFunds": 68,
+      "Sector": "Furniture Manufacturing"
+    },
+    {
+      "LoanAmount": 48000,
+      "BusinessName": "Siavonga Fish Farming Cooperative",
+      "RepaymentScore": 77,
+      "Id": "SB-ZM-003",
+      "RiskScore": 34,
+      "Status": "Funded",
+      "UseOfFunds": 61,
+      "Sector": "Aquaculture"
+    }
+  ]
+}

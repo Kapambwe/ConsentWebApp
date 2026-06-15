@@ -1,0 +1,33 @@
+{
+  "Requests": [
+    {
+      "PurposeTemplate": "Working Capital Review",
+      "SubjectName": "Standard Bank Malawi Farmers Union",
+      "Id": "REQ-MW-bank-001",
+      "Status": "Pending"
+    }
+  ],
+  "VerificationHistory": [
+    {
+      "Id": "PROOF-MW-001",
+      "VerifiedAt": "2026-04-25T17:50:01.7835353+02:00",
+      "DocumentType": "Tax Clearance",
+      "Verified": true,
+      "SubjectName": "Standard Bank Malawi Malawi Desk",
+      "VerifiedBy": "MRA"
+    }
+  ],
+  "Opportunities": [
+    {
+      "DisciplineScore": 84,
+      "TaxComplianceStatus": "Compliant",
+      "LastMonthGrowth": 12,
+      "Id": "OPP-MW-001",
+      "ActiveContractCount": 3,
+      "BusinessName": "Standard Bank Malawi Malawi Desk",
+      "TaskCompletionRate": 91,
+      "VerifiedRevenue": 185000,
+      "TotalAssetValue": 420000
+    }
+  ]
+}

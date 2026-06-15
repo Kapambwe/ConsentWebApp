@@ -1,0 +1,33 @@
+{
+  "Requests": [
+    {
+      "PurposeTemplate": "Compliance Review",
+      "SubjectName": "Financial Institution Review",
+      "Id": "REQ-ZM-BOZ-001",
+      "Status": "Granted"
+    }
+  ],
+  "VerificationHistory": [
+    {
+      "Id": "PROOF-ZM-001",
+      "VerifiedAt": "2026-04-25T17:49:56.4452481+02:00",
+      "DocumentType": "Tax Clearance",
+      "Verified": true,
+      "SubjectName": "Bank of Zambia Supervision",
+      "VerifiedBy": "Government of Zambia"
+    }
+  ],
+  "Opportunities": [
+    {
+      "DisciplineScore": 84,
+      "TaxComplianceStatus": "Compliant",
+      "LastMonthGrowth": 12,
+      "Id": "OPP-ZM-001",
+      "ActiveContractCount": 3,
+      "BusinessName": "Bank of Zambia Supervision",
+      "TaskCompletionRate": 91,
+      "VerifiedRevenue": 185000,
+      "TotalAssetValue": 420000
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "location": "Lusaka Province",
+      "sector": "Asset Management",
+      "createdDate": "2026-04-16T17:49:56.7564720+02:00",
+      "title": "Capital Growth Fund Strategic Project",
+      "isVerified": true,
+      "requiredInvestment": 50000
+    }
+  ]
+}

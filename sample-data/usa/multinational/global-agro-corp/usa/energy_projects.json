@@ -1,0 +1,11 @@
+{
+  "projects": [
+    {
+      "verified": true,
+      "id": "EN-US-001",
+      "requiredInvestment": 120000,
+      "location": "New York",
+      "title": "Solar Irrigation Expansion"
+    }
+  ]
+}

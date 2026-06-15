@@ -1,0 +1,11 @@
+{
+  "projects": [
+    {
+      "verified": true,
+      "id": "INF-MW-001",
+      "requiredInvestment": 250000,
+      "location": "Lilongwe",
+      "title": "Cold Storage Network"
+    }
+  ]
+}

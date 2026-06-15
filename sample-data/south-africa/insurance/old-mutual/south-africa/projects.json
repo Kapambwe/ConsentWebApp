@@ -1,0 +1,13 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "location": "Western Cape",
+      "sector": "Insurance",
+      "createdDate": "2026-04-16T17:50:00.3072533+02:00",
+      "title": "Old Mutual Strategic Project",
+      "isVerified": true,
+      "requiredInvestment": 50000
+    }
+  ]
+}

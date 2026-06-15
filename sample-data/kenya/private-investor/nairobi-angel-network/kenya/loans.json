@@ -1,0 +1,12 @@
+{
+  "loans": [
+    {
+      "interestRate": 12.5,
+      "amount": 50000,
+      "balance": 32000,
+      "nextPaymentDate": "2026-05-12T17:49:58.9996745+02:00",
+      "borrower": "Nairobi Angel Network SME Desk",
+      "loanId": "LN-KE-001"
+    }
+  ]
+}

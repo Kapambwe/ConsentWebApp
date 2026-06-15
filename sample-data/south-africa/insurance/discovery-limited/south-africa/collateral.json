@@ -1,0 +1,21 @@
+{
+  "collateralAssets": [
+    {
+      "id": "COL-ZA-001",
+      "currentMarketValue": 200000,
+      "assetType": "Vehicle",
+      "isEncumbered": false,
+      "assetDescription": "Discovery Limited delivery vehicle",
+      "isInsured": true
+    }
+  ],
+  "propertyAndLandData": [
+    {
+      "isEncumbered": false,
+      "titleDeedNumber": "ZA/5678/2015",
+      "id": "PROP-ZA-001",
+      "propertyValue": 180000,
+      "propertyType": "Commercial"
+    }
+  ]
+}

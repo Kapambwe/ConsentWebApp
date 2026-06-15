@@ -1,0 +1,5 @@
+[
+  { "id": "P-101", "name": "Govt Treasury Bill", "value": 15000000.0, "yield": 14.5 },
+  { "id": "P-102", "name": "Blue Chip Equity Basket", "value": 8500000.0, "yield": 8.2 },
+  { "id": "P-103", "name": "Real Estate Trust", "value": 12000000.0, "yield": 6.5 }
+]

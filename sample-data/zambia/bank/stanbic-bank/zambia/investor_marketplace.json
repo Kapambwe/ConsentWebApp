@@ -1,0 +1,27 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "location": "Copperbelt Province",
+      "sector": "Corporate Banking",
+      "createdDate": "2026-01-28T17:49:55.6336771+02:00",
+      "title": "Stanbic Bank Zambia Growth Project",
+      "isVerified": true,
+      "requiredInvestment": 35000
+    }
+  ],
+  "investmentRanges": [
+    {
+      "label": "Under 50k",
+      "minValue": 0,
+      "value": "0-50000",
+      "maxValue": 50000
+    },
+    {
+      "label": "50k to 250k",
+      "minValue": 50000,
+      "value": "50000-250000",
+      "maxValue": 250000
+    }
+  ]
+}

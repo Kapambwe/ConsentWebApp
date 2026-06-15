@@ -1,0 +1,529 @@
+[
+  {
+    "id": "1",
+    "name": "Agricultural Starter Pack Fund",
+    "instrumentType": "InvestmentOpportunity",
+    "status": "Open",
+    "ownerId": "SME_AgriTech_Co",
+    "issueDate": "2026-06-01T00:00:00Z",
+    "maturityDate": "2026-07-31T00:00:00Z",
+    "value": 50000,
+    "specificProperties": {
+      "Description": "Funding for 50 farmers, focusing on crop diversification.",
+      "TargetAmount": 50000,
+      "CurrentFunding": 10000,
+      "ExpiryDate": "2026-07-13T00:00:00",
+      "RiskScore": "Low",
+      "ExpectedReturn": 0.12,
+      "ImpactSummary": "Supports 50 farmers, increasing local food security by 20%."
+    },
+    "associatedVerifiableCredentialIds": ["VC-AgriFund-Attestation-001"]
+  },
+  {
+    "id": "PROJ-001",
+    "name": "Sustainable Maize Farming Initiative",
+    "instrumentType": "Project",
+    "status": "Active",
+    "ownerId": "FarmerCoop_Northern",
+    "issueDate": "2025-09-01T00:00:00Z",
+    "maturityDate": "2027-08-31T00:00:00Z",
+    "value": 75000,
+    "specificProperties": {
+      "ProjectCode": "SMFI-ZM-25",
+      "Type": "Agriculture",
+      "Description": "Enhancing maize yields through climate-smart practices.",
+      "TargetFarmers": 200,
+      "EnrolledFarmers": 150,
+      "ProgressPercentage": 75,
+      "ImpactScore": 8.5,
+      "Milestones": [
+        {"Name": "Seed Distribution", "Status": "Completed", "DueDate": "2025-10-31"},
+        {"Name": "First Harvest", "Status": "Active", "DueDate": "2026-03-15"}
+      ],
+      "Bottlenecks": []
+    },
+    "associatedVerifiableCredentialIds": ["VC-ProjectStatus-2026Q2"]
+  },
+  {
+    "id": "CONT-005",
+    "name": "Carbon Sequestration Agreement",
+    "instrumentType": "Contract",
+    "status": "Active",
+    "ownerId": "CarbonFarm_South",
+    "issueDate": "2026-01-01T00:00:00Z",
+    "maturityDate": "2031-12-31T00:00:00Z",
+    "value": 25000,
+    "specificProperties": {
+      "ContractNumber": "CSQA-ZM-26-005",
+      "Buyer": "GreenEnergy_Corp",
+      "Terms": "Delivery of 2500 carbon credits annually.",
+      "ComplianceStatus": "Compliant"
+    },
+    "associatedVerifiableCredentialIds": ["VC-ContractTerms-Signed-005"]
+  },
+  {
+    "id": "DLT-Cow-001",
+    "name": "Digital Cow Asset",
+    "instrumentType": "DigitalLivestockToken",
+    "status": "Active",
+    "ownerId": "Farmer_John_Doe",
+    "issueDate": "2025-01-15T00:00:00Z",
+    "maturityDate": null,
+    "value": 850.75,
+    "specificProperties": {
+      "AnimalTag": "ZM-AGRI-001-COW-A",
+      "Breed": "Brahman",
+      "WeightKg": 450,
+      "HealthStatus": "Healthy",
+      "LastVetCheck": "2026-05-20T00:00:00Z",
+      "GPSCoordinates": "Lat: -15.3875, Long: 28.3228"
+    },
+    "associatedVerifiableCredentialIds": ["VC-AnimalHealth-001", "VC-Ownership-DLT-Cow-001"]
+  },
+  {
+    "id": "REQ-001",
+    "name": "Funding Request - Seeds and Fertilizer",
+    "instrumentType": "FundingRequest",
+    "status": "Pending",
+    "ownerId": "user1",
+    "issueDate": "2026-06-08T00:00:00Z",
+    "value": 5000,
+    "specificProperties": {
+      "OpportunityId": "1",
+      "RequesterId": "user1",
+      "AmountRequested": 5000,
+      "Purpose": "Seeds and fertilizer"
+    },
+    "associatedVerifiableCredentialIds": []
+  },
+  {
+    "id": "CONT-EXP-GOAT-001",
+    "name": "Goat Export Agreement to Middle East",
+    "instrumentType": "Contract",
+    "status": "Active",
+    "ownerId": "FarmerCoop_Southern",
+    "issueDate": "2026-05-01T00:00:00Z",
+    "maturityDate": "2027-04-30T00:00:00Z",
+    "value": 150000,
+    "specificProperties": {
+      "ContractNumber": "GAT-ME-26-001",
+      "Buyer": "MeatCorp_MiddleEast",
+      "Product": "Live Goats",
+      "Quantity": 3000,
+      "UnitPrice": 50,
+      "Terms": "Monthly shipment, CIF Dubai",
+      "ComplianceStatus": "Pending Customs Clearance",
+      "LogisticsProvider": "ZambiaLogistics Ltd."
+    },
+    "associatedVerifiableCredentialIds": ["VC-HealthCert-Goat-001", "VC-CustomsPermit-001"]
+  },
+  {
+    "id": "CONT-SUP-MAIZE-002",
+    "name": "Maize Supply Contract to Shoprite",
+    "instrumentType": "Contract",
+    "status": "Active",
+    "ownerId": "AgriProducers_East",
+    "issueDate": "2026-07-01T00:00:00Z",
+    "maturityDate": "2027-06-30T00:00:00Z",
+    "value": 80000,
+    "specificProperties": {
+      "ContractNumber": "MAIZE-SR-26-002",
+      "Buyer": "Shoprite Zambia",
+      "Product": "Maize Grain",
+      "QuantityTonnes": 400,
+      "UnitPricePerTonne": 200,
+      "Terms": "Weekly delivery to Lusaka distribution center",
+      "ComplianceStatus": "QA Approved",
+      "SupplierRegistration": "SR-Agri-005"
+    },
+    "associatedVerifiableCredentialIds": ["VC-QualityCert-Maize-002", "VC-FoodSafety-001"]
+  },
+  {
+    "id": "CONT-SUP-CHICK-003",
+    "name": "Chicken Supply Contract to Pick n Pay",
+    "instrumentType": "Contract",
+    "status": "Active",
+    "ownerId": "PoultryFarms_Central",
+    "issueDate": "2026-08-01T00:00:00Z",
+    "maturityDate": "2027-07-31T00:00:00Z",
+    "value": 60000,
+    "specificProperties": {
+      "ContractNumber": "CHICK-PNP-26-003",
+      "Buyer": "Pick n Pay Zambia",
+      "Product": "Processed Chicken",
+      "QuantityKg": 30000,
+      "UnitPricePerKg": 2,
+      "Terms": "Bi-weekly delivery to retail stores",
+      "ComplianceStatus": "HACCP Certified",
+      "FarmLicense": "PL-CEN-012"
+    },
+    "associatedVerifiableCredentialIds": ["VC-HACCP-001", "VC-AnimalWelfare-003"]
+  },
+  {
+    "id": "PROJ-PPP-ROAD-002",
+    "name": "Lusaka-Ndola Dual Carriageway PPP",
+    "instrumentType": "Project",
+    "status": "Ongoing",
+    "ownerId": "MinistryOfInfrastructure",
+    "issueDate": "2024-01-01T00:00:00Z",
+    "maturityDate": "2028-12-31T00:00:00Z",
+    "value": 1200000000,
+    "specificProperties": {
+      "ProjectCode": "LND-DC-PPP-24",
+      "Type": "Infrastructure",
+      "Description": "Development of a dual carriageway through Public-Private Partnership.",
+      "PrivatePartner": "RoadBuild Africa Inc.",
+      "GovernmentPartner": "National Road Fund Agency",
+      "BudgetAllocated": 1500000000,
+      "FundsUtilized": 800000000,
+      "ProgressPercentage": 65,
+      "Milestones": [
+        {"Name": "Phase 1 Completion", "Status": "Completed", "DueDate": "2025-12-31"},
+        {"Name": "Phase 2 Commencement", "Status": "Completed", "DueDate": "2026-06-30"},
+        {"Name": "Phase 3 Design Finalization", "Status": "Pending", "DueDate": "2027-03-31"}
+      ],
+      "Bottlenecks": ["Land Acquisition Delays", "Currency Fluctuations"],
+      "ImpactSummary": "Enhances trade, reduces travel time, creates 5000+ jobs."
+    },
+    "associatedVerifiableCredentialIds": ["VC-PPP-Agreement-001", "VC-EnvironmentalImpact-002"]
+  },
+  {
+    "id": "PROJ-WATER-003",
+    "name": "Rural Community Water Access Project",
+    "instrumentType": "Project",
+    "status": "Pending",
+    "ownerId": "LocalCouncil_Chibombo",
+    "issueDate": "2026-09-01T00:00:00Z",
+    "maturityDate": "2028-08-31T00:00:00Z",
+    "value": 250000,
+    "specificProperties": {
+      "ProjectCode": "RCWA-CB-26",
+      "Type": "Social Development",
+      "Description": "Providing clean and safe drinking water to 10 rural communities.",
+      "FundingSource": "WorldAid Foundation",
+      "Beneficiaries": 15000,
+      "ProgressPercentage": 0,
+      "Milestones": [
+        {"Name": "Feasibility Study", "Status": "Pending", "DueDate": "2026-11-30"},
+        {"Name": "Funding Disbursement", "Status": "Pending", "DueDate": "2027-01-31"}
+      ],
+      "Bottlenecks": ["Initial Funding Approval"],
+      "ImpactSummary": "Improves health outcomes and reduces water collection burden for women and children."
+    },
+    "associatedVerifiableCredentialIds": ["VC-FundingApproval-Water-001"]
+  },
+  {
+    "id": "MIN-COPPER-001",
+    "name": "Copper Ore Token (1000 Kg)",
+    "instrumentType": "MineralToken",
+    "status": "Available",
+    "ownerId": "ZambiaMiningCorp",
+    "issueDate": "2026-06-01T00:00:00Z",
+    "maturityDate": null,
+    "value": 10000,
+    "specificProperties": {
+      "MineralType": "Copper",
+      "QuantityKg": 1000,
+      "PurityPercentage": 99.9,
+      "MineOrigin": "Kansanshi Mine",
+      "ProductionDate": "2026-05-25T00:00:00Z",
+      "StorageLocation": "Lusaka Warehouse A",
+      "QualityCertId": "QC-Copper-001"
+    },
+    "associatedVerifiableCredentialIds": ["VC-MineOrigin-COP-001", "VC-QualityAssurance-COP-001", "VC-OwnershipHistory-COP-001"]
+  },
+  {
+    "id": "MIN-COBALT-002",
+    "name": "Cobalt Hydroxide Token (500 Kg)",
+    "instrumentType": "MineralToken",
+    "status": "In Transit",
+    "ownerId": "GlobalMinerals Ltd.",
+    "issueDate": "2026-06-10T00:00:00Z",
+    "maturityDate": null,
+    "value": 25000,
+    "specificProperties": {
+      "MineralType": "Cobalt",
+      "QuantityKg": 500,
+      "Form": "Hydroxide",
+      "MineOrigin": "Mopani Mine",
+      "ProductionDate": "2026-06-05T00:00:00Z",
+      "CurrentLocation": "Port of Dar es Salaam",
+      "LogisticsProvider": "TransAfrica Logistics"
+    },
+    "associatedVerifiableCredentialIds": ["VC-MineOrigin-COB-002", "VC-EthicalSourcing-COB-002", "VC-Logistics-COB-002"]
+  },
+  {
+    "id": "MIN-NICKEL-003",
+    "name": "Nickel Concentrate Token (2000 Kg)",
+    "instrumentType": "MineralToken",
+    "status": "Available",
+    "ownerId": "BwanaMkubwaMining",
+    "issueDate": "2026-06-15T00:00:00Z",
+    "maturityDate": null,
+    "value": 18000,
+    "specificProperties": {
+      "MineralType": "Nickel",
+      "QuantityKg": 2000,
+      "Form": "Concentrate",
+      "MineOrigin": "Bwana Mkubwa Mine",
+      "ProductionDate": "2026-06-12T00:00:00Z",
+      "StorageLocation": "Ndola Smelter",
+      "Grade": "High"
+    },
+    "associatedVerifiableCredentialIds": ["VC-MineOrigin-NIC-003", "VC-PurityAnalysis-NIC-003"]
+  },
+  {
+    "id": "MIN-CRITICAL-004",
+    "name": "Critical Mineral Mix Token (100 Kg)",
+    "instrumentType": "MineralToken",
+    "status": "Available",
+    "ownerId": "NewFrontierExploration",
+    "issueDate": "2026-06-20T00:00:00Z",
+    "maturityDate": null,
+    "value": 30000,
+    "specificProperties": {
+      "MineralType": "Rare Earth Elements",
+      "QuantityKg": 100,
+      "Composition": "Nd, Pr, Dy",
+      "MineOrigin": "Southern Province Exploration",
+      "ExtractionMethod": "Eco-friendly",
+      "Certifications": ["ISO 14001", "FairTrade Minerals"]
+    },
+    "associatedVerifiableCredentialIds": ["VC-Origin-CRM-004", "VC-ESG-Compliance-CRM-004", "VC-ChainOfCustody-CRM-004"]
+  },
+  {
+    "id": "TOK-CARBON-001",
+    "name": "Verified Carbon Unit (VCU)",
+    "instrumentType": "CarbonCreditToken",
+    "status": "Available",
+    "ownerId": "ZambiaCarbonOffset_Co",
+    "issueDate": "2026-03-01T00:00:00Z",
+    "maturityDate": null,
+    "value": 25,
+    "specificProperties": {
+      "CreditType": "Forestry Reforestation",
+      "QuantityTonnes": 1,
+      "ProjectLocation": "Luangwa Valley",
+      "VerificationBody": "Verra Standard",
+      "VintageYear": 2025,
+      "Methodology": "AFOLU-001"
+    },
+    "associatedVerifiableCredentialIds": ["VC-CarbonVerification-001", "VC-ProjectRegistration-001"]
+  },
+  {
+    "id": "TOK-ENERGY-002",
+    "name": "Solar Energy Unit (SEU)",
+    "instrumentType": "EnergyToken",
+    "status": "Available",
+    "ownerId": "ZambianSolarFarm_Ltd",
+    "issueDate": "2026-05-15T00:00:00Z",
+    "maturityDate": null,
+    "value": 0.05,
+    "specificProperties": {
+      "EnergySource": "Solar PV",
+      "QuantityKWH": 100,
+      "GenerationFacility": "Lusaka Solar Park",
+      "GenerationDate": "2026-05-14T14:00:00Z",
+      "Certifications": ["RECS", "Green-e Energy"]
+    },
+    "associatedVerifiableCredentialIds": ["VC-EnergyGeneration-002", "VC-FacilityCert-002"]
+  },
+  {
+    "id": "TOK-LAND-003",
+    "name": "Agricultural Land Lease Token (5 Hectares)",
+    "instrumentType": "LandUseRightsToken",
+    "status": "Leased",
+    "ownerId": "Farmer_Jane_Doe",
+    "issueDate": "2026-01-01T00:00:00Z",
+    "maturityDate": "2036-12-31T00:00:00Z",
+    "value": 5000,
+    "specificProperties": {
+      "LandParcelID": "ZP-AGRI-001-HA-005",
+      "AreaHectares": 5,
+      "Location": "Chibombo District",
+      "UsageRights": "Agricultural Cultivation",
+      "LeaseTermYears": 10,
+      "LeaseeId": "AgriCoop_Chibombo"
+    },
+    "associatedVerifiableCredentialIds": ["VC-LandTitle-003", "VC-LeaseAgreement-003"]
+  },
+  {
+    "id": "TOK-SKILL-004",
+    "name": "Certified Welder Labor Token (100 Hours)",
+    "instrumentType": "SkillLaborToken",
+    "status": "Available",
+    "ownerId": "Worker_Kabwe_Mulenga",
+    "issueDate": "2026-04-01T00:00:00Z",
+    "maturityDate": null,
+    "value": 1500,
+    "specificProperties": {
+      "Skill": "Certified Welder",
+      "HoursAvailable": 100,
+      "HourlyRate": 15,
+      "CertificationBody": "TEVETA Zambia",
+      "CertificationDate": "2025-11-01T00:00:00Z",
+      "ExperienceYears": 5,
+      "Availability": "Full-time"
+    },
+    "associatedVerifiableCredentialIds": ["VC-TEVETA-Welder-004", "VC-Experience-004"]
+  },
+  {
+    "id": "TOK-POW-PLUMB-001",
+    "name": "Certified Plumbing Installation - Project Alpha",
+    "instrumentType": "ProofOfWorkToken",
+    "status": "Completed",
+    "ownerId": "Plumber_Chisanga",
+    "issueDate": "2026-06-10T00:00:00Z",
+    "maturityDate": null,
+    "value": 3500,
+    "specificProperties": {
+      "WorkType": "Full Bathroom Installation",
+      "ProjectName": "Residential Renovation - Project Alpha",
+      "ClientName": "Mwila Family",
+      "WorkDescription": "Installation of new plumbing lines, fixtures, and water heater for a 3-piece bathroom.",
+      "HoursLogged": 40,
+      "CompletionDate": "2026-06-08T00:00:00Z",
+      "CertificationBody": "National Plumbing Authority of Zambia",
+      "CertificationId": "NPAZ-PLUMB-CERT-5678",
+      "ExperienceYearsAtCompletion": 8,
+      "ClientFeedbackRating": 4.8,
+      "SupervisorRating": 5.0
+    },
+    "associatedVerifiableCredentialIds": ["VC-NPAZ-PlumbingCert-001", "VC-ProjectCompletion-Alpha-001", "VC-ClientRating-Alpha-001"]
+  },
+  {
+    "id": "TOK-POW-ELEC-002",
+    "name": "Certified Electrical Wiring - Commercial Building",
+    "instrumentType": "ProofOfWorkToken",
+    "status": "Completed",
+    "ownerId": "Electrician_Banda",
+    "issueDate": "2026-07-01T00:00:00Z",
+    "maturityDate": null,
+    "value": 7500,
+    "specificProperties": {
+      "WorkType": "Commercial Electrical Installation",
+      "ProjectName": "New Office Block - Central Business District",
+      "ClientName": "Prime Property Developers",
+      "WorkDescription": "Complete electrical wiring, panel installation, and testing for a 5-story office building.",
+      "HoursLogged": 120,
+      "CompletionDate": "2026-06-28T00:00:00Z",
+      "CertificationBody": "Electrical Contractors Association of Zambia",
+      "CertificationId": "ECAZ-ELEC-CERT-9101",
+      "ExperienceYearsAtCompletion": 10,
+      "ClientFeedbackRating": 4.9,
+      "InspectionApproval": "Approved by ZESCO Inspectorate"
+    },
+    "associatedVerifiableCredentialIds": ["VC-ECAZ-ElectricianCert-002", "VC-ProjectCompletion-CBD-002", "VC-ZESCO-Approval-002"]
+  },
+  {
+    "id": "TOK-POW-BRICK-003",
+    "name": "Certified Bricklaying - Housing Project Phase 1",
+    "instrumentType": "ProofOfWorkToken",
+    "status": "Completed",
+    "ownerId": "Bricklayer_Zulu",
+    "issueDate": "2026-07-15T00:00:00Z",
+    "maturityDate": null,
+    "value": 4000,
+    "specificProperties": {
+      "WorkType": "Residential Foundation & Walls",
+      "ProjectName": "Community Housing Development - Phase 1",
+      "ClientName": "Lusaka City Council",
+      "WorkDescription": "Laying 20,000 bricks for 5 residential units' foundations and walls.",
+      "HoursLogged": 80,
+      "CompletionDate": "2026-07-12T00:00:00Z",
+      "CertificationBody": "National Council for Construction (NCC)",
+      "CertificationId": "NCC-BRICK-CERT-1234",
+      "ExperienceYearsAtCompletion": 15,
+      "ClientFeedbackRating": 4.7,
+      "SupervisorRating": 4.9
+    },
+    "associatedVerifiableCredentialIds": ["VC-NCC-BricklayerCert-003", "VC-ProjectCompletion-Housing-003", "VC-SupervisorRating-003"]
+  },
+  {
+    "id": "TOK-INSP-REPORT-001",
+    "name": "Heavy Machinery Pre-Shipment Inspection Report",
+    "instrumentType": "InspectionReportToken",
+    "status": "Verified",
+    "ownerId": "MiningCo_North",
+    "issueDate": "2026-08-01T00:00:00Z",
+    "maturityDate": null,
+    "value": 1500,
+    "specificProperties": {
+      "InspectionType": "Pre-Shipment Quality & Condition",
+      "AssetInspected": "CAT 777D Haul Truck (SN: CAT777D-ZMB-001)",
+      "InspectionDate": "2026-07-28T00:00:00Z",
+      "InspectorName": "Eng. Chanda Mwape",
+      "InspectorCertification": "Certified Mechanical Engineer (ZIES-ME-0123)",
+      "InspectionBody": "ThirdPartyInspect Zambia Ltd.",
+      "FindingsSummary": "All major components functional, minor cosmetic wear, fluid levels optimal.",
+      "OverallRating": "Satisfactory",
+      "Recommendation": "Ready for shipment."
+    },
+    "associatedVerifiableCredentialIds": ["VC-InspectorCert-001", "VC-InspectionReport-001", "VC-ClientAcceptance-001"]
+  },
+  {
+    "id": "CONSENT-REQ-INSP-001",
+    "name": "Consent Request for Inspection Report - CAT 777D Haul Truck",
+    "instrumentType": "SignedConsentRequest",
+    "status": "Approved",
+    "ownerId": "MiningCo_North",
+    "issueDate": "2026-08-05T00:00:00Z",
+    "maturityDate": "2027-08-05T00:00:00Z",
+    "value": 0,
+    "specificProperties": {
+      "RequestId": "req-insp-001-fm",
+      "BusinessId": "biz-mining-north",
+      "BusinessName": "MiningCo North",
+      "Purpose": "Financial Assessment for Loan Application",
+      "RequestedAttributes": ["InspectionType", "AssetInspected", "OverallRating", "FindingsSummary"],
+      "Status": "Signed",
+      "SignedAt": "2026-08-05T10:00:00Z",
+      "SignatureChain": [
+        {"Role": "Owner", "Actor": "MiningCo_North_CEO", "Signature": "sig_mining_ceo_insp_001", "PreviousSignature": null},
+        {"Role": "Recipient", "Actor": "FirstNationalBank_Analyst", "Signature": "sig_fnb_analyst_insp_001", "PreviousSignature": "sig_mining_ceo_insp_001"}
+      ]
+    },
+    "associatedVerifiableCredentialIds": ["VC-LoanApp-005"]
+  },
+  {
+    "id": "WR-MAIZE-001",
+    "name": "Warehouse Receipt - Maize (500 Tonnes)",
+    "instrumentType": "WarehouseReceipt",
+    "status": "Active",
+    "ownerId": "AgriProducers_East",
+    "issueDate": "2026-09-01T00:00:00Z",
+    "maturityDate": "2027-08-31T00:00:00Z",
+    "value": 100000,
+    "specificProperties": {
+      "WarehouseId": "WRLS-001",
+      "WarehouseName": "Lusaka Grain Storage",
+      "Commodity": "Maize",
+      "QuantityTonnes": 500,
+      "Grade": "Grade 1 White Maize",
+      "StoragePeriod": "12 Months",
+      "Issuer": "Zambia Commodities Exchange",
+      "CollateralValue": 90000
+    },
+    "associatedVerifiableCredentialIds": ["VC-WarehouseCert-001", "VC-CommodityGrade-001"]
+  },
+  {
+    "id": "WRI-LUSAKA-001",
+    "name": "Lusaka Grain Storage - Approved Issuer",
+    "instrumentType": "WarehouseIssuer",
+    "status": "Accredited",
+    "ownerId": "ZambiaCommoditiesExchange",
+    "issueDate": "2025-01-01T00:00:00Z",
+    "maturityDate": "2027-12-31T00:00:00Z",
+    "value": 0,
+    "specificProperties": {
+      "IssuerName": "Lusaka Grain Storage",
+      "AccreditationBody": "Zambia Bureau of Standards",
+      "AccreditationDate": "2025-03-15T00:00:00Z",
+      "CapacityTonnes": 20000,
+      "CommoditiesHandled": ["Maize", "Soya Beans", "Wheat"],
+      "ContactEmail": "info@lusakagra.in",
+      "LicenseId": "ZBS-WHL-001"
+    },
+    "associatedVerifiableCredentialIds": ["VC-Accreditation-LGS-001", "VC-OperationalLicense-LGS-001"]
+  }
+]

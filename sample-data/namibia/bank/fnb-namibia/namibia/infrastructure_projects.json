@@ -1,0 +1,11 @@
+{
+  "projects": [
+    {
+      "verified": true,
+      "id": "INF-NA-001",
+      "requiredInvestment": 250000,
+      "location": "Windhoek",
+      "title": "Cold Storage Network"
+    }
+  ]
+}

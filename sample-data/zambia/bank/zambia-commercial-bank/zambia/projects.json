@@ -1,0 +1,13 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "location": "Central Province",
+      "sector": "Commercial Banking",
+      "createdDate": "2026-04-16T17:49:55.2023596+02:00",
+      "title": "Zambia Commercial Bank Strategic Project",
+      "isVerified": true,
+      "requiredInvestment": 50000
+    }
+  ]
+}

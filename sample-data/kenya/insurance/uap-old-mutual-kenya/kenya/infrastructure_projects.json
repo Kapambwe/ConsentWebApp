@@ -1,0 +1,11 @@
+{
+  "projects": [
+    {
+      "verified": true,
+      "id": "INF-KE-001",
+      "requiredInvestment": 250000,
+      "location": "Nairobi County",
+      "title": "Cold Storage Network"
+    }
+  ]
+}

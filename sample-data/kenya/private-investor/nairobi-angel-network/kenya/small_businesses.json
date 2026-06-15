@@ -1,0 +1,14 @@
+{
+  "Businesses": [
+    {
+      "LoanAmount": 64000,
+      "BusinessName": "Nairobi Angel Network Tea Cooperative",
+      "RepaymentScore": 78,
+      "Id": "SB-KE-private-investor-001",
+      "RiskScore": 33,
+      "Status": "Funded",
+      "UseOfFunds": 63,
+      "Sector": "Agribusiness"
+    }
+  ]
+}

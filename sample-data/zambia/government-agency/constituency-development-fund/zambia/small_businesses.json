@@ -1,0 +1,14 @@
+{
+  "Businesses": [
+    {
+      "LoanAmount": 20000,
+      "BusinessName": "Constituency Development Fund Beneficiary",
+      "RepaymentScore": 90,
+      "Id": "SB-ZM-GA-constituency-development-fund-001",
+      "RiskScore": 14,
+      "Status": "Funded",
+      "UseOfFunds": 48,
+      "Sector": "Development"
+    }
+  ]
+}

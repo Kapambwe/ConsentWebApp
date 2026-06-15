@@ -1,0 +1,33 @@
+{
+  "Requests": [
+    {
+      "PurposeTemplate": "Global Expansion Review",
+      "SubjectName": "Global Agro Corp",
+      "Id": "REQ-US-multinational-001",
+      "Status": "Pending"
+    }
+  ],
+  "VerificationHistory": [
+    {
+      "Id": "PROOF-US-001",
+      "VerifiedAt": "2026-04-25T17:50:04.6798590+02:00",
+      "DocumentType": "Tax Clearance",
+      "Verified": true,
+      "SubjectName": "Global Agro Corp USA Desk",
+      "VerifiedBy": "IRS"
+    }
+  ],
+  "Opportunities": [
+    {
+      "DisciplineScore": 84,
+      "TaxComplianceStatus": "Compliant",
+      "LastMonthGrowth": 12,
+      "Id": "OPP-US-001",
+      "ActiveContractCount": 3,
+      "BusinessName": "Global Agro Corp USA Desk",
+      "TaskCompletionRate": 91,
+      "VerifiedRevenue": 185000,
+      "TotalAssetValue": 420000
+    }
+  ]
+}

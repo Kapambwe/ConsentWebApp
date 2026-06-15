@@ -1,0 +1,13 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "location": "Gauteng",
+      "sector": "Insurance",
+      "createdDate": "2026-04-16T17:50:00.4555749+02:00",
+      "title": "Discovery Limited Strategic Project",
+      "isVerified": true,
+      "requiredInvestment": 50000
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "projects": [
+    {
+      "verified": true,
+      "id": "INF-US-001",
+      "requiredInvestment": 250000,
+      "location": "New York",
+      "title": "Cold Storage Network"
+    }
+  ]
+}

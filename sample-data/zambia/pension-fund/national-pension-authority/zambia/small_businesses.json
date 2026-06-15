@@ -1,0 +1,14 @@
+{
+  "Businesses": [
+    {
+      "LoanAmount": 50000,
+      "BusinessName": "National Pension Authority Cooperative",
+      "RepaymentScore": 81,
+      "Id": "SB-zambia-pension-fund-001",
+      "RiskScore": 30,
+      "Status": "Funded",
+      "UseOfFunds": 58,
+      "Sector": "General Commerce"
+    }
+  ]
+}

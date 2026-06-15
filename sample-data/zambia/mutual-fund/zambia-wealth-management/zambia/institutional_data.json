@@ -1,0 +1,33 @@
+{
+  "Requests": [
+    {
+      "PurposeTemplate": "Portfolio Review",
+      "SubjectName": "High Net Worth Portfolio",
+      "Id": "REQ-ZM-ZWM-001",
+      "Status": "Granted"
+    }
+  ],
+  "VerificationHistory": [
+    {
+      "Id": "PROOF-ZM-001",
+      "VerifiedAt": "2026-04-25T17:49:56.6554914+02:00",
+      "DocumentType": "Tax Clearance",
+      "Verified": true,
+      "SubjectName": "Zambia Wealth Management Desk",
+      "VerifiedBy": "ZRA"
+    }
+  ],
+  "Opportunities": [
+    {
+      "DisciplineScore": 84,
+      "TaxComplianceStatus": "Compliant",
+      "LastMonthGrowth": 12,
+      "Id": "OPP-ZM-001",
+      "ActiveContractCount": 3,
+      "BusinessName": "Zambia Wealth Management Desk",
+      "TaskCompletionRate": 91,
+      "VerifiedRevenue": 185000,
+      "TotalAssetValue": 420000
+    }
+  ]
+}

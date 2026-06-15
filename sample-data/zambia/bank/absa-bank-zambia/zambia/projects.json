@@ -1,0 +1,13 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "location": "Lusaka Province",
+      "sector": "Banking",
+      "createdDate": "2026-04-16T17:49:55.4507543+02:00",
+      "title": "Absa Bank Zambia Strategic Project",
+      "isVerified": true,
+      "requiredInvestment": 50000
+    }
+  ]
+}

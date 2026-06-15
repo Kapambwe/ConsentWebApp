@@ -1,0 +1,39 @@
+{
+  "Requests": [
+    {
+      "PurposeTemplate": "Working Capital Review",
+      "SubjectName": "Kamau Highlands Farm Tea Cooperative",
+      "Id": "REQ-KE-farmer-001",
+      "Status": "Pending"
+    },
+    {
+      "PurposeTemplate": "Business Expansion Review",
+      "SubjectName": "Kamau Highlands Farm Market Traders",
+      "Id": "REQ-KE-farmer-002",
+      "Status": "Granted"
+    }
+  ],
+  "VerificationHistory": [
+    {
+      "Id": "PROOF-KE-001",
+      "VerifiedAt": "2026-04-25T17:49:58.7014769+02:00",
+      "DocumentType": "Tax Clearance",
+      "Verified": true,
+      "SubjectName": "Kamau Highlands Farm SME Desk",
+      "VerifiedBy": "KRA"
+    }
+  ],
+  "Opportunities": [
+    {
+      "DisciplineScore": 84,
+      "TaxComplianceStatus": "Compliant",
+      "LastMonthGrowth": 12,
+      "Id": "OPP-KE-001",
+      "ActiveContractCount": 3,
+      "BusinessName": "Kamau Highlands Farm SME Desk",
+      "TaskCompletionRate": 91,
+      "VerifiedRevenue": 185000,
+      "TotalAssetValue": 420000
+    }
+  ]
+}

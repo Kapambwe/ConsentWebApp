@@ -1,0 +1,11 @@
+{
+  "projects": [
+    {
+      "verified": true,
+      "id": "EN-TZ-001",
+      "requiredInvestment": 120000,
+      "location": "Dar es Salaam",
+      "title": "Solar Irrigation Expansion"
+    }
+  ]
+}

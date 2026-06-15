@@ -1,0 +1,14 @@
+{
+  "Businesses": [
+    {
+      "LoanAmount": 250000,
+      "BusinessName": "Copperbelt Growth Fund",
+      "RepaymentScore": 85,
+      "Id": "SB-ZM-LCP-001",
+      "RiskScore": 20,
+      "Status": "Funded",
+      "UseOfFunds": 70,
+      "Sector": "Investment Services"
+    }
+  ]
+}

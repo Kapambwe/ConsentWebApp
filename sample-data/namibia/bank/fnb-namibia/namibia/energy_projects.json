@@ -1,0 +1,11 @@
+{
+  "projects": [
+    {
+      "verified": true,
+      "id": "EN-NA-001",
+      "requiredInvestment": 120000,
+      "location": "Windhoek",
+      "title": "Solar Irrigation Expansion"
+    }
+  ]
+}

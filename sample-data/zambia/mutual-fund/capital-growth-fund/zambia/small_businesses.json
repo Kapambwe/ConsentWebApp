@@ -1,0 +1,14 @@
+{
+  "Businesses": [
+    {
+      "LoanAmount": 200000,
+      "BusinessName": "Growth Portfolio Client",
+      "RepaymentScore": 86,
+      "Id": "SB-ZM-CGF-001",
+      "RiskScore": 19,
+      "Status": "Funded",
+      "UseOfFunds": 52,
+      "Sector": "Wealth Management"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "Businesses": [
+    {
+      "LoanAmount": 260000,
+      "BusinessName": "Mining Growth SPV",
+      "RepaymentScore": 85,
+      "Id": "SB-ZA-RMB-001",
+      "RiskScore": 21,
+      "Status": "Funded",
+      "UseOfFunds": 72,
+      "Sector": "Mining Services"
+    }
+  ]
+}

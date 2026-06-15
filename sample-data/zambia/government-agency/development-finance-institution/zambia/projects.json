@@ -1,0 +1,13 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "location": "Lusaka Province",
+      "sector": "Development Finance",
+      "createdDate": "2026-04-16T17:49:57.7689342+02:00",
+      "title": "Development Finance Institution Strategic Project",
+      "isVerified": true,
+      "requiredInvestment": 50000
+    }
+  ]
+}

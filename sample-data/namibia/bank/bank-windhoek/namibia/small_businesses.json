@@ -1,0 +1,14 @@
+{
+  "Businesses": [
+    {
+      "LoanAmount": 18000,
+      "BusinessName": "Bank Windhoek Fishing Cooperative",
+      "RepaymentScore": 76,
+      "Id": "SB-NA-bank-001",
+      "RiskScore": 30,
+      "Status": "Funded",
+      "UseOfFunds": 59,
+      "Sector": "Fishing"
+    }
+  ]
+}

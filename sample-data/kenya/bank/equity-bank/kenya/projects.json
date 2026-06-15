@@ -1,0 +1,13 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "location": "Nairobi County",
+      "sector": "Retail Banking",
+      "createdDate": "2026-04-16T17:49:58.0639017+02:00",
+      "title": "Equity Bank Strategic Project",
+      "isVerified": true,
+      "requiredInvestment": 50000
+    }
+  ]
+}

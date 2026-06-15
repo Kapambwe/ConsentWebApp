@@ -1,0 +1,11 @@
+{
+  "items": [
+    {
+      "businessId": "SB-ZM-001",
+      "month": "2026-03",
+      "repayment": 81,
+      "riskScore": 29,
+      "utilization": 62
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "projects": [
+    {
+      "verified": true,
+      "id": "INF-ZA-001",
+      "requiredInvestment": 250000,
+      "location": "Western Cape",
+      "title": "Cold Storage Network"
+    }
+  ]
+}

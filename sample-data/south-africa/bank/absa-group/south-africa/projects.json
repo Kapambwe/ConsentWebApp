@@ -1,0 +1,13 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "location": "Gauteng",
+      "sector": "Commercial Banking",
+      "createdDate": "2026-04-16T17:49:59.5467463+02:00",
+      "title": "Absa Group Strategic Project",
+      "isVerified": true,
+      "requiredInvestment": 50000
+    }
+  ]
+}

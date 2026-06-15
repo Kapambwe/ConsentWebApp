@@ -1,0 +1,14 @@
+{
+  "Businesses": [
+    {
+      "LoanAmount": 58000,
+      "BusinessName": "Chisamba Dairy Cooperative",
+      "RepaymentScore": 84,
+      "Id": "SB-ZM-ZCB-001",
+      "RiskScore": 25,
+      "Status": "Funded",
+      "UseOfFunds": 72,
+      "Sector": "Dairy Farming"
+    }
+  ]
+}

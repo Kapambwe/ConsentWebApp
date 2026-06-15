@@ -1,0 +1,10 @@
+{
+  "items": [
+    {
+      "customerId": "CUST-MW-002",
+      "consentId": "CON-MW-002",
+      "status": "Active",
+      "expires": "2026-06-27T17:50:01.9766311+02:00"
+    }
+  ]
+}

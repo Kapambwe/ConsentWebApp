@@ -1,0 +1,13 @@
+{
+  "projects": [
+    {
+      "sector": "Agriculture",
+      "id": 1,
+      "createdDate": "2026-04-16T17:25:13.3008428+02:00",
+      "location": "Lusaka",
+      "title": "Sample Project",
+      "requiredInvestment": 50000,
+      "isVerified": true
+    }
+  ]
+}

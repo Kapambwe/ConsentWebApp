@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "USR-BO-001",
+      "email": "admin@botswana.sample",
+      "displayName": "Institution Admin",
+      "status": "Active",
+      "username": "admin",
+      "role": "Administrator"
+    },
+    {
+      "id": "USR-BO-002",
+      "email": "officer@botswana.sample",
+      "displayName": "Institution Officer",
+      "status": "Active",
+      "username": "officer",
+      "role": "Officer"
+    }
+  ]
+}

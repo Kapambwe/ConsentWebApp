@@ -1,0 +1,14 @@
+{
+  "Businesses": [
+    {
+      "LoanAmount": 155000,
+      "BusinessName": "Pretoria Construction Supplies",
+      "RepaymentScore": 81,
+      "Id": "SB-ZA-ABSA-001",
+      "RiskScore": 25,
+      "Status": "Funded",
+      "UseOfFunds": 74,
+      "Sector": "Construction Supply"
+    }
+  ]
+}

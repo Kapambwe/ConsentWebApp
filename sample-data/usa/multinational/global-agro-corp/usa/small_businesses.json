@@ -1,0 +1,14 @@
+{
+  "Businesses": [
+    {
+      "LoanAmount": 500000,
+      "BusinessName": "Global Agro Corp",
+      "RepaymentScore": 82,
+      "Id": "SB-US-multinational-001",
+      "RiskScore": 24,
+      "Status": "Funded",
+      "UseOfFunds": 66,
+      "Sector": "Multinational"
+    }
+  ]
+}
