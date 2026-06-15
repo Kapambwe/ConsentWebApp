@@ -1,11 +1,7 @@
 {
-  "projects": [
-    {
-      "verified": true,
-      "id": "CARB-BW-001",
-      "requiredInvestment": 90000,
-      "location": "Gaborone",
-      "title": "Agroforestry Carbon Sequestration"
-    }
-  ]
+  "verified": true,
+  "id": "CARB-BW-001",
+  "requiredInvestment": 90000,
+  "location": "Gaborone",
+  "title": "Agroforestry Carbon Sequestration"
 }

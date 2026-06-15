@@ -1,11 +1,7 @@
 {
-  "projects": [
-    {
-      "verified": true,
-      "id": "CARB-ZA-001",
-      "requiredInvestment": 90000,
-      "location": "KwaZulu-Natal",
-      "title": "Agroforestry Carbon Sequestration"
-    }
-  ]
+  "verified": true,
+  "id": "CARB-ZA-001",
+  "requiredInvestment": 90000,
+  "location": "KwaZulu-Natal",
+  "title": "Agroforestry Carbon Sequestration"
 }

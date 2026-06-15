@@ -1,11 +1,7 @@
 {
-  "projects": [
-    {
-      "verified": true,
-      "id": "CF-US-001",
-      "requiredInvestment": 85000,
-      "location": "New York",
-      "title": "Climate Smart Agriculture Program"
-    }
-  ]
+  "verified": true,
+  "id": "CF-US-001",
+  "requiredInvestment": 85000,
+  "location": "New York",
+  "title": "Climate Smart Agriculture Program"
 }

@@ -1,11 +1,7 @@
 {
-  "projects": [
-    {
-      "verified": true,
-      "id": "CARB-NA-001",
-      "requiredInvestment": 90000,
-      "location": "Windhoek",
-      "title": "Agroforestry Carbon Sequestration"
-    }
-  ]
+  "verified": true,
+  "id": "CARB-NA-001",
+  "requiredInvestment": 90000,
+  "location": "Windhoek",
+  "title": "Agroforestry Carbon Sequestration"
 }

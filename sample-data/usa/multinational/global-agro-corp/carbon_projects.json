@@ -1,11 +1,7 @@
 {
-  "projects": [
-    {
-      "verified": true,
-      "id": "CARB-US-001",
-      "requiredInvestment": 90000,
-      "location": "New York",
-      "title": "Agroforestry Carbon Sequestration"
-    }
-  ]
+  "verified": true,
+  "id": "CARB-US-001",
+  "requiredInvestment": 90000,
+  "location": "New York",
+  "title": "Agroforestry Carbon Sequestration"
 }
