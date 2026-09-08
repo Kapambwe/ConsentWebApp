@@ -1,0 +1,13 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "location": "Abuja",
+      "sector": "Monetary Authority",
+      "createdDate": "2026-04-16T17:50:04.5486476+02:00",
+      "title": "Central Bank of Nigeria Strategic Project",
+      "isVerified": true,
+      "requiredInvestment": 50000
+    }
+  ]
+}

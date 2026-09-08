@@ -1,0 +1,14 @@
+{
+  "Businesses": [
+    {
+      "LoanAmount": 20000,
+      "BusinessName": "Development Finance Institution Beneficiary",
+      "RepaymentScore": 90,
+      "Id": "SB-ZM-GA-development-finance-institution-001",
+      "RiskScore": 14,
+      "Status": "Funded",
+      "UseOfFunds": 48,
+      "Sector": "Development"
+    }
+  ]
+}

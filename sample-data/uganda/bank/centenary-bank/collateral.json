@@ -1,0 +1,21 @@
+{
+  "collateralAssets": [
+    {
+      "id": "COL-UG-001",
+      "currentMarketValue": 200000,
+      "assetType": "Vehicle",
+      "isEncumbered": false,
+      "assetDescription": "Centenary Bank delivery vehicle",
+      "isInsured": true
+    }
+  ],
+  "propertyAndLandData": [
+    {
+      "isEncumbered": false,
+      "titleDeedNumber": "UG/5678/2015",
+      "id": "PROP-UG-001",
+      "propertyValue": 180000,
+      "propertyType": "Commercial"
+    }
+  ]
+}

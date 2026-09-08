@@ -1,0 +1,40 @@
+{
+  "profile": {
+    "Id": "ART-001",
+    "BusinessName": "Banda Tailoring Services",
+    "TradeType": "Tailor",
+    "YearsInBusiness": 5,
+    "WorkshopLocation": "Kamwala Market, Lusaka",
+    "IsRegistered": true,
+    "RegistrationNumber": "PACRA/2019/12345",
+    "CouncilLicense": "LCC/TRD/2019/456",
+    "NumberOfEmployees": 3,
+    "NumberOfApprentices": 2,
+    "BusinessPhoneNumber": "+260 977 123456",
+    "BusinessEmail": "banda.tailoring@gmail.com",
+    "AverageMonthlyRevenue": 15000.0,
+    "TargetMarket": "Individual customers, schools, and small businesses",
+    "ServiceOffered": [
+      "Custom Suits",
+      "School Uniforms",
+      "Alterations",
+      "Traditional Wear",
+      "Corporate Wear"
+    ],
+    "RecordDate": "2026-03-29T00:00:00Z"
+  },
+  "toolsAndEquipment": [
+    { "Id": "EQ-001", "EquipmentName": "Industrial Sewing Machine", "EquipmentType": "Sewing Machine", "Condition": "Excellent", "PurchaseValue": 8000.0, "CurrentValue": 6000.0, "PurchaseDate": "2024-04-28T00:00:00Z", "SerialNumber": "JUKI-DDL-8700-12345", "HasOwnershipDocument": true, "OwnershipDocumentType": "Purchase Receipt", "LastMaintenanceDate": "2026-01-28T00:00:00Z", "MaintenanceFrequency": "Quarterly", "IsFinanced": false, "FinancierName": "", "OutstandingBalance": 0.0, "RecordDate": "2026-04-28T00:00:00Z" },
+    { "Id": "EQ-002", "EquipmentName": "Overlock Machine", "EquipmentType": "Sewing Machine", "Condition": "Good", "PurchaseValue": 5000.0, "CurrentValue": 3500.0, "PurchaseDate": "2023-04-28T00:00:00Z", "SerialNumber": "SINGER-14U34-67890", "HasOwnershipDocument": true, "OwnershipDocumentType": "Purchase Receipt", "LastMaintenanceDate": "2025-12-28T00:00:00Z", "MaintenanceFrequency": "Bi-Annual", "IsFinanced": true, "FinancierName": "Zoona Business Loans", "OutstandingBalance": 1200.0, "RecordDate": "2026-04-28T00:00:00Z" }
+  ],
+  "rawMaterials": [
+    { "Id": "MAT-001", "MaterialName": "Cotton Fabric", "MaterialType": "Fabric", "Quantity": 150.0, "Unit": "Meters", "UnitCost": 45.0, "TotalValue": 6750.0, "PurchaseDate": "2026-04-13T00:00:00Z", "SupplierName": "Zambia Textiles Ltd", "SupplierContact": "+260 211 234567", "StorageLocation": "Workshop Storage Room", "MonthlyConsumptionRate": 80.0, "DaysOfInventory": 56, "RecordDate": "2026-04-28T00:00:00Z" },
+    { "Id": "MAT-002", "MaterialName": "Polyester Thread", "MaterialType": "Thread", "Quantity": 50.0, "Unit": "Spools", "UnitCost": 25.0, "TotalValue": 1250.0, "PurchaseDate": "2026-04-18T00:00:00Z", "SupplierName": "Sewing Supplies Zambia", "SupplierContact": "+260 211 345678", "StorageLocation": "Workshop Storage Room", "MonthlyConsumptionRate": 30.0, "DaysOfInventory": 50, "RecordDate": "2026-04-28T00:00:00Z" }
+  ],
+  "orders": [
+    { "Id": "ORD-001", "OrderNumber": "ORD-2024-001", "CustomerName": "Lusaka Primary School", "CustomerContact": "+260 211 456789", "ProductOrService": "School Uniforms", "Description": "150 sets of school uniforms for grades 1-7", "OrderValue": 45000.0, "DepositReceived": 22500.0, "BalanceOutstanding": 22500.0, "OrderDate": "2026-03-29T00:00:00Z", "ExpectedDeliveryDate": "2026-05-13T00:00:00Z", "OrderStatus": "In Progress", "IsContractSigned": true, "PaymentTerms": "50% deposit, balance on delivery", "IsRepeatCustomer": true, "RecordDate": "2026-03-29T00:00:00Z" }
+  ],
+  "certifications": [
+    { "Id": "CERT-001", "CertificateName": "Master Tailor Certification", "CertificateType": "TEVETA", "IssuingAuthority": "Technical Education, Vocational and Entrepreneurship Training Authority", "CertificateNumber": "TEVETA/TLR/2018/001234", "IssueDate": "2020-04-28T00:00:00Z", "ExpiryDate": null, "IsStillValid": true, "SkillLevel": "Master", "TrainingInstitution": "Lusaka Skills Training Centre", "TrainingDurationMonths": 24, "HasPhysicalCertificate": true, "VerificationMethod": "TEVETA Online Portal", "RecordDate": "2026-04-28T00:00:00Z" }
+  ]
+}

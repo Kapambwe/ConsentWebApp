@@ -1,0 +1,33 @@
+{
+  "Requests": [
+    {
+      "PurposeTemplate": "Grant Review",
+      "SubjectName": "Youth Empowerment Fund Beneficiary",
+      "Id": "REQ-ZM-GA-youth-empowerment-fund-001",
+      "Status": "Granted"
+    }
+  ],
+  "VerificationHistory": [
+    {
+      "Id": "PROOF-ZM-001",
+      "VerifiedAt": "2026-04-25T17:49:57.6201227+02:00",
+      "DocumentType": "Tax Clearance",
+      "Verified": true,
+      "SubjectName": "Youth Empowerment Fund Agency Desk",
+      "VerifiedBy": "Government of Zambia"
+    }
+  ],
+  "Opportunities": [
+    {
+      "DisciplineScore": 84,
+      "TaxComplianceStatus": "Compliant",
+      "LastMonthGrowth": 12,
+      "Id": "OPP-ZM-001",
+      "ActiveContractCount": 3,
+      "BusinessName": "Youth Empowerment Fund Agency Desk",
+      "TaskCompletionRate": 91,
+      "VerifiedRevenue": 185000,
+      "TotalAssetValue": 420000
+    }
+  ]
+}

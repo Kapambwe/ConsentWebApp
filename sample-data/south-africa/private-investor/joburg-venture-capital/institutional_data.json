@@ -1,0 +1,39 @@
+{
+  "Requests": [
+    {
+      "PurposeTemplate": "Growth Capital Review",
+      "SubjectName": "Joburg Venture Capital Enterprise",
+      "Id": "REQ-ZA-private-investor-001",
+      "Status": "Pending"
+    },
+    {
+      "PurposeTemplate": "Trade Finance Review",
+      "SubjectName": "Joburg Venture Capital Cooperative",
+      "Id": "REQ-ZA-private-investor-002",
+      "Status": "Granted"
+    }
+  ],
+  "VerificationHistory": [
+    {
+      "Id": "PROOF-ZA-001",
+      "VerifiedAt": "2026-04-25T17:50:00.1372819+02:00",
+      "DocumentType": "Tax Clearance",
+      "Verified": true,
+      "SubjectName": "Joburg Venture Capital Commercial Desk",
+      "VerifiedBy": "SARS"
+    }
+  ],
+  "Opportunities": [
+    {
+      "DisciplineScore": 84,
+      "TaxComplianceStatus": "Compliant",
+      "LastMonthGrowth": 12,
+      "Id": "OPP-ZA-001",
+      "ActiveContractCount": 3,
+      "BusinessName": "Joburg Venture Capital Commercial Desk",
+      "TaskCompletionRate": 91,
+      "VerifiedRevenue": 185000,
+      "TotalAssetValue": 420000
+    }
+  ]
+}

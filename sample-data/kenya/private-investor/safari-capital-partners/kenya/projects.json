@@ -1,0 +1,13 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "location": "Nairobi County",
+      "sector": "Private Capital",
+      "createdDate": "2026-04-16T17:49:58.8354625+02:00",
+      "title": "Safari Capital Partners Strategic Project",
+      "isVerified": true,
+      "requiredInvestment": 50000
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "Businesses": [
+    {
+      "LoanAmount": 5200000,
+      "BusinessName": "Abuja Construction Suppliers",
+      "RepaymentScore": 80,
+      "Id": "SB-NG-ZEN-001",
+      "RiskScore": 27,
+      "Status": "Funded",
+      "UseOfFunds": 70,
+      "Sector": "Construction Supply"
+    }
+  ]
+}

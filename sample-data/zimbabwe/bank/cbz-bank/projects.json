@@ -1,0 +1,13 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "location": "Harare",
+      "sector": "Banking",
+      "createdDate": "2026-04-16T17:50:00.8340283+02:00",
+      "title": "Cbz Bank Strategic Project",
+      "isVerified": true,
+      "requiredInvestment": 50000
+    }
+  ]
+}

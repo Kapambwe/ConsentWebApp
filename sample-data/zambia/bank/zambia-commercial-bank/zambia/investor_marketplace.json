@@ -1,0 +1,27 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "location": "Central Province",
+      "sector": "Commercial Banking",
+      "createdDate": "2026-01-28T17:49:55.1998621+02:00",
+      "title": "Zambia Commercial Bank Growth Project",
+      "isVerified": true,
+      "requiredInvestment": 35000
+    }
+  ],
+  "investmentRanges": [
+    {
+      "label": "Under 50k",
+      "minValue": 0,
+      "value": "0-50000",
+      "maxValue": 50000
+    },
+    {
+      "label": "50k to 250k",
+      "minValue": 50000,
+      "value": "50000-250000",
+      "maxValue": 250000
+    }
+  ]
+}

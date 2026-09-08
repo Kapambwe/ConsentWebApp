@@ -1,0 +1,14 @@
+{
+  "Businesses": [
+    {
+      "LoanAmount": 3500000,
+      "BusinessName": "Bank Of Uganda Coffee Traders",
+      "RepaymentScore": 81,
+      "Id": "SB-UG-government-001",
+      "RiskScore": 27,
+      "Status": "Funded",
+      "UseOfFunds": 64,
+      "Sector": "Coffee Trade"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "Requests": [
+    {
+      "PurposeTemplate": "Motor Insurance Review",
+      "SubjectName": "Fleet Insurance Portfolio",
+      "Id": "REQ-ZA-DIS-001",
+      "Status": "Pending"
+    }
+  ],
+  "VerificationHistory": [
+    {
+      "Id": "PROOF-ZA-001",
+      "VerifiedAt": "2026-04-25T17:50:00.4540630+02:00",
+      "DocumentType": "Tax Clearance",
+      "Verified": true,
+      "SubjectName": "Discovery Insurance",
+      "VerifiedBy": "FSCA"
+    }
+  ],
+  "Opportunities": [
+    {
+      "DisciplineScore": 84,
+      "TaxComplianceStatus": "Compliant",
+      "LastMonthGrowth": 12,
+      "Id": "OPP-ZA-001",
+      "ActiveContractCount": 3,
+      "BusinessName": "Discovery Insurance",
+      "TaskCompletionRate": 91,
+      "VerifiedRevenue": 185000,
+      "TotalAssetValue": 420000
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "Businesses": [
+    {
+      "LoanAmount": 120000,
+      "BusinessName": "South African Reserve Bank Enterprise",
+      "RepaymentScore": 80,
+      "Id": "SB-ZA-government-001",
+      "RiskScore": 27,
+      "Status": "Funded",
+      "UseOfFunds": 69,
+      "Sector": "Industrial Services"
+    }
+  ]
+}

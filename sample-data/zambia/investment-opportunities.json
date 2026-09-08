@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "title": "Agricultural Starter Pack",
+    "description": "Funding for 50 farmers",
+    "targetAmount": 50000,
+    "currentFunding": 10000,
+    "status": "Open",
+    "expiryDate": "2026-07-13T00:00:00",
+    "riskScore": "Low",
+    "expectedReturn": 0.12,
+    "impactSummary": "Supports 50 farmers, increasing local food security by 20%."
+  },
+  {
+    "id": "2",
+    "title": "Small Business Contract",
+    "description": "Funding for local shop expansion",
+    "targetAmount": 20000,
+    "currentFunding": 5000,
+    "status": "Open",
+    "expiryDate": "2026-08-12T00:00:00",
+    "riskScore": "Medium",
+    "expectedReturn": 0.08,
+    "impactSummary": "Creates 5 new jobs in the local community."
+  }
+]

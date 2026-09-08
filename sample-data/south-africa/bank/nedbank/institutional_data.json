@@ -1,0 +1,33 @@
+{
+  "Requests": [
+    {
+      "PurposeTemplate": "Working Capital Review",
+      "SubjectName": "Durban Retail Traders",
+      "Id": "REQ-ZA-NED-001",
+      "Status": "Pending"
+    }
+  ],
+  "VerificationHistory": [
+    {
+      "Id": "PROOF-ZA-001",
+      "VerifiedAt": "2026-04-25T17:49:59.3998769+02:00",
+      "DocumentType": "Tax Clearance",
+      "Verified": true,
+      "SubjectName": "Nedbank SME Desk",
+      "VerifiedBy": "SARS"
+    }
+  ],
+  "Opportunities": [
+    {
+      "DisciplineScore": 84,
+      "TaxComplianceStatus": "Compliant",
+      "LastMonthGrowth": 12,
+      "Id": "OPP-ZA-001",
+      "ActiveContractCount": 3,
+      "BusinessName": "Nedbank SME Desk",
+      "TaskCompletionRate": 91,
+      "VerifiedRevenue": 185000,
+      "TotalAssetValue": 420000
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "equipment": [
+    { "EquipmentId": "EQ001", "Type": "Tractor", "Model": "Massey Ferguson 275", "PurchaseDate": "2023-04-28T00:00:00Z", "Value": 1500000, "Condition": "Good" },
+    { "EquipmentId": "EQ002", "Type": "Plough", "Model": "3-Disc Plough", "PurchaseDate": "2024-04-28T00:00:00Z", "Value": 85000, "Condition": "Excellent" },
+    { "EquipmentId": "EQ003", "Type": "Sprayer", "Model": "Knapsack 20L", "PurchaseDate": "2025-04-28T00:00:00Z", "Value": 12000, "Condition": "Good" }
+  ],
+  "chemicalApplications": [
+    { "PlotId": "P001", "ApplicationDate": "2026-04-13T00:00:00Z", "ChemicalType": "Herbicide", "ProductName": "Glyphosate 480", "Quantity": "2L/ha", "ApplicationMethod": "Spraying" },
+    { "PlotId": "P002", "ApplicationDate": "2026-03-29T00:00:00Z", "ChemicalType": "Fertilizer", "ProductName": "NPK 17-17-17", "Quantity": "50kg/ha", "ApplicationMethod": "Broadcasting" }
+  ],
+  "cropMonitoring": [
+    { "PlotId": "P001", "MonitoringDate": "2026-04-21T00:00:00Z", "GrowthStage": "Vegetative", "HealthStatus": "Good", "PestIncidence": "Low", "DiseaseIncidence": "None" },
+    { "PlotId": "P002", "MonitoringDate": "2026-04-21T00:00:00Z", "GrowthStage": "Flowering", "HealthStatus": "Excellent", "PestIncidence": "None", "DiseaseIncidence": "Low" }
+  ],
+  "buildings": [
+    { "BuildingId": "B001", "Type": "Dairy Shed", "SizeSquareMeters": 150, "Capacity": "30 cows", "ConstructionDate": "2021-04-28T00:00:00Z", "Condition": "Good" },
+    { "BuildingId": "B002", "Type": "Storage Barn", "SizeSquareMeters": 200, "Capacity": "50 tons", "ConstructionDate": "2018-04-28T00:00:00Z", "Condition": "Fair" }
+  ],
+  "vaccinations": [
+    { "AnimalId": "C001", "VaccinationDate": "2026-03-29T00:00:00Z", "VaccineName": "FMD Vaccine", "Disease": "Foot and Mouth", "NextDueDate": "2026-09-29T00:00:00Z", "AdministeredBy": "Dr. Kamau" }
+  ]
+}

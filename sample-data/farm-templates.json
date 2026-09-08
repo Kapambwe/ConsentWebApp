@@ -1,0 +1,119 @@
+[
+  {
+    "farmType": "CropFarm",
+    "dataTypes": [
+      { "name": "Daily Tasks", "icon": "assignment", "description": "Tasks performed daily on the farm", "sector": "Operations", "selected": true },
+      { "name": "Crop Inventory", "icon": "eco", "description": "Number and types of crops currently planted", "sector": "Assets", "selected": true },
+      { "name": "Harvest Data", "icon": "shopping_basket", "description": "Historical and current harvest yields", "sector": "Production", "selected": true },
+      { "name": "Contract Data", "icon": "description", "description": "Supply and purchase agreements", "sector": "Legal", "selected": true },
+      { "name": "Milestone Data", "icon": "flag", "description": "Key growth and business milestones", "sector": "Management", "selected": true }
+    ]
+  },
+  {
+    "farmType": "LivestockFarm",
+    "dataTypes": [
+      { "name": "Animal Inventory", "icon": "pets", "description": "Number and health of livestock", "sector": "Assets", "selected": true },
+      { "name": "Feeding Records", "icon": "restaurant", "description": "Daily feeding schedules and costs", "sector": "Operations", "selected": true },
+      { "name": "Vaccination Records", "icon": "healing", "description": "Health and vaccination history", "sector": "Health", "selected": true },
+      { "name": "Milestone Data", "icon": "flag", "description": "Breeding and growth milestones", "sector": "Management", "selected": true }
+    ]
+  },
+  {
+    "farmType": "PoultryFarm",
+    "dataTypes": [
+      { "name": "Flock Details", "icon": "egg", "description": "Bird counts by breed and age", "sector": "Assets", "selected": true },
+      { "name": "Egg Production", "icon": "egg_alt", "description": "Daily egg production data", "sector": "Production", "selected": true },
+      { "name": "Feed Consumption", "icon": "restaurant_menu", "description": "Feed usage and costs", "sector": "Operations", "selected": true },
+      { "name": "Milestone Data", "icon": "flag", "description": "Batch cycle milestones", "sector": "Management", "selected": true }
+    ]
+  },
+  {
+    "farmType": "FurnitureMaking",
+    "dataTypes": [
+      { "name": "Production Tasks", "icon": "build", "description": "Daily woodworking and assembly tasks", "sector": "Operations", "selected": true },
+      { "name": "Lumber Inventory", "icon": "category", "description": "Stock levels of different wood types", "sector": "Assets", "selected": true },
+      { "name": "Finished Goods", "icon": "chair", "description": "Inventory of completed furniture items", "sector": "Assets", "selected": true },
+      { "name": "Contract Data", "icon": "description", "description": "Supplier and buyer contracts", "sector": "Legal", "selected": true },
+      { "name": "Milestone Data", "icon": "flag", "description": "Project completion milestones", "sector": "Management", "selected": true }
+    ]
+  },
+  {
+    "farmType": "ClothMaking",
+    "dataTypes": [
+      { "name": "Daily Output", "icon": "straighten", "description": "Daily sewing and tailoring tasks", "sector": "Operations", "selected": true },
+      { "name": "Fabric Inventory", "icon": "texture", "description": "Stock of various fabrics and materials", "sector": "Assets", "selected": true },
+      { "name": "Garment Stock", "icon": "checkroom", "description": "Number of shoes and clothes in stock", "sector": "Assets", "selected": true },
+      { "name": "Contract Data", "icon": "description", "description": "B2B supply contracts", "sector": "Legal", "selected": true },
+      { "name": "Milestone Data", "icon": "flag", "description": "Order fulfillment milestones", "sector": "Management", "selected": true }
+    ]
+  },
+  {
+    "farmType": "Construction",
+    "dataTypes": [
+      { "name": "Project Milestones", "icon": "flag", "description": "Major project phase completions", "sector": "Management", "selected": true },
+      { "name": "Site Reports", "icon": "assignment", "description": "Daily progress and incident reports", "sector": "Operations", "selected": true },
+      { "name": "Safety Audits", "icon": "health_and_safety", "description": "OSHA and local safety compliance logs", "sector": "Compliance", "selected": true },
+      { "name": "Material Registry", "icon": "inventory", "description": "Inventory of on-site construction materials", "sector": "Assets", "selected": true },
+      { "name": "Contract Data", "icon": "description", "description": "Subcontractor and client agreements", "sector": "Legal", "selected": true }
+    ]
+  },
+  {
+    "farmType": "Mining",
+    "dataTypes": [
+      { "name": "Output Logs", "icon": "shutter_speed", "description": "Daily mineral/ore extraction volume", "sector": "Production", "selected": true },
+      { "name": "Equipment Status", "icon": "engineering", "description": "Maintenance and operational status of machinery", "sector": "Operations", "selected": true },
+      { "name": "Environmental Data", "icon": "eco", "description": "Air and water quality monitoring metrics", "sector": "Compliance", "selected": true },
+      { "name": "Milestone Data", "icon": "flag", "description": "Exploration and excavation milestones", "sector": "Management", "selected": true }
+    ]
+  },
+  {
+    "farmType": "Retail",
+    "dataTypes": [
+      { "name": "Inventory Levels", "icon": "shopping_cart", "description": "Stock counts across product categories", "sector": "Assets", "selected": true },
+      { "name": "Sales Reports", "icon": "receipt_long", "description": "Daily/Weekly transaction summaries", "sector": "Finance", "selected": true },
+      { "name": "Customer Feedback", "icon": "reviews", "description": "NPS and direct customer satisfaction data", "sector": "Marketing", "selected": true },
+      { "name": "Supplier Contracts", "icon": "description", "description": "Agreements with manufacturers/distributors", "sector": "Legal", "selected": true },
+      { "name": "Growth Milestones", "icon": "trending_up", "description": "New store openings or market share goals", "sector": "Management", "selected": true }
+    ]
+  },
+  {
+    "farmType": "Infrastructure",
+    "dataTypes": [
+      { "name": "Site Preparation", "icon": "terrain", "description": "Land clearing and leveling milestones", "sector": "Milestones", "selected": true },
+      { "name": "Foundation Phase", "icon": "foundation", "description": "Structural foundation completion", "sector": "Milestones", "selected": true },
+      { "name": "Utility Connection", "icon": "power", "description": "Water, power and sewage connectivity", "sector": "Milestones", "selected": true },
+      { "name": "Safety Inspections", "icon": "verified_user", "description": "Regular safety audit reports", "sector": "Compliance", "selected": true },
+      { "name": "Zoning Permits", "icon": "description", "description": "Local authority approvals and permits", "sector": "Legal", "selected": true }
+    ]
+  },
+  {
+    "farmType": "Climate",
+    "dataTypes": [
+      { "name": "Baseline Assessment", "icon": "assessment", "description": "Initial climate impact study", "sector": "Milestones", "selected": true },
+      { "name": "Adaptation Implementation", "icon": "settings_suggest", "description": "Phase 1 of adaptation measures", "sector": "Milestones", "selected": true },
+      { "name": "Impact Verification", "icon": "fact_check", "description": "Independent verification of climate impact", "sector": "Milestones", "selected": true },
+      { "name": "Resilience Metrics", "icon": "trending_up", "description": "Data on community/asset resilience", "sector": "Data", "selected": true },
+      { "name": "Vulnerability Data", "icon": "warning", "description": "Periodic assessment of vulnerabilities", "sector": "Data", "selected": true }
+    ]
+  },
+  {
+    "farmType": "Carbon",
+    "dataTypes": [
+      { "name": "Methodology Approval", "icon": "rule", "description": "Carbon credit methodology sign-off", "sector": "Milestones", "selected": true },
+      { "name": "Verification Audit", "icon": "audit", "description": "Third-party carbon reduction verification", "sector": "Milestones", "selected": true },
+      { "name": "Credit Issuance", "icon": "token", "description": "Registry issuance of carbon credits", "sector": "Milestones", "selected": true },
+      { "name": "Sequestration Logs", "icon": "cloud_done", "description": "Ongoing carbon capture/reduction data", "sector": "Data", "selected": true },
+      { "name": "Trading Agreements", "icon": "handshake", "description": "Contracts for credit sales", "sector": "Legal", "selected": true }
+    ]
+  },
+  {
+    "farmType": "Energy",
+    "dataTypes": [
+      { "name": "Grid Interconnection", "icon": "cable", "description": "Physical grid connection completion", "sector": "Milestones", "selected": true },
+      { "name": "Commissioning", "icon": "play_circle", "description": "System start-up and testing phase", "sector": "Milestones", "selected": true },
+      { "name": "Operational Handover", "icon": "assignment_turned_in", "description": "Project handover to operations", "sector": "Milestones", "selected": true },
+      { "name": "Generation Data", "icon": "bolt", "description": "Real-time energy output (kWh/MWh)", "sector": "Data", "selected": true },
+      { "name": "Efficiency Rating", "icon": "speed", "description": "Performance ratio and efficiency metrics", "sector": "Data", "selected": true }
+    ]
+  }
+]

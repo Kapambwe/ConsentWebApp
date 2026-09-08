@@ -1,0 +1,39 @@
+{
+  "Requests": [
+    {
+      "PurposeTemplate": "Working Capital Review",
+      "SubjectName": "National Pension Authority Trader Group",
+      "Id": "REQ-zambia-pension-fund-001",
+      "Status": "Pending"
+    },
+    {
+      "PurposeTemplate": "Loan Assessment",
+      "SubjectName": "National Pension Authority Cooperative",
+      "Id": "REQ-zambia-pension-fund-002",
+      "Status": "Granted"
+    }
+  ],
+  "VerificationHistory": [
+    {
+      "Id": "PROOF-ZM-001",
+      "VerifiedAt": "2026-04-25T17:49:56.0856416+02:00",
+      "DocumentType": "Tax Clearance",
+      "Verified": true,
+      "SubjectName": "National Pension Authority SME Desk",
+      "VerifiedBy": "ZRA"
+    }
+  ],
+  "Opportunities": [
+    {
+      "DisciplineScore": 84,
+      "TaxComplianceStatus": "Compliant",
+      "LastMonthGrowth": 12,
+      "Id": "OPP-ZM-001",
+      "ActiveContractCount": 3,
+      "BusinessName": "National Pension Authority SME Desk",
+      "TaskCompletionRate": 91,
+      "VerifiedRevenue": 185000,
+      "TotalAssetValue": 420000
+    }
+  ]
+}

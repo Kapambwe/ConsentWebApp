@@ -1,0 +1,13 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "location": "Gauteng",
+      "sector": "Private Equity",
+      "createdDate": "2026-04-16T17:49:59.9690549+02:00",
+      "title": "Cape Town Equity Partners Strategic Project",
+      "isVerified": true,
+      "requiredInvestment": 50000
+    }
+  ]
+}

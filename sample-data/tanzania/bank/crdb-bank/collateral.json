@@ -1,0 +1,21 @@
+{
+  "collateralAssets": [
+    {
+      "id": "COL-TZ-001",
+      "currentMarketValue": 200000,
+      "assetType": "Vehicle",
+      "isEncumbered": false,
+      "assetDescription": "Crdb Bank delivery vehicle",
+      "isInsured": true
+    }
+  ],
+  "propertyAndLandData": [
+    {
+      "isEncumbered": false,
+      "titleDeedNumber": "TZ/5678/2015",
+      "id": "PROP-TZ-001",
+      "propertyValue": 180000,
+      "propertyType": "Commercial"
+    }
+  ]
+}

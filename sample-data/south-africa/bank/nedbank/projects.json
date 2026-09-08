@@ -1,0 +1,13 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "location": "KwaZulu-Natal",
+      "sector": "Commercial Banking",
+      "createdDate": "2026-04-16T17:49:59.4013408+02:00",
+      "title": "Nedbank Strategic Project",
+      "isVerified": true,
+      "requiredInvestment": 50000
+    }
+  ]
+}

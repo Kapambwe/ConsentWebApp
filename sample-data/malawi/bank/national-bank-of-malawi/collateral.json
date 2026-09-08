@@ -1,0 +1,21 @@
+{
+  "collateralAssets": [
+    {
+      "id": "COL-MW-001",
+      "currentMarketValue": 200000,
+      "assetType": "Vehicle",
+      "isEncumbered": false,
+      "assetDescription": "National Bank Of Malawi delivery vehicle",
+      "isInsured": true
+    }
+  ],
+  "propertyAndLandData": [
+    {
+      "isEncumbered": false,
+      "titleDeedNumber": "MW/5678/2015",
+      "id": "PROP-MW-001",
+      "propertyValue": 180000,
+      "propertyType": "Commercial"
+    }
+  ]
+}

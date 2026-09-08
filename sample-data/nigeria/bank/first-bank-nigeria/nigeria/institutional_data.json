@@ -1,0 +1,33 @@
+{
+  "Requests": [
+    {
+      "PurposeTemplate": "General Assessment",
+      "SubjectName": "First Bank Nigeria Business",
+      "Id": "REQ-nigeria-bank-001",
+      "Status": "Pending"
+    }
+  ],
+  "VerificationHistory": [
+    {
+      "Id": "PROOF-NI-001",
+      "VerifiedAt": "2026-04-25T17:50:04.3188459+02:00",
+      "DocumentType": "Tax Clearance",
+      "Verified": true,
+      "SubjectName": "First Bank Nigeria Desk",
+      "VerifiedBy": "Local Regulator"
+    }
+  ],
+  "Opportunities": [
+    {
+      "DisciplineScore": 84,
+      "TaxComplianceStatus": "Compliant",
+      "LastMonthGrowth": 12,
+      "Id": "OPP-NI-001",
+      "ActiveContractCount": 3,
+      "BusinessName": "First Bank Nigeria Desk",
+      "TaskCompletionRate": 91,
+      "VerifiedRevenue": 185000,
+      "TotalAssetValue": 420000
+    }
+  ]
+}

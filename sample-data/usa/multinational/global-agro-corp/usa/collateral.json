@@ -1,0 +1,21 @@
+{
+  "collateralAssets": [
+    {
+      "id": "COL-US-001",
+      "currentMarketValue": 200000,
+      "assetType": "Vehicle",
+      "isEncumbered": false,
+      "assetDescription": "Global Agro Corp delivery vehicle",
+      "isInsured": true
+    }
+  ],
+  "propertyAndLandData": [
+    {
+      "isEncumbered": false,
+      "titleDeedNumber": "US/5678/2015",
+      "id": "PROP-US-001",
+      "propertyValue": 180000,
+      "propertyType": "Commercial"
+    }
+  ]
+}

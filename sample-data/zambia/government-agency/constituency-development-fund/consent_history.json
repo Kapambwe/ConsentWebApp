@@ -1,0 +1,10 @@
+{
+  "items": [
+    {
+      "customerId": "CUST-ZM-001",
+      "timestamp": "2026-04-08T17:49:57.4668227+02:00",
+      "action": "Granted",
+      "consentId": "CON-ZM-001"
+    }
+  ]
+}

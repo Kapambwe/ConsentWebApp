@@ -1,0 +1,14 @@
+{
+  "Businesses": [
+    {
+      "LoanAmount": 18000,
+      "BusinessName": "Bank Of Namibia Fishing Cooperative",
+      "RepaymentScore": 76,
+      "Id": "SB-NA-government-001",
+      "RiskScore": 30,
+      "Status": "Funded",
+      "UseOfFunds": 59,
+      "Sector": "Fishing"
+    }
+  ]
+}

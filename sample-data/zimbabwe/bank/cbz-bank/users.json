@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "USR-ZI-001",
+      "email": "admin@zimbabwe.sample",
+      "displayName": "Institution Admin",
+      "status": "Active",
+      "username": "admin",
+      "role": "Administrator"
+    },
+    {
+      "id": "USR-ZI-002",
+      "email": "officer@zimbabwe.sample",
+      "displayName": "Institution Officer",
+      "status": "Active",
+      "username": "officer",
+      "role": "Officer"
+    }
+  ]
+}

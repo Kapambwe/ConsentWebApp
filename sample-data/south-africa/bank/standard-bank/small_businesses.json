@@ -1,0 +1,14 @@
+{
+  "Businesses": [
+    {
+      "LoanAmount": 130000,
+      "BusinessName": "Soweto Logistics Fleet",
+      "RepaymentScore": 82,
+      "Id": "SB-ZA-SB-001",
+      "RiskScore": 26,
+      "Status": "Funded",
+      "UseOfFunds": 71,
+      "Sector": "Logistics"
+    }
+  ]
+}

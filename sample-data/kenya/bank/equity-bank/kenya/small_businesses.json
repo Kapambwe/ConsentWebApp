@@ -1,0 +1,14 @@
+{
+  "Businesses": [
+    {
+      "LoanAmount": 58000,
+      "BusinessName": "Nakuru Dairy Farmers",
+      "RepaymentScore": 79,
+      "Id": "SB-KE-EQ-001",
+      "RiskScore": 30,
+      "Status": "Funded",
+      "UseOfFunds": 61,
+      "Sector": "Dairy Farming"
+    }
+  ]
+}

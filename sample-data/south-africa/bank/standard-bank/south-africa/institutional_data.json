@@ -1,0 +1,33 @@
+{
+  "Requests": [
+    {
+      "PurposeTemplate": "Asset Finance Review",
+      "SubjectName": "Soweto Logistics Fleet",
+      "Id": "REQ-ZA-SB-001",
+      "Status": "Pending"
+    }
+  ],
+  "VerificationHistory": [
+    {
+      "Id": "PROOF-ZA-001",
+      "VerifiedAt": "2026-04-25T17:49:59.1295639+02:00",
+      "DocumentType": "Tax Clearance",
+      "Verified": true,
+      "SubjectName": "Standard Bank SME Desk",
+      "VerifiedBy": "SARS"
+    }
+  ],
+  "Opportunities": [
+    {
+      "DisciplineScore": 84,
+      "TaxComplianceStatus": "Compliant",
+      "LastMonthGrowth": 12,
+      "Id": "OPP-ZA-001",
+      "ActiveContractCount": 3,
+      "BusinessName": "Standard Bank SME Desk",
+      "TaskCompletionRate": 91,
+      "VerifiedRevenue": 185000,
+      "TotalAssetValue": 420000
+    }
+  ]
+}

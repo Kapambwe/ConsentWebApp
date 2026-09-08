@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "opportunityId": "1",
+    "requesterId": "user1",
+    "amountRequested": 5000,
+    "purpose": "Seeds and fertilizer",
+    "status": "Pending",
+    "requestDate": "2026-06-08T00:00:00"
+  },
+  {
+    "id": "2",
+    "opportunityId": "1",
+    "requesterId": "user2",
+    "amountRequested": 3000,
+    "purpose": "New irrigation equipment",
+    "status": "Pending",
+    "requestDate": "2026-06-11T00:00:00"
+  }
+]

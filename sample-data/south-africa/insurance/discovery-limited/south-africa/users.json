@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "USR-SO-001",
+      "email": "admin@south-africa.sample",
+      "displayName": "Institution Admin",
+      "status": "Active",
+      "username": "admin",
+      "role": "Administrator"
+    },
+    {
+      "id": "USR-SO-002",
+      "email": "officer@south-africa.sample",
+      "displayName": "Institution Officer",
+      "status": "Active",
+      "username": "officer",
+      "role": "Officer"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "Businesses": [
+    {
+      "LoanAmount": 30000,
+      "BusinessName": "Banda Smallholdings",
+      "RepaymentScore": 78,
+      "Id": "SB-ZM-FARM-001",
+      "RiskScore": 28,
+      "Status": "Funded",
+      "UseOfFunds": 64,
+      "Sector": "Crop Farming"
+    }
+  ]
+}

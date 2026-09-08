@@ -1,0 +1,39 @@
+{
+  "Requests": [
+    {
+      "PurposeTemplate": "Working Capital Review",
+      "SubjectName": "Kenya National Pension Fund Tea Cooperative",
+      "Id": "REQ-KE-pension-fund-001",
+      "Status": "Pending"
+    },
+    {
+      "PurposeTemplate": "Business Expansion Review",
+      "SubjectName": "Kenya National Pension Fund Market Traders",
+      "Id": "REQ-KE-pension-fund-002",
+      "Status": "Granted"
+    }
+  ],
+  "VerificationHistory": [
+    {
+      "Id": "PROOF-KE-001",
+      "VerifiedAt": "2026-04-25T17:49:58.1982935+02:00",
+      "DocumentType": "Tax Clearance",
+      "Verified": true,
+      "SubjectName": "Kenya National Pension Fund SME Desk",
+      "VerifiedBy": "KRA"
+    }
+  ],
+  "Opportunities": [
+    {
+      "DisciplineScore": 84,
+      "TaxComplianceStatus": "Compliant",
+      "LastMonthGrowth": 12,
+      "Id": "OPP-KE-001",
+      "ActiveContractCount": 3,
+      "BusinessName": "Kenya National Pension Fund SME Desk",
+      "TaskCompletionRate": 91,
+      "VerifiedRevenue": 185000,
+      "TotalAssetValue": 420000
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "Businesses": [
+    {
+      "LoanAmount": 12000,
+      "BusinessName": "Steward Bank Agro Traders",
+      "RepaymentScore": 74,
+      "Id": "SB-ZW-bank-001",
+      "RiskScore": 32,
+      "Status": "Funded",
+      "UseOfFunds": 58,
+      "Sector": "Agribusiness"
+    }
+  ]
+}

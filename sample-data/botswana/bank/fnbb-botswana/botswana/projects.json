@@ -1,0 +1,13 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "location": "Gaborone",
+      "sector": "Banking",
+      "createdDate": "2026-04-16T17:50:02.2547652+02:00",
+      "title": "Fnbb Botswana Strategic Project",
+      "isVerified": true,
+      "requiredInvestment": 50000
+    }
+  ]
+}

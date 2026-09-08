@@ -1,0 +1,12 @@
+{
+  "loans": [
+    {
+      "interestRate": 12.5,
+      "amount": 50000,
+      "balance": 32000,
+      "nextPaymentDate": "2026-05-12T17:49:58.7029896+02:00",
+      "borrower": "Kamau Highlands Farm SME Desk",
+      "loanId": "LN-KE-001"
+    }
+  ]
+}

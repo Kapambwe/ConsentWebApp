@@ -1,0 +1,14 @@
+{
+  "Businesses": [
+    {
+      "LoanAmount": 14000,
+      "BusinessName": "Fnbb Botswana Traders",
+      "RepaymentScore": 78,
+      "Id": "SB-BW-bank-001",
+      "RiskScore": 29,
+      "Status": "Funded",
+      "UseOfFunds": 56,
+      "Sector": "Retail"
+    }
+  ]
+}

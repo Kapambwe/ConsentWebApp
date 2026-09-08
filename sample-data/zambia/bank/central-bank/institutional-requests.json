@@ -1,0 +1,8 @@
+[{
+    "requestId": "inst-req-002",
+    "institutionName": "Central Bank",
+    "purpose": "Anti-Fraud Verification",
+    "requestedAttributes": ["TransactionHistory", "AccountBalance"],
+    "status": "Approved",
+    "timestamp": "2026-06-12T14:30:00Z"
+}]

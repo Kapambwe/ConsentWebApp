@@ -1,0 +1,14 @@
+{
+  "Businesses": [
+    {
+      "LoanAmount": 110000,
+      "BusinessName": "Cape Town Hospitality Group",
+      "RepaymentScore": 81,
+      "Id": "SB-ZA-FNB-001",
+      "RiskScore": 28,
+      "Status": "Funded",
+      "UseOfFunds": 67,
+      "Sector": "Hospitality"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "location": "Nairobi County",
+      "sector": "Private Capital",
+      "createdDate": "2026-04-16T17:49:58.9995207+02:00",
+      "title": "Nairobi Angel Network Strategic Project",
+      "isVerified": true,
+      "requiredInvestment": 50000
+    }
+  ]
+}

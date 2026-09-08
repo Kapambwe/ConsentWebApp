@@ -1,0 +1,33 @@
+{
+  "Requests": [
+    {
+      "PurposeTemplate": "Working Capital Review",
+      "SubjectName": "Bank Of Namibia Fishing Cooperative",
+      "Id": "REQ-NA-government-001",
+      "Status": "Pending"
+    }
+  ],
+  "VerificationHistory": [
+    {
+      "Id": "PROOF-NA-001",
+      "VerifiedAt": "2026-04-25T17:50:02.7590153+02:00",
+      "DocumentType": "Tax Clearance",
+      "Verified": true,
+      "SubjectName": "Bank Of Namibia Namibia Desk",
+      "VerifiedBy": "NamRA"
+    }
+  ],
+  "Opportunities": [
+    {
+      "DisciplineScore": 84,
+      "TaxComplianceStatus": "Compliant",
+      "LastMonthGrowth": 12,
+      "Id": "OPP-NA-001",
+      "ActiveContractCount": 3,
+      "BusinessName": "Bank Of Namibia Namibia Desk",
+      "TaskCompletionRate": 91,
+      "VerifiedRevenue": 185000,
+      "TotalAssetValue": 420000
+    }
+  ]
+}

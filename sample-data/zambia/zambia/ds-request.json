@@ -1,0 +1,5 @@
+{
+    "requestId": "req-12345",
+    "status": "ReadyToSign",
+    "walletAppUrl": "citizen-wallet://authorize"
+}

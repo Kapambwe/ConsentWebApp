@@ -1,0 +1,14 @@
+{
+  "Businesses": [
+    {
+      "LoanAmount": 8000,
+      "BusinessName": "Peri-Urban Women Traders",
+      "RepaymentScore": 77,
+      "Id": "SB-ZM-CSZ-001",
+      "RiskScore": 30,
+      "Status": "Funded",
+      "UseOfFunds": 62,
+      "Sector": "Retail Trade"
+    }
+  ]
+}

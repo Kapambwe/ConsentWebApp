@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "USR-UG-001",
+      "email": "admin@uganda.sample",
+      "displayName": "Institution Admin",
+      "status": "Active",
+      "username": "admin",
+      "role": "Administrator"
+    },
+    {
+      "id": "USR-UG-002",
+      "email": "officer@uganda.sample",
+      "displayName": "Institution Officer",
+      "status": "Active",
+      "username": "officer",
+      "role": "Officer"
+    }
+  ]
+}

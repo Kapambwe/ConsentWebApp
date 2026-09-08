@@ -1,0 +1,33 @@
+{
+  "Requests": [
+    {
+      "PurposeTemplate": "Grant Review",
+      "SubjectName": "Women Farmers Group",
+      "Id": "REQ-ZM-NGO-001",
+      "Status": "Granted"
+    }
+  ],
+  "VerificationHistory": [
+    {
+      "Id": "PROOF-ZM-001",
+      "VerifiedAt": "2026-04-25T17:49:56.1954176+02:00",
+      "DocumentType": "Tax Clearance",
+      "Verified": true,
+      "SubjectName": "Agri Aid International Projects",
+      "VerifiedBy": "Registrar of NGOs"
+    }
+  ],
+  "Opportunities": [
+    {
+      "DisciplineScore": 84,
+      "TaxComplianceStatus": "Compliant",
+      "LastMonthGrowth": 12,
+      "Id": "OPP-ZM-001",
+      "ActiveContractCount": 3,
+      "BusinessName": "Agri Aid International Projects",
+      "TaskCompletionRate": 91,
+      "VerifiedRevenue": 185000,
+      "TotalAssetValue": 420000
+    }
+  ]
+}

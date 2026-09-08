@@ -1,0 +1,14 @@
+{
+  "Businesses": [
+    {
+      "LoanAmount": 2200000,
+      "BusinessName": "Bank Of Tanzania Tea Cooperative",
+      "RepaymentScore": 79,
+      "Id": "SB-TZ-government-001",
+      "RiskScore": 28,
+      "Status": "Funded",
+      "UseOfFunds": 60,
+      "Sector": "Agribusiness"
+    }
+  ]
+}

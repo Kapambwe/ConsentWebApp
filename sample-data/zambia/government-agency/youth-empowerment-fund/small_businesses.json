@@ -1,0 +1,14 @@
+{
+  "Businesses": [
+    {
+      "LoanAmount": 20000,
+      "BusinessName": "Youth Empowerment Fund Beneficiary",
+      "RepaymentScore": 90,
+      "Id": "SB-ZM-GA-youth-empowerment-fund-001",
+      "RiskScore": 14,
+      "Status": "Funded",
+      "UseOfFunds": 48,
+      "Sector": "Development"
+    }
+  ]
+}

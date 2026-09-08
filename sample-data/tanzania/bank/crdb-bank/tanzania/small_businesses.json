@@ -1,0 +1,14 @@
+{
+  "Businesses": [
+    {
+      "LoanAmount": 2200000,
+      "BusinessName": "Crdb Bank Tea Cooperative",
+      "RepaymentScore": 79,
+      "Id": "SB-TZ-bank-001",
+      "RiskScore": 28,
+      "Status": "Funded",
+      "UseOfFunds": 60,
+      "Sector": "Agribusiness"
+    }
+  ]
+}

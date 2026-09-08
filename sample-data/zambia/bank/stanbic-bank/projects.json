@@ -1,0 +1,13 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "location": "Copperbelt Province",
+      "sector": "Corporate Banking",
+      "createdDate": "2026-04-16T17:49:55.6340625+02:00",
+      "title": "Stanbic Bank Zambia Strategic Project",
+      "isVerified": true,
+      "requiredInvestment": 50000
+    }
+  ]
+}
