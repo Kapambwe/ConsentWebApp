@@ -4,9 +4,10 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <base href="/ConsentWebApp/" />
     <title>Consent Web App</title>
 
-    <link href="_framework/dotnet.usxjsywfej.js" rel="preload" as="script" fetchpriority="high" crossorigin="anonymous" />
+    <link href="_framework/dotnet.0e27rjqv3w.js" rel="preload" as="script" fetchpriority="high" crossorigin="anonymous" integrity="sha256-2I5Xut7+t4QnsOtJLemhcl97E5lG1IlUow1JmqmrLN4=" />
     <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="css/app.css" />
     <link rel="icon" type="image/png" href="favicon.png" />
@@ -14,34 +15,24 @@
     <link href="_content/Radzen.Blazor/css/material-base.css" rel="stylesheet">
     <script type="importmap">{
   "imports": {
-    "./_framework/blazor.webassembly.js": "./_framework/blazor.webassembly.66stpp682q.js",
-    "./_framework/dotnet.native.js": "./_framework/dotnet.native.wq5toy4mf1.js",
-    "./_framework/dotnet.runtime.js": "./_framework/dotnet.runtime.a6jcqbs390.js",
-    "./_framework/dotnet.js": "./_framework/dotnet.usxjsywfej.js"
+    "./_framework/blazor.webassembly.js": "./_framework/blazor.webassembly.w3qd1tpl0e.js",
+    "./_framework/dotnet.js": "./_framework/dotnet.0e27rjqv3w.js",
+    "./_framework/dotnet.native.js": "./_framework/dotnet.native.020r7jjcr5.js",
+    "./_framework/dotnet.runtime.js": "./_framework/dotnet.runtime.zbexyp8zrs.js"
   },
   "scopes": {},
   "integrity": {
-    "./_framework/blazor.webassembly.66stpp682q.js": "sha256-3lCWrko3zwspV40aQhs2S/IMkRSarnHRKIdkHhuXIBA=",
-    "./_framework/blazor.webassembly.js": "sha256-3lCWrko3zwspV40aQhs2S/IMkRSarnHRKIdkHhuXIBA=",
-    "./_framework/dotnet.js": "sha256-3lVXJRnaINtKMTK4p4Uj64VxY41J1zjsjBnVftpVeK4=",
-    "./_framework/dotnet.native.js": "sha256-WGKuaVZHNCQJJ5NcB4x6tMiZNhZr3E2SuuVqqOsDFnI=",
-    "./_framework/dotnet.native.wq5toy4mf1.js": "sha256-WGKuaVZHNCQJJ5NcB4x6tMiZNhZr3E2SuuVqqOsDFnI=",
-    "./_framework/dotnet.runtime.a6jcqbs390.js": "sha256-7i3usfTrnzC/9qWO4si5Bw4w7D9fUSnSBdhQ47blX2M=",
-    "./_framework/dotnet.runtime.js": "sha256-7i3usfTrnzC/9qWO4si5Bw4w7D9fUSnSBdhQ47blX2M=",
-    "./_framework/dotnet.usxjsywfej.js": "sha256-3lVXJRnaINtKMTK4p4Uj64VxY41J1zjsjBnVftpVeK4="
+    "./_framework/blazor.webassembly.js": "sha256-lDXsDYFgm62F+YUvxES7IOTCXYpiHpU3uR45YdC6mq4=",
+    "./_framework/blazor.webassembly.w3qd1tpl0e.js": "sha256-lDXsDYFgm62F+YUvxES7IOTCXYpiHpU3uR45YdC6mq4=",
+    "./_framework/dotnet.0e27rjqv3w.js": "sha256-2I5Xut7+t4QnsOtJLemhcl97E5lG1IlUow1JmqmrLN4=",
+    "./_framework/dotnet.js": "sha256-2I5Xut7+t4QnsOtJLemhcl97E5lG1IlUow1JmqmrLN4=",
+    "./_framework/dotnet.native.020r7jjcr5.js": "sha256-CPyIwqI4Wkl/JrAL4KMmwosT7pskNJovtURZ03tQS1U=",
+    "./_framework/dotnet.native.js": "sha256-CPyIwqI4Wkl/JrAL4KMmwosT7pskNJovtURZ03tQS1U=",
+    "./_framework/dotnet.runtime.js": "sha256-MZMguyke9CroSQl+L/SHIGFkPTD+LtYGXkXjAvwWx40=",
+    "./_framework/dotnet.runtime.zbexyp8zrs.js": "sha256-MZMguyke9CroSQl+L/SHIGFkPTD+LtYGXkXjAvwWx40="
   }
 }</script>
-    <script>
-        // If redirected from 404.html, restore path BEFORE Blazor starts
-        (function () {
-            const params = new URLSearchParams(window.location.search);
-            const path = params.get('path');
-            if (path) {
-                const newUrl = window.location.origin + '/ConsentWebApp' + decodeURIComponent(path);
-                window.history.replaceState(null, '', newUrl);
-            }
-        })();
-    </script>
+   
 </head>
 
 <body>
@@ -56,10 +47,21 @@
     <div id="blazor-error-ui">
         An unhandled error has occurred.
         <a href="." class="reload">Reload</a>
-        <span class="dismiss">ðŸ—™</span>
+        <span class="dismiss">🗙</span>
     </div>
-    <script src="_framework/blazor.webassembly.js"></script>
+    <script src="_framework/blazor.webassembly.w3qd1tpl0e.js"></script>
     <script src="_content/Radzen.Blazor/Radzen.Blazor.js"></script>
+    <script>
+        // If redirected from 404.html, restore path BEFORE Blazor starts
+        (function () {
+            const params = new URLSearchParams(window.location.search);
+            const path = params.get('path');
+            if (path) {
+                const newUrl = window.location.origin + '/ConsentWebApp' + decodeURIComponent(path);
+                window.history.replaceState(null, '', newUrl);
+            }
+        })();
+    </script>
 </body>
 
 </html>
