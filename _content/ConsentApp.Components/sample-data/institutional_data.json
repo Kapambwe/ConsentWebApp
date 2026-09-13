@@ -2,7 +2,7 @@
   "Portfolio": {
     "InstitutionId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
     "InstitutionName": "Main Street Bank Zambia",
-    "TotalUnderwrittenValue": 24500000.00,
+    "TotalUnderwrittenValue": 24500000.0,
     "AtRiskCount": 8,
     "ActiveSubjects": 185,
     "AveragePortfolioHealth": 89.2

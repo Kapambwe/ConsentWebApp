@@ -2,7 +2,7 @@
   "Portfolio": {
     "InstitutionId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
     "InstitutionName": "Main Street Bank Zambia",
-    "TotalUnderwrittenValue": 24500000.00,
+    "TotalUnderwrittenValue": 24500000.0,
     "AtRiskCount": 8,
     "ActiveSubjects": 185,
     "AveragePortfolioHealth": 89.2
@@ -18,8 +18,8 @@
       "ExpiresOn": "2027-04-05T10:00:00Z"
     },
     {
-      "RequestId": "j2k3l4m5-n6o7-4p8q-r9s0-t1u2v3w4x5y6",
-      "SubjectId": "g7h8i9j0-k1l2-4m3n-o4p5-q6r7s8t9u0v1",
+      "RequestId": "5421d026-837b-3db0-5a04-cae874a27fff",
+      "SubjectId": "7c40f214-a9fd-f5e6-38a5-68fa2f801609",
       "SubjectName": "Kabwe Onion Growers",
       "PurposeTemplate": "Warehouse Receipt Financing",
       "Status": 1,
@@ -27,8 +27,8 @@
       "ExpiresOn": "2026-10-14T08:00:00Z"
     },
     {
-      "RequestId": "r1a2b3c4-d5e6-4f7g-8h9i-0j1k2l3m4n5o",
-      "SubjectId": "s1t2u3v4-w5x6-4y7z-8a9b-0c1d2e3f4g5h",
+      "RequestId": "cefdbc63-fe52-2b31-d739-89bbc0e08496",
+      "SubjectId": "2cfb3404-9416-baa8-7fe9-76d1261135c0",
       "SubjectName": "Mansa Manganese Miners Co-op",
       "PurposeTemplate": "Mineral Export Financing",
       "Status": 1,
@@ -36,8 +36,8 @@
       "ExpiresOn": "2026-10-18T14:30:00Z"
     },
     {
-      "RequestId": "i1n2f3r4-a5s6-4t7r-u8c9-t1u2v3w4x5y6",
-      "SubjectId": "m1a2n3u4-f5a6-4c7t-u8r9-i1n2g3s4t5r6",
+      "RequestId": "d6d965c6-ba83-ddbc-d6ea-679544894975",
+      "SubjectId": "1fa04d77-390c-d6f4-a462-15f5bfbeed83",
       "SubjectName": "Lusaka Plastic Manufacturers",
       "PurposeTemplate": "Working Capital Extension",
       "Status": 0,
@@ -45,8 +45,8 @@
       "ExpiresOn": "2027-04-20T09:15:00Z"
     },
     {
-      "RequestId": "l1o2g3i4-s5t6-4i7c-s8m9-o0p1q2r3s4t5",
-      "SubjectId": "c1o2p3p4-e5r6-4b7e-l8t9-f1r2e3i4g5h6",
+      "RequestId": "a515dfad-2e88-ddbe-43a8-836a8a278619",
+      "SubjectId": "18243d00-8c40-7edd-4161-233dc839c905",
       "SubjectName": "Copperbelt Freight Services",
       "PurposeTemplate": "Fleet Asset Finance",
       "Status": 1,
@@ -54,8 +54,8 @@
       "ExpiresOn": "2028-04-10T11:00:00Z"
     },
     {
-      "RequestId": "m1k2u3s4-h5i6-4c7o-p8p9-e1r1f1i1n1a1",
-      "SubjectId": "m1k2u3s4-h5i6-4c7o-p8p9-e1r1f1i1n1a2",
+      "RequestId": "159b1743-6df0-beb0-f528-7f0f08c1f833",
+      "SubjectId": "bc0a5298-a06f-09d0-5955-274bdbc047fa",
       "SubjectName": "Mkushi Copper Mines",
       "PurposeTemplate": "Equipment Leasing",
       "Status": 2,
@@ -63,8 +63,8 @@
       "ExpiresOn": "2026-06-25T16:00:00Z"
     },
     {
-      "RequestId": "c1h2o3m4-a5m6-4a7i-z8e9-g1r1o1w1e1r1",
-      "SubjectId": "c1h2o3m4-a5m6-4a7i-z8e9-g1r1o1w1e1r2",
+      "RequestId": "96d9fcd0-6a0d-0124-189c-7d1f5b1611ea",
+      "SubjectId": "97846640-3a58-a6c8-4a59-f2f5bf635383",
       "SubjectName": "Choma Maize Growers",
       "PurposeTemplate": "Input Subsidy Verification",
       "Status": 1,
@@ -74,7 +74,7 @@
   ],
   "Opportunities": [
     {
-      "SubjectId": "g7h8i9j0-k1l2-4m3n-o4p5-q6r7s8t9u0v1",
+      "SubjectId": "fd5f2ef7-cfbb-9c2e-6f00-26d2a5584592",
       "BusinessName": "Kabwe Onion Growers",
       "Sector": "Agriculture",
       "DisciplineScore": 91.2,
@@ -86,7 +86,7 @@
       "LastMonthGrowth": 8.1
     },
     {
-      "SubjectId": "k1l2m3n4-o5p6-4q7r-s8t9-u0v1w2x3y4z5",
+      "SubjectId": "1d2e3cf8-5074-bfdb-5b2b-b02d98f38014",
       "BusinessName": "Ndola Cooking Oil Press",
       "Sector": "Agro-Processing",
       "DisciplineScore": 81.5,
@@ -98,7 +98,7 @@
       "LastMonthGrowth": 6.8
     },
     {
-      "SubjectId": "s1t2u3v4-w5x6-4y7z-8a9b-0c1d2e3f4g5h",
+      "SubjectId": "eceeace0-4b4e-2867-458c-85478d87d27f",
       "BusinessName": "Mansa Manganese Miners Co-op",
       "Sector": "Mining",
       "DisciplineScore": 74.8,
@@ -110,7 +110,7 @@
       "LastMonthGrowth": 12.4
     },
     {
-      "SubjectId": "m1a2n3u4-f5a6-4c7t-u8r9-i1n2g3s4t5r6",
+      "SubjectId": "742a927d-2261-248a-9e87-c3724654a86b",
       "BusinessName": "Lusaka Plastic Manufacturers",
       "Sector": "Manufacturing",
       "DisciplineScore": 88.3,
@@ -122,7 +122,7 @@
       "LastMonthGrowth": 5.2
     },
     {
-      "SubjectId": "c1o2p3p4-e5r6-4b7e-l8t9-f1r2e3i4g5h6",
+      "SubjectId": "e4b5a5d4-7f67-07ef-2055-a4b27083095e",
       "BusinessName": "Copperbelt Freight Services",
       "Sector": "Logistics",
       "DisciplineScore": 92.1,
@@ -134,7 +134,7 @@
       "LastMonthGrowth": 9.5
     },
     {
-      "SubjectId": "m1k2u3s4-h5i6-4c7o-p8p9-e1r1f1i1n1a2",
+      "SubjectId": "e2a095b8-5986-2bd6-4d61-7790f8f3cba5",
       "BusinessName": "Mkushi Copper Mines",
       "Sector": "Mining",
       "DisciplineScore": 68.5,
@@ -146,7 +146,7 @@
       "LastMonthGrowth": -2.1
     },
     {
-      "SubjectId": "c1h2o3m4-a5m6-4a7i-z8e9-g1r1o1w1e1r2",
+      "SubjectId": "a97ce877-72f4-5dce-8b35-73268c8df101",
       "BusinessName": "Choma Maize Growers",
       "Sector": "Agriculture",
       "DisciplineScore": 85.0,
@@ -158,7 +158,7 @@
       "LastMonthGrowth": 15.0
     },
     {
-      "SubjectId": "l1u2f3w4-a5n6-4y7a-m8a9-e1m1e1r1a1l1",
+      "SubjectId": "a5714cb1-38f6-a9dc-c573-f21fe974dcbc",
       "BusinessName": "Lufwanyama Emerald Artisans",
       "Sector": "Mining",
       "DisciplineScore": 79.4,
@@ -652,8 +652,8 @@
   ],
   "WarehouseReceipts": [
     {
-      "ReceiptId": "r1e2c3e4-i5p6-4t7a-l8o9-g1o2l3d4r5e6",
-      "SubjectId": "g7h8i9j0-k1l2-4m3n-o4p5-q6r7s8t9u0v1",
+      "ReceiptId": "5059e5fd-252f-e0a8-9ce2-b2e8c6c72067",
+      "SubjectId": "12dfb442-585a-c900-3dc2-e5c32c07ce38",
       "WarehouseName": "Zambia Agricultural Storage - Kabwe",
       "CommodityType": "Onions",
       "Quantity": 50.0,
@@ -665,8 +665,8 @@
       "VerificationHash": "sha256:772w..."
     },
     {
-      "ReceiptId": "r9o8c7k6-f5i4-4v3e-l2u1-s0a1l2t3r4y5",
-      "SubjectId": "k1l2m3n4-o5p6-4q7r-s8t9-u0v1w2x3y4z5",
+      "ReceiptId": "7ec5e612-460d-172c-4c85-021c4b34bf08",
+      "SubjectId": "9d810c42-4dee-a428-3f35-8192cd6c5211",
       "WarehouseName": "Indeni Storage North",
       "CommodityType": "Sunflower Oil",
       "Quantity": 12000.0,
@@ -678,8 +678,8 @@
       "VerificationHash": "sha256:442o..."
     },
     {
-      "ReceiptId": "r1m2a3i4-z5e6-4g7r-o8w9-e1r1o1w1e1r1",
-      "SubjectId": "c1h2o3m4-a5m6-4a7i-z8e9-g1r1o1w1e1r2",
+      "ReceiptId": "4da3ef07-c82e-5f39-2b26-4e506f24fdbf",
+      "SubjectId": "c2e6c230-6b6b-16ad-085f-19f135d4fe07",
       "WarehouseName": "FRA Chipata Main",
       "CommodityType": "White Maize",
       "Quantity": 200.0,
@@ -693,7 +693,7 @@
   ],
   "VerificationHistory": [
     {
-      "Id": "j0k1l2m3-n4o5-4p6q-r7s8-t9u0v1w2x3y4",
+      "Id": "e8660d5b-c432-3311-5889-73c899931c53",
       "Timestamp": "2026-04-14T08:00:00Z",
       "SourceSystem": "ZRA",
       "DataPoint": "Monthly VAT Filed",
@@ -701,7 +701,7 @@
       "HashSignature": "sha256:882x..."
     },
     {
-      "Id": "m1a2n3s4-a5m6-4a7n-g8a9-n1e1s1e1l1e1",
+      "Id": "c796cbb4-929c-86a0-d650-fa3cdbd4dd3f",
       "Timestamp": "2026-04-19T11:20:00Z",
       "SourceSystem": "Ministry of Mines",
       "DataPoint": "Mining License Active",
@@ -709,7 +709,7 @@
       "HashSignature": "sha256:bb2m..."
     },
     {
-      "Id": "p1l2a3s4-t5i6-4c7m-a8n9-u1f1a1c1t1u1",
+      "Id": "2e6570ef-ba04-2f0e-f45a-ad3b7d114949",
       "Timestamp": "2026-04-21T09:00:00Z",
       "SourceSystem": "PACRA",
       "DataPoint": "Annual Returns Filed",
