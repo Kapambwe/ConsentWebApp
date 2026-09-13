@@ -3,24 +3,25 @@
     {
       "PurposeTemplate": "Equipment Finance Review",
       "SubjectName": "Kitwe Shoe Makers",
-      "Id": "REQ-ZM-SB-001",
+      "RequestId": "a9325a8a-aff0-7853-f9c3-39d9cb957a14",
+      "SubjectId": "623e7c33-71ba-0129-9ba2-0e2ec2c5c79f",
       "Status": "Pending"
     },
     {
       "PurposeTemplate": "Working Capital Review",
       "SubjectName": "Mufulira Mining Services",
-      "Id": "REQ-ZM-SB-002",
+      "RequestId": "86c54d8c-a46e-a49d-bfaa-1a2017b0f393",
+      "SubjectId": "bf99ac6c-5162-b82c-aeca-84b4de98e57a",
       "Status": "Granted"
     }
   ],
   "VerificationHistory": [
     {
-      "Id": "PROOF-ZM-001",
-      "VerifiedAt": "2026-04-25T17:49:55.6315663+02:00",
-      "DocumentType": "Tax Clearance",
-      "Verified": true,
-      "SubjectName": "Stanbic Bank Zambia Business Desk",
-      "VerifiedBy": "ZRA"
+      "Id": "bd416c36-6087-7ca4-7c96-4bbc38bc7ddb",
+      "Timestamp": "2026-09-10T08:50:16.9751696+02:00",
+      "DataPoint": "Tax Clearance",
+      "VerificationStatus": "Verified",
+      "SourceSystem": "ZRA"
     }
   ],
   "Opportunities": [
@@ -28,7 +29,7 @@
       "DisciplineScore": 84,
       "TaxComplianceStatus": "Compliant",
       "LastMonthGrowth": 12,
-      "Id": "OPP-ZM-001",
+      "SubjectId": "b448bf15-73ce-c7bf-6f7c-2e77de6fc5cd",
       "ActiveContractCount": 3,
       "BusinessName": "Stanbic Bank Zambia Business Desk",
       "TaskCompletionRate": 91,

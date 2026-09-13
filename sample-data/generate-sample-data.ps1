@@ -17,6 +17,19 @@ function Normalize-Key {
     return ($Value.Trim().ToLowerInvariant() -replace '[^a-z0-9]+', '-').Trim('-')
 }
 
+function ConvertTo-StableGuid {
+    param([Parameter(Mandatory)] [string]$Value)
+
+    $md5 = [System.Security.Cryptography.MD5]::Create()
+    try {
+        $bytes = $md5.ComputeHash([System.Text.Encoding]::UTF8.GetBytes($Value))
+        return [Guid]::new($bytes)
+    }
+    finally {
+        $md5.Dispose()
+    }
+}
+
 function Get-Context {
     param(
         [string]$Country,
@@ -1182,12 +1195,24 @@ function New-SamplePayload {
             institution = $institutionName
         }
         'institutional_data.json' = @{
-            Requests = $Context.Requests
+            Requests = @(
+                $Context.Requests | ForEach-Object {
+                    @{
+                        RequestId = ConvertTo-StableGuid "request:$($Context.CountryCode):$($institutionName):$($_.Id)"
+                        SubjectId = ConvertTo-StableGuid "subject:$($Context.CountryCode):$($institutionName):$($_.SubjectName)"
+                        SubjectName = $_.SubjectName
+                        PurposeTemplate = $_.PurposeTemplate
+                        Status = $_.Status
+                        RequestedOn = (Get-Date).AddDays(-10).ToString('o')
+                        ExpiresOn = (Get-Date).AddDays(180).ToString('o')
+                    }
+                }
+            )
             Opportunities = @(
-                @{ Id = "OPP-$($Context.CountryCode)-001"; BusinessName = $Context.BusinessName; DisciplineScore = 84; VerifiedRevenue = 185000; TaxComplianceStatus = 'Compliant'; TaskCompletionRate = 91; LastMonthGrowth = 12; ActiveContractCount = 3; TotalAssetValue = 420000 }
+                @{ SubjectId = ConvertTo-StableGuid "opportunity:$($Context.CountryCode):$($institutionName):001"; BusinessName = $Context.BusinessName; DisciplineScore = 84; VerifiedRevenue = 185000; TaxComplianceStatus = 'Compliant'; TaskCompletionRate = 91; LastMonthGrowth = 12; ActiveContractCount = 3; TotalAssetValue = 420000 }
             )
             VerificationHistory = @(
-                @{ Id = "PROOF-$($Context.CountryCode)-001"; SubjectName = $Context.BusinessName; DocumentType = 'Tax Clearance'; Verified = $true; VerifiedBy = $Context.ProofIssuer; VerifiedAt = (Get-Date).AddDays(-3).ToString('o') }
+                @{ Id = ConvertTo-StableGuid "verification:$($Context.CountryCode):$($institutionName):001"; Timestamp = (Get-Date).AddDays(-3).ToString('o'); SourceSystem = $Context.ProofIssuer; DataPoint = 'Tax Clearance'; VerificationStatus = 'Verified' }
             )
         }
         'small_businesses.json' = @{
