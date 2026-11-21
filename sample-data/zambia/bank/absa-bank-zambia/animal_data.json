@@ -32,9 +32,36 @@
       "totalCount": 35,
       "youngStock": 7,
       "breed": "Friesian",
-      "species": "Dairy Cattle",
+      "species": "Cattle",
       "averageWeight": 550,
       "adults": 28
+    },
+    {
+      "totalCount": 24,
+      "youngStock": 8,
+      "breed": "Large White cross",
+      "species": "Pigs",
+      "averageWeight": 72,
+      "adults": 16,
+      "housingType": "Raised ventilated pens"
+    },
+    {
+      "totalCount": 32,
+      "youngStock": 11,
+      "breed": "Boer cross",
+      "species": "Goats",
+      "averageWeight": 41,
+      "adults": 21,
+      "housingType": "Semi-intensive browsing"
+    },
+    {
+      "totalCount": 240,
+      "youngStock": 60,
+      "breed": "Broiler and village chicken mix",
+      "species": "Poultry",
+      "averageWeight": 2.1,
+      "adults": 180,
+      "housingType": "Deep-litter house and free-range yard"
     }
   ]
 }

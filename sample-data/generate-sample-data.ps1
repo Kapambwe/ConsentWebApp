@@ -1236,7 +1236,10 @@ function New-SamplePayload {
         }
         'animal_data.json' = @{
             animalGroups = @(
-                @{ species = 'Dairy Cattle'; breed = 'Friesian'; totalCount = 35; adults = 28; youngStock = 7; averageWeight = 550 }
+                @{ species = 'Cattle'; breed = 'Friesian'; totalCount = 35; adults = 28; youngStock = 7; averageWeight = 550; housingType = 'Pasture and dairy shelter' }
+                @{ species = 'Pigs'; breed = 'Large White cross'; totalCount = 24; adults = 16; youngStock = 8; averageWeight = 72; housingType = 'Raised ventilated pens' }
+                @{ species = 'Goats'; breed = 'Boer cross'; totalCount = 32; adults = 21; youngStock = 11; averageWeight = 41; housingType = 'Semi-intensive browsing' }
+                @{ species = 'Poultry'; breed = 'Broiler and village chicken mix'; totalCount = 240; adults = 180; youngStock = 60; averageWeight = 2.1; housingType = 'Deep-litter house and free-range yard' }
             )
             breedingRecords = @(
                 @{ animalId = 'C001'; breedingDate = (Get-Date).AddDays(-30).ToString('o'); expectedBirthDate = (Get-Date).AddDays(210).ToString('o'); sireInfo = 'Premium Bull'; pregnancyStatus = 'Confirmed' }
